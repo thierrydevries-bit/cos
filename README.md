@@ -11,7 +11,7 @@ Een Nederlandstalige chief of staff en personal assistant voor Claude, als plug-
 In claude.ai of de Claude-app: **Customize > Plugins > Add > Add marketplace**, en vul in:
 
 ```
-thierrydevries-bit/chief-of-staff-and-stuff
+thierrydevries-bit/present
 ```
 
 Kies daarna **Chief of Staff...and stuff** en klik op **Add**. Zet **Sync automatically** aan, dan krijg je nieuwe versies vanzelf.
@@ -19,7 +19,7 @@ Kies daarna **Chief of Staff...and stuff** en klik op **Add**. Zet **Sync automa
 In Claude Code:
 
 ```
-claude plugin marketplace add thierrydevries-bit/chief-of-staff-and-stuff
+claude plugin marketplace add thierrydevries-bit/present
 claude plugin install chief-of-staff-and-stuff@thierrydevries
 ```
 

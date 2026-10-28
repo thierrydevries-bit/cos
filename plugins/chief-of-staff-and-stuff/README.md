@@ -19,10 +19,10 @@ Een chief of staff en personal assistant in je eigen Claude, zakelijk en privé.
 
 ## Installeren
 
-In claude.ai of de Claude-app: **Customize > Plugins > Add > Add marketplace**, vul `thierrydevries-bit/chief-of-staff-and-stuff` in en kies deze plug-in. In Claude Code:
+In claude.ai of de Claude-app: **Customize > Plugins > Add > Add marketplace**, vul `thierrydevries-bit/present` in en kies deze plug-in. In Claude Code:
 
 ```
-claude plugin marketplace add thierrydevries-bit/chief-of-staff-and-stuff
+claude plugin marketplace add thierrydevries-bit/present
 claude plugin install chief-of-staff-and-stuff@thierrydevries
 ```
 
