@@ -1,6 +1,6 @@
 # Weekreview (vrijdag, alleen tekst)
 
-Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de gebruiker in vijf minuten leest, in drie blokken uit `werkwijze.md`: **Leeg**, **Bijwerken**, **Vooruit**, plus een kort slotblok **Systeem**. Jij doet het werk vooraf, de gebruiker beslist alleen.
+Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de gebruiker in vijf minuten leest, in drie blokken uit `werkwijze.md`: **Leeg**, **Bijwerken**, **Vooruit**, plus een kort slotblok **Systeem**, een **Terugblik** en, om de week, het verbeterblok **Beter**. Jij doet het werk vooraf, de gebruiker beslist alleen.
 
 ## Stappen (jij, vooraf)
 
@@ -22,12 +22,18 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 
 **Systeem**
 11. Lees de Briefinglog-entries van deze week en verzamel de regelvoorstellen uit *Geleerde regel* (zie `leren.md`).
-12. **Kies de vragen.** Hooguit zeven beslisvragen in de hele review (voorstellen, ja/nee-vragen en regelvoorstellen samen). Eerst wat iemand anders raakt, dan het oudste. De rest schuift een week door.
-13. Schrijf de review in het format hieronder. Hooguit drie concepten in deze run.
-14. Log hem in het Briefinglog met Soort "Weekreview" en als titel `⚡ Weekreview | vrij [DD-MM]` (zie de naamgeving in SKILL.md).
-15. Lever hem als antwoord van de run, met de titel als eerste regel en de link naar de Briefinglog-pagina.
+12. **Verbeterblok** (alleen in weken met een even weeknummer). Hooguit drie voorstellen, één per soort, elk met ja of nee te beantwoorden:
+    - **a. Een nieuwe routine:** iets uit "Later" in `inrichten.md` dat nog niet aan staat (hoofd leegmaken, startvulling, schrijfstijl, seintje, avondafsluiting), de routine Opruimen (`opruimen.md`) of de module Fit & mindful (`modules.md`).
+    - **b. Een tip om Claude beter in te richten:** een project in Claude maken voor een lopend project, het geheugen van Claude aanzetten, een connector toevoegen voor een tool die de gebruiker noemde, of de chief of staff een project laten plannen ("plan dit project").
+    - **c. Een aanpassing op basis van hoe de gebruiker reageerde:** een patroon uit het Briefinglog (punten die steeds blijven liggen, concepten die steeds herschreven worden) dat nog niet onder "Wat ik wil leren" staat. Zie `leren.md`.
 
-## Format (hooguit ongeveer 450 woorden)
+    Kijk eerst in de weekreviews van de laatste acht weken: een voorstel waar de gebruiker nee op zei, doe je acht weken niet opnieuw. Zegt de gebruiker ja, voer het uit of zet het in de Instellingen (Routines of Modules) en zeg in één regel wat er staat. Een tip over Claude zelf leg je uit met de Engelse knopnamen, bijvoorbeeld: klik op **Settings**, dan **Capabilities**. Zet de voorstellen en de antwoorden in de Briefinglog-pagina van deze weekreview. In de lichte opzet: hooguit één voorstel.
+13. **Kies de vragen.** Hooguit zeven beslisvragen in de hele review (voorstellen, ja/nee-vragen, regelvoorstellen en het verbeterblok samen). Eerst wat iemand anders raakt, dan het oudste. De rest schuift een week door. De terugblikvraag telt niet mee.
+14. Schrijf de review in het format hieronder. Hooguit drie concepten in deze run.
+15. Log hem in het Briefinglog met Soort "Weekreview" en als titel `⚡ Weekreview | vrij [DD-MM]` (zie de naamgeving in SKILL.md).
+16. Lever hem als antwoord van de run, met de titel als eerste regel en de link naar de Briefinglog-pagina.
+
+## Format (hooguit ongeveer 500 woorden)
 
 ```
 **Week [nummer], [datum maandag] tot [datum vrijdag]**
@@ -56,13 +62,24 @@ Nog briefjes, appjes, spraakmemo's of post die nergens staan? En zit er nog iets
 ## Systeem
 **Wat ik wil leren:** [hooguit 3 regelvoorstellen met bewijs. "Akkoord?"]
 **Stand:** [N] van 10 werkdagen op rij zonder aanpassing.
+
+## Terugblik
+Hoe kijk je terug op deze week? Eén zin is genoeg.
+[Alleen met Fit & mindful, één regel: "Deze week [N] keer sport in je agenda en [M] rustdagen. Hoe was dat?"]
+
+## Beter
+[Alleen om de week. Hooguit drie regels, elk eindigend op "Ja of nee?"]
+1. [Routine: ...]
+2. [Claude: ...]
+3. [Aanpassing: ...]
 ```
 
-Een regel zonder inhoud laat je weg. Het blok Leeg staat er altijd.
+Een regel zonder inhoud laat je weg. Het blok Leeg en de terugblikvraag staan er altijd.
 
 ## Regels
 
 - Geen complimenten, geen samenvatting van wat de gebruiker zelf al weet.
 - Vraagt de review om een besluit, stel dan een vraag die met ja of nee te beantwoorden is. Antwoordt de gebruiker, verwerk het meteen volgens `werkwijze.md` (een ja is het woord van de gebruiker).
 - Je zet niets op Klaar, Laten vallen of Gestopt zonder het woord van de gebruiker.
+- Het antwoord op de terugblikvraag zet je in één zin in de Briefinglog-pagina, in de woorden van de gebruiker. Gaat het over gezondheid of hoe iemand zich voelt, dan zet je niets in het geheugen.
 - In een week waarvan het weeknummer deelbaar is door 4: één vraag onder Vooruit, "Klopt je focus nog?" In de eerste weekreview van januari, april, juli en oktober in plaats daarvan: "Waar wil je over een à twee jaar staan, en past je focus daarbij?" Pas de Focus alleen aan op het woord van de gebruiker.

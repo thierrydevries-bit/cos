@@ -4,11 +4,13 @@ Een Nederlandstalige chief of staff en personal assistant voor Claude, als plug-
 
 **Kosten:** de plug-in is gratis. Voor de dagelijkse briefing en de weekreview (geplande taken) heb je een betaald Claude-plan nodig, zoals Pro.
 
-**Koppelingen:** mail en agenda via Google (Gmail en Google Agenda) of Microsoft 365. Microsoft 365 werkt alleen met een zakelijk account, en de beheerder van dat account geeft eenmalig akkoord; een @outlook.com- of @hotmail.com-adres werkt niet. Kies je Google Drive als geheugen, zet dan onder **Customize > Connectors** ook Google Docs en Google Sheets aan.
+**Plug-in, skills en connectoren:** de plug-in is het pakket, de skills zijn wat hij kan, de connectoren zijn waar hij bij mag. Hij leert van je reacties en je kunt hem uitbreiden.
+
+**Connectoren:** mail en agenda via Google (Gmail en Google Calendar) of Microsoft 365. Microsoft 365 werkt alleen met een zakelijk account, en de beheerder van dat account geeft eenmalig akkoord; een @outlook.com- of @hotmail.com-adres werkt niet. Bestanden via Google Drive of Dropbox, geheugen in Notion. Kies je Google Drive als geheugen, klik dan op **Customize**, dan **Connectors**, en zet ook **Google Docs** en **Google Sheets** aan.
 
 ## Installeren
 
-In claude.ai of de Claude-app: **Customize > Plugins > Add > Add marketplace**, en vul in:
+In claude.ai of de Claude-app: klik op **Customize**, dan **Plugins**, **Add** en **Add marketplace**. Kies **Add from a repository** en vul in:
 
 ```
 thierrydevries-bit/present

@@ -96,7 +96,7 @@ Daarna: een item in Projecten met de gewenste uitkomst, de volgende actie in Toe
 
 ## Hoofd leegmaken
 
-Een keer bij de start (zie `inrichten.md`) en daarna als de gebruiker zegt "hoofd leegmaken" of "mind sweep". Loop in drie berichten deze geheugensteuntjes langs en zet alles wat de gebruiker noemt in Toezeggingen met Status Inbox, zonder te verhelderen:
+Als het verbeterblok van de weekreview het aanbiedt en de gebruiker ja zegt (zie `weekreview.md`), en als de gebruiker zegt "hoofd leegmaken" of "mind sweep". Loop in drie berichten deze geheugensteuntjes langs en zet alles wat de gebruiker noemt in Toezeggingen met Status Inbox, zonder te verhelderen:
 
 - **Werk:** beloofd aan klanten of collega's, offertes, facturen, projecten die stilliggen, mensen die je nog moet bellen of mailen, iets wat je wilt leren.
 - **Thuis:** huis en reparaties, auto en fiets, papieren en verzekeringen, abonnementen, verjaardagen en feestdagen, school en clubs.

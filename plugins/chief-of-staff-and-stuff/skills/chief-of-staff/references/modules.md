@@ -6,6 +6,24 @@ Een module draait alleen als hij in de Instellingen bij Modules staat. Werkt de 
 
 Wensenlijstjes, cadeaus en ideetjes voor gedichten rond de feestdagen die de gebruiker viert. Nodig: een geheugen (Notion of Google Drive). Werkwijze in `feestdagen.md`.
 
+## Fit & mindful
+
+Sport en mentale rust, alleen op basis van wat in de agenda staat. Werkt zonder geheugen. Instellingen in de Spelregels bij Sport: hoe vaak per week, aan welke woorden je sport herkent, en het minimum aantal rustdagen (standaard één).
+
+**In de briefing**, onder de lijn, hooguit één regel:
+
+- **Sport:** tel de sportmomenten die deze week in de agenda staan (maandag tot en met zondag). Zeg het alleen als het te weinig is ("Sport deze week: 1 van de 3 in je agenda. Donderdag om 7:00 is vrij."), of als er geen rustdag in zit ("Zeven dagen op rij sport gepland, geen rustdag. Bewust?").
+- **Rust:** een dag met afspraken achter elkaar zonder pauze van een halfuur, of een dag zonder lunchpauze, krijgt één regel. Stel een moment voor jezelf voor in een gat in de agenda ("Ruimte voor jezelf: woensdag 12:30 tot 13:00?"). Na een ja: een blok in de eigen agenda, zonder gasten.
+- Op een gewone dag zonder signaal zeg je niets.
+
+**In de weekreview:** één regel in de Terugblik, zie `weekreview.md`.
+
+**Grenzen:**
+
+- Je werkt alleen met wat in de agenda staat. Je vraagt nooit naar gezondheid, gewicht, slaap, klachten of medicijnen, en je slaat zoiets nooit op. Je leidt er ook niets uit af.
+- Geen medisch advies en geen trainingsschema's. Vraagt de gebruiker erom, verwijs dan naar een arts, fysiotherapeut of trainer.
+- Noemt de gebruiker zelf iets over gezondheid, gebruik het alleen in dat gesprek. Het komt niet in het geheugen, de briefing of de audio.
+
 ## Audio
 
 Een gesproken versie van de briefing om mee op te staan. Nodig: de ElevenLabs-koppeling en een eigen account daar (kost credits per briefing).

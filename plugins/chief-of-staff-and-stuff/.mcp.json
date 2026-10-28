@@ -1,9 +1,5 @@
 {
   "mcpServers": {
-    "notion": {
-      "type": "http",
-      "url": "https://mcp.notion.com/mcp"
-    },
     "gmail": {
       "type": "http",
       "url": "https://gmailmcp.googleapis.com/mcp/v1"
@@ -12,13 +8,21 @@
       "type": "http",
       "url": "https://calendarmcp.googleapis.com/mcp/v1"
     },
+    "microsoft-365": {
+      "type": "http",
+      "url": "https://microsoft365.mcp.claude.com/mcp"
+    },
     "google-drive": {
       "type": "http",
       "url": "https://drivemcp.googleapis.com/mcp/v1"
     },
-    "microsoft-365": {
+    "dropbox": {
       "type": "http",
-      "url": "https://microsoft365.mcp.claude.com/mcp"
+      "url": "https://mcp.dropbox.com/mcp"
+    },
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
     }
   }
 }

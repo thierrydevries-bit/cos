@@ -44,7 +44,7 @@ Voor wie snel wil beginnen. Er is geen Notion en geen Drive nodig.
 - **Leren:** een regel die de gebruiker goedkeurt, geef je als één zin om zelf in de opdracht van de geplande taken te plakken. Zonder plakken geldt hij niet.
 - **Ritme:** raad seintjes en de avondafsluiting af. Zonder log weet je niet wat je al meldde.
 - **Feestdagen:** werkt niet zonder geheugen. Zeg dat, en bied aan het geheugen in te richten.
-- **Uitbreiden:** zegt de gebruiker "richt mijn geheugen in", volg dan `inrichten.md` vanaf stap 3, met Notion of Google Drive.
+- **Uitbreiden:** zegt de gebruiker "richt mijn geheugen in", volg dan `inrichten.md` vanaf stap 6, met Notion of Google Drive.
 
 ## Spelregels
 
@@ -79,7 +79,10 @@ Schrijfstijl persoonlijk: [één zin, of: zie voorbeelden hieronder]
 Na akkoord:      blok in eigen agenda zetten, zonder gasten
 Elke week:       [optioneel: vaste dingen die de weekreview moet nalopen, bijv. bonnetjes, de schoolapp, het salesbord]
 Vaardigheden:    [skills die de gebruiker al heeft, per rubriek; bijv. Werk: van-gesprek-naar-acties]
-Modules:         [geen / feestdagen / audio / gespreksopnames / boekhouding / borden]
+Modules:         [geen / feestdagen / fit & mindful / audio / gespreksopnames / boekhouding / borden]
+Routines:        [geen / opruimen (maandelijks) / ... ; alleen na een ja in het verbeterblok]
+Opruimen:        [uit / aan; plekken: Google Drive, Dropbox, per project; Bureaublad en Downloads alleen in Cowork]
+Sport:           [alleen met Fit & mindful: keer per week, woorden in de agenda, minimaal aantal rustdagen]
 Toezeggingen:    [link]
 Projecten:       [link]
 Briefinglog:     [link]

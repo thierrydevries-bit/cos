@@ -49,6 +49,7 @@ Eén scherm, hooguit ongeveer 220 woorden.
 [Eén regel: "Nog N open in het register." of "Ontbrak vandaag: [bron]."]
 [Eén regel als er gesprekken zijn verwerkt: "Gisteren N gesprekken verwerkt, M nieuwe toezeggingen ter bevestiging."]
 [Eén regel als er iets van de parkeerplaats terugkomt: "Van de parkeerplaats: ..." (hooguit 2 items)]
+[Eén regel met de module Fit & mindful, alleen bij een signaal: te weinig sport, geen rustdag, of een dag zonder pauze. Zie `modules.md`.]
 [Eén regel als er nieuwe dingen verhelderd zijn: "Genoteerd en verhelderd: N. M voorstellen hieronder. Nog K in te delen." Hooguit drie voorstellen (naar de parkeerplaats, laten vallen, nieuw project), onder de lijn, elk op één regel.]
 ```
 
