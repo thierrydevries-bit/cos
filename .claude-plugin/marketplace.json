@@ -1,0 +1,14 @@
+{
+  "name": "thierrydevries",
+  "description": "Plug-ins van Thierry de Vries voor Claude.",
+  "owner": { "name": "Thierry de Vries", "url": "https://thierrydevries.nl" },
+  "plugins": [
+    {
+      "name": "chief-of-staff-and-stuff",
+      "displayName": "Chief of Staff...and stuff",
+      "source": "./plugins/chief-of-staff-and-stuff",
+      "description": "Een chief of staff en personal assistant in je eigen Claude: dagelijkse briefing, toezeggingen bewaken, concepten klaarzetten en een weekreview, volgens de principes van Getting Things Done. Nederlandstalig.",
+      "homepage": "https://thierrydevries.nl/producten/chief-of-staff/"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "chief-of-staff-and-stuff",
+  "displayName": "Chief of Staff...and stuff",
+  "version": "1.4.0",
+  "description": "Een chief of staff en personal assistant in je eigen Claude, zakelijk en privé. Elke werkdag een korte briefing met wat telt en de concepten al klaar, toezeggingen bewaken, nee helpen zeggen en op vrijdag een weekreview. Werkt volgens de principes van Getting Things Done, zodat niets wegvalt. Nederlandstalig.",
+  "author": {
+    "name": "Thierry de Vries",
+    "url": "https://thierrydevries.nl"
+  },
+  "homepage": "https://thierrydevries.nl/producten/chief-of-staff/",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "chief of staff",
+    "assistent",
+    "briefing",
+    "getting things done",
+    "nederlands"
+  ],
+  "privacyPolicyUrl": "https://github.com/thierrydevries-bit/chief-of-staff-and-stuff/blob/main/plugins/chief-of-staff-and-stuff/README.md#gegevens"
+}
