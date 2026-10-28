@@ -27,12 +27,14 @@ Hij leert van je reacties, en je kunt hem uitbreiden met modules en met je eigen
 
 ## Installeren
 
-In claude.ai of de Claude-app: klik op **Customize**, dan **Plugins**, **Add** en **Add marketplace**. Kies **Add from a repository**, vul `thierrydevries-bit/present` in, en klik bij deze plug-in op **Add**. In Claude Code:
+In claude.ai of de Claude-app: klik op **Customize**, dan **Plugins**, **Add** en **Add marketplace**. Vul bij **URL** `thierrydevries-bit/cos` in, laat **Sync automatically** aan staan en klik op **Sync**. Open daarna **Discover**, kies deze plug-in en klik op **Add**, en daarna op **Continue**. In Claude Code:
 
 ```
-claude plugin marketplace add thierrydevries-bit/present
+claude plugin marketplace add thierrydevries-bit/cos
 claude plugin install chief-of-staff-and-stuff@thierrydevries
 ```
+
+**Bijwerken:** met **Sync automatically** aan komt een nieuwe versie vanzelf binnen. Gebeurt dat niet, verwijder dan de marketplace, sluit Claude af en voeg hem opnieuw toe. Je geheugen in Notion of Google Drive blijft gewoon staan.
 
 **Kosten:** de plug-in is gratis. Voor de dagelijkse briefing en de weekreview (geplande taken) heb je een betaald Claude-plan nodig, zoals Pro.
 

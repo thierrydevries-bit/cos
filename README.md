@@ -10,18 +10,20 @@ Een Nederlandstalige chief of staff en personal assistant voor Claude, als plug-
 
 ## Installeren
 
-In claude.ai of de Claude-app: klik op **Customize**, dan **Plugins**, **Add** en **Add marketplace**. Kies **Add from a repository** en vul in:
+In claude.ai of de Claude-app: klik op **Customize**, dan **Plugins**, **Add** en **Add marketplace**. Vul bij **URL** in:
 
 ```
-thierrydevries-bit/present
+thierrydevries-bit/cos
 ```
 
-Kies daarna **Chief of Staff...and stuff** en klik op **Add**. Zet **Sync automatically** aan, dan krijg je nieuwe versies vanzelf.
+Laat **Sync automatically** aan staan en klik op **Sync**. Open daarna **Discover**, kies **Chief of Staff...and stuff** en klik op **Add**. Claude waarschuwt dat een plug-in code kan draaien: klik op **Continue**.
+
+**Bijwerken:** met **Sync automatically** aan komt een nieuwe versie vanzelf binnen. Gebeurt dat niet, verwijder dan de marketplace, sluit Claude af en voeg hem opnieuw toe. Je geheugen in Notion of Google Drive blijft gewoon staan.
 
 In Claude Code:
 
 ```
-claude plugin marketplace add thierrydevries-bit/present
+claude plugin marketplace add thierrydevries-bit/cos
 claude plugin install chief-of-staff-and-stuff@thierrydevries
 ```
 

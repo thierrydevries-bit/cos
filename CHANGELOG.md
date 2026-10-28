@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.5.1 · 28 oktober 2026
+- De repository heet nu `thierrydevries-bit/cos`. De oude namen stuurt GitHub door.
+- Installeren beschreven zoals het venster in Claude echt werkt: **URL** invullen, **Sync automatically** aan, **Sync**, en bij de waarschuwing **Continue**.
+- Uitleg over bijwerken als een nieuwe versie niet vanzelf binnenkomt.
+
 ## 1.5.0 · 28 oktober 2026
 - **Meer connectoren in de plug-in.** Erbij: Dropbox. Nu zitten erin: Gmail, Google Calendar, Microsoft 365, Google Drive, Dropbox en Notion. Google Docs en Google Sheets zet je zelf aan als je geheugen in Google Drive staat.
 - **Inrichten is korter.** Eerst privacy, dan een check van je connectoren, dan een advies over rechten (**Needs approval** voor alles wat schrijft of verwijdert), vier vragen, en meteen een proefbriefing. Je kunt dus direct beginnen. De rest komt later.
