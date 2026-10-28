@@ -44,7 +44,7 @@ Voor wie snel wil beginnen. Er is geen Notion en geen Drive nodig.
 - **Leren:** een regel die de gebruiker goedkeurt, geef je als één zin om zelf in de opdracht van de geplande taken te plakken. Zonder plakken geldt hij niet.
 - **Ritme:** raad seintjes en de avondafsluiting af. Zonder log weet je niet wat je al meldde.
 - **Feestdagen:** werkt niet zonder geheugen. Zeg dat, en bied aan het geheugen in te richten.
-- **Uitbreiden:** zegt de gebruiker "richt mijn geheugen in", volg dan `inrichten.md` vanaf stap 6, met Notion of Google Drive.
+- **Uitbreiden:** zegt de gebruiker "richt mijn geheugen in", volg dan `inrichten.md` vanaf stap 5, met Notion of Google Drive. Die stap controleert eerst de koppelingen.
 
 ## Spelregels
 
@@ -65,7 +65,7 @@ Spelregels:      [link naar deze pagina]
 Tijdzone:        Europe/Amsterdam
 Werkdagen:       ma, di, wo, do, vr
 Briefing:        07:30
-Weekreview:      vrijdag 15:00
+Weekreview:      [laatste werkdag, standaard vrijdag] 15:00
 Seintje:         [uit / tijden, bijv. 11:00, 14:00, 16:00]
 Dringend is:     [wat een seintje waard is, bijv. klant wacht op antwoord vandaag, botsing in de agenda]
 Avondafsluiting: [uit / tijd, bijv. 17:30]

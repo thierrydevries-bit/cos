@@ -1,4 +1,4 @@
-# Weekreview (vrijdag, alleen tekst)
+# Weekreview (laatste werkdag van de week, standaard vrijdag; alleen tekst)
 
 Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de gebruiker in vijf minuten leest, in drie blokken uit `werkwijze.md`: **Leeg**, **Bijwerken**, **Vooruit**, plus een kort slotblok **Systeem**, een **Terugblik** en, om de week, het verbeterblok **Beter**. Jij doet het werk vooraf, de gebruiker beslist alleen.
 
@@ -23,15 +23,16 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 **Systeem**
 11. Lees de Briefinglog-entries van deze week en verzamel de regelvoorstellen uit *Geleerde regel* (zie `leren.md`).
 12. **Verbeterblok** (alleen in weken met een even weeknummer). Hooguit drie voorstellen, één per soort, elk met ja of nee te beantwoorden:
-    - **a. Een nieuwe routine:** iets uit "Later" in `inrichten.md` dat nog niet aan staat (hoofd leegmaken, startvulling, schrijfstijl, seintje, avondafsluiting), de routine Opruimen (`opruimen.md`) of de module Fit & mindful (`modules.md`).
+    - **a. Een nieuwe routine:** iets uit "Later" in `inrichten.md` dat nog niet aan staat (hoofd leegmaken, startvulling, schrijfstijl, seintje, avondafsluiting), de routine Opruimen (`opruimen.md`), of een module (Fit & mindful, Feestdagen in de weken voor een feestdag, zie `modules.md`).
     - **b. Een tip om Claude beter in te richten:** een project in Claude maken voor een lopend project, het geheugen van Claude aanzetten, een connector toevoegen voor een tool die de gebruiker noemde, of de chief of staff een project laten plannen ("plan dit project").
     - **c. Een aanpassing op basis van hoe de gebruiker reageerde:** een patroon uit het Briefinglog (punten die steeds blijven liggen, concepten die steeds herschreven worden) dat nog niet onder "Wat ik wil leren" staat. Zie `leren.md`.
 
     Kijk eerst in de weekreviews van de laatste acht weken: een voorstel waar de gebruiker nee op zei, doe je acht weken niet opnieuw. Zegt de gebruiker ja, voer het uit of zet het in de Instellingen (Routines of Modules) en zeg in één regel wat er staat. Een tip over Claude zelf leg je uit met de Engelse knopnamen, bijvoorbeeld: klik op **Settings**, dan **Capabilities**. Zet de voorstellen en de antwoorden in de Briefinglog-pagina van deze weekreview. In de lichte opzet: hooguit één voorstel.
-13. **Kies de vragen.** Hooguit zeven beslisvragen in de hele review (voorstellen, ja/nee-vragen, regelvoorstellen en het verbeterblok samen). Eerst wat iemand anders raakt, dan het oudste. De rest schuift een week door. De terugblikvraag telt niet mee.
-14. Schrijf de review in het format hieronder. Hooguit drie concepten in deze run.
-15. Log hem in het Briefinglog met Soort "Weekreview" en als titel `⚡ Weekreview | vrij [DD-MM]` (zie de naamgeving in SKILL.md).
-16. Lever hem als antwoord van de run, met de titel als eerste regel en de link naar de Briefinglog-pagina.
+13. **Privacy, één keer.** Staat er in het blok Instellingen nog `[CHECK]` bij Niet openen of Alleen kop, vraag het dan in de eerste weekreview één keer. Daarna niet meer. Deze vraag telt niet mee voor de zeven.
+14. **Kies de vragen.** Hooguit zeven beslisvragen in de hele review (voorstellen, ja/nee-vragen, regelvoorstellen en het verbeterblok samen). Eerst wat iemand anders raakt, dan het oudste. De rest schuift een week door. De terugblikvraag telt niet mee.
+15. Schrijf de review in het format hieronder. Hooguit drie concepten in deze run.
+16. Log hem in het Briefinglog met Soort "Weekreview" en als titel `⚡ Weekreview | [dag] [DD-MM]` (zie de naamgeving in SKILL.md).
+17. Lever hem als antwoord van de run, met de titel als eerste regel en de link naar de Briefinglog-pagina.
 
 ## Format (hooguit ongeveer 500 woorden)
 

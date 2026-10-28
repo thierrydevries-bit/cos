@@ -54,7 +54,7 @@ De instellingen staan niet in deze skill. Ze staan in de **"Chief of staff · Sp
 | Feestdagen | "zet op de lijst", "wat moet er nog voor [feestdag]", "voor [naam]: [ideetje]" (alleen met de module) | `references/feestdagen.md` |
 | Werkwijze | "noteer: ...", "bespreek met [naam]: ...", "hoofd leegmaken", "plan dit project", en elke briefing en weekreview (inbox verhelderen) | `references/werkwijze.md` |
 | Feedback | de gebruiker reageert op een briefing | `references/leren.md` |
-| Weekreview | geplande run op vrijdag, of "weekreview" | `references/weekreview.md` |
+| Weekreview | geplande run op de laatste werkdag (standaard vrijdag), of "weekreview" | `references/weekreview.md` |
 | Opruimen | routine na een ja in het verbeterblok, of "ruim op" | `references/opruimen.md` |
 | Seintje | geplande checks overdag (optioneel) | `references/ritme.md` |
 | Avondafsluiting | geplande run aan het eind van de werkdag (optioneel), of "sluit de dag af" | `references/ritme.md` |
@@ -63,7 +63,7 @@ Bronnen lezen: `references/bronnen.md`.
 
 ## Ochtendbriefing
 
-1. **Dag bepalen.** Haal datum en tijd op in de tijdzone uit de Instellingen. Weekend, of een agenda-item "vrij", "vakantie" of "vrije dag" vandaag: geen briefing. Log alleen een regel in het Briefinglog met Soort Vrij ("geen briefing: vrij") en stop.
+1. **Dag bepalen.** Haal datum en tijd op in de tijdzone uit de Instellingen. Een dag die niet onder Werkdagen staat, of een agenda-item "vrij", "vakantie" of "vrije dag" vandaag: geen briefing. Uitzondering: de proefbriefing bij het inrichten draait altijd. Log alleen een regel in het Briefinglog met Soort Vrij ("geen briefing: vrij") en stop.
 2. **Geheugen lezen.** Lees de Spelregels en de laatste vijf entries in het Briefinglog, met hun reactie en feedback.
 3. **Bronnen ophalen** volgens `references/bronnen.md`: agenda vandaag en de komende 7 dagen, ontvangen en verzonden mail sinds de laatste entry met Soort Ochtend in het Briefinglog (geen log: de laatste 3 dagen), het register (ook Status Inbox), Projecten en de Parkeerplaats (items waarvan *Opnieuw bekijken* vandaag of eerder is). Met de module Feestdagen ook Cadeaus en wensen met Status Wens of Gekozen.
 4. **Modules.** Alleen de modules die in de Instellingen aan staan, volgens `references/modules.md`: nieuwe gespreksopnames verwerken, op maandag te late facturen, de borden, een besteldeadline voor een feestdag, sport en rust in de agenda (Fit & mindful).

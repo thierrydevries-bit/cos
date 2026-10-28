@@ -80,7 +80,7 @@ Alleen lezen. Nodig: een koppeling met het boekhoudpakket (bijvoorbeeld Moneybir
 
 ## Borden
 
-Een salesbord (leads en deals) of een projectbord, in Notion, een Google-spreadsheet of een CRM met koppeling. Zet de links in de Instellingen bij Borden.
+Een salesbord (leads en deals) of een projectbord, in Notion, een Google-spreadsheet, of een tool met koppeling zoals Trello, Pipedrive, Monday of een CRM. Zet de links in de Instellingen bij Borden.
 
 - Salesbord, elke ochtend: deals met een volgende stap of datum deze week, en deals zonder contact sinds meer dan 7 dagen.
 - Projectbord, elke ochtend: deadlines deze week en geblokkeerde items.
