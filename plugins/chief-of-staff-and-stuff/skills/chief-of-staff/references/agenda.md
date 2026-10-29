@@ -20,24 +20,27 @@ De regels staan in de Spelregels, in het blok Agenda:
 
 ## Meeschuiven
 
-**Wanneer:** in de briefing, als er vandaag of morgen iets botst. En in een gesprek, als de gebruiker zegt dat iets verschuift, iets nieuws inplant, of vraagt "past [X] nog?".
+**Wanneer:** in de briefing, als er vandaag of de volgende werkdag iets botst. En in een gesprek, als de gebruiker zegt dat iets verschuift, iets nieuws inplant, of vraagt "past [X] nog?".
 
 1. **Zoek wat geraakt wordt:** flexibele blokken die overlappen, of die hun ruimte of reistijd kwijtraken.
-2. **Zoek een nieuwe plek** per geraakt blok: dezelfde duur, dezelfde dag als het kan, anders de volgende werkdag. Binnen de werktijd, met ruimte aan beide kanten, zonder een hard blok te raken. Sport en wandelen liefst in hetzelfde dagdeel.
+2. **Zoek een nieuwe plek** per geraakt blok: dezelfde duur, dezelfde dag als het kan, anders de volgende werkdag. Binnen de werktijd, zonder een hard blok te raken. Ruimte geldt alleen naast een hard blok of reistijd; naast een ander flexibel blok mag een blok direct aansluiten. Sport en wandelen liefst in hetzelfde dagdeel.
+   Raken de verschuivingen elkaar, neem ze dan samen in één voorstel. Past er één niet, dan geldt Geen plek voor het geheel.
 3. **Geef één voorstel.** Kort, alle verschuivingen samen, en sluit af met "Geef me een go."
 4. **Na "go", "ja" of "doe maar":** verplaats alleen de eigen blokken zonder gasten uit het voorstel. Bij een terugkerend blok alleen deze keer, niet de reeks. Zeg daarna in één regel wat er nu staat. Zet in het Briefinglog van vandaag: "Verschoven: [blok] van [tijd] naar [tijd]".
-5. **Geen ja:** verander niets. In een geplande run doe je alleen een voorstel. De gebruiker kan in hetzelfde gesprek "go" zeggen.
-6. **Geen plek:** zeg dat eerlijk en geef de keuze: het blok korter maken, naar een andere dag, of deze keer laten vallen. Niets verwijderen.
+5. **Geen ja:** verander niets. In een geplande run doe je alleen een voorstel. De gebruiker kan in hetzelfde gesprek "go" zeggen. Een voorstel zonder reactie doe je hooguit één keer per afspraak: kijk in het Briefinglog of je het al deed. Een terugkerend patroon komt alleen in de weekreview.
+6. **Geen plek:** zeg dat eerlijk en geef de keuze, met een letter per optie: (a) het blok korter maken, met de tijd erbij, (b) naar een andere dag, met de dag erbij, of (c) deze keer laten vallen. Niets verwijderen. "Go" is hier geen antwoord: vraag dan welke letter.
+7. **Iets nieuws inplannen.** Noemt de gebruiker geen duur, ga dan uit van 60 minuten en zeg dat. "Zet" of "plan" telt als ja voor een eigen blok zonder gasten. Een afspraak met anderen zet je niet zelf in de agenda: je maakt alleen ruimte, en de gebruiker stuurt de uitnodiging.
 
 **Flexibel is nooit een reden voor nee.** Vraagt iemand om een afspraak op een tijd waar een flexibel blok staat, dan past de afspraak en schuift het blok mee. Je doet geen nee-voorstel vanwege een flexibel blok.
 
-**Hard botst met hard:** verzet nooit zelf iets. Zet een conceptbericht klaar met twee tijdsvoorstellen (mail als concept, of een appje in een codeblok). De gebruiker verstuurt het.
+**Hard botst met hard:** verzet nooit zelf iets. Vraag welke afspraak het makkelijkst kan schuiven, of kies die waar de gebruiker zelf om vroeg. Zet daarvoor een conceptbericht klaar met twee tijdsvoorstellen (mail als concept, of een appje in een codeblok). De gebruiker verstuurt het.
 
 ## Ruimte bewaken
 
 - **Zonder ruimte:** twee afspraken waarvan minstens één hard is, met minder dan de afgesproken ruimte ertussen. Reistijd tel je eerst mee. Twee flexibele blokken naast elkaar tellen niet.
 - Ook als de gebruiker het zelf zo plant, meld je het één keer, met één concreet voorstel: een flexibel blok verschuiven, of een conceptbericht om een harde afspraak een kwartier later te laten beginnen.
-- **Een overlap** vandaag of morgen is een botsing en gaat bij de belangrijke punten (zie `bronnen.md`). **Te weinig ruimte** is een melding onder de lijn, hooguit één per briefing.
+- **Een overlap tussen twee harde afspraken** (reistijd meegeteld) vandaag of de volgende werkdag is een botsing en gaat bij de belangrijke punten, op de rang van "iemand wacht" (zie `briefing-format.md`). **Raakt een flexibel blok een harde afspraak of reistijd, of is er te weinig ruimte**, dan is dat het agendavoorstel onder de lijn: hooguit één per briefing.
+- Zijn er meer knelpunten, kies dan het vroegste van vandaag en noem de rest in één regel: "Nog [N] keer zonder ruimte vandaag."
 
 Voorbeeld van een melding:
 

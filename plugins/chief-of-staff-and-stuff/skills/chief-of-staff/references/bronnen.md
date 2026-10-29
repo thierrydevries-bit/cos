@@ -23,7 +23,8 @@ Werkt voor Gmail en Outlook. Gebruik de zoekfunctie van de koppeling die in de I
 - Vandaag en de komende 7 dagen, gesorteerd op starttijd.
 - Bepaal: het aantal uren afspraken vandaag (meer dan 5 uur betekent hooguit twee punten), vrije blokken van 90 minuten of meer, en afspraken met externe deelnemers vandaag of morgen (kandidaat voor een voorbereiding).
 - Botsingen: dubbele boekingen, overlappende afspraken, geen reistijd tussen afspraken op verschillende locaties, een afspraak vlak voor een reis of vlucht. Een botsing vandaag of morgen gaat bij de belangrijke punten, met een concept om te verzetten.
-- Hard of flexibel, ruimte en reistijd: volgens `agenda.md`. Te weinig ruimte is een melding onder de lijn, hooguit één per briefing. Een overlap blijft een botsing.
+- Hard of flexibel, ruimte en reistijd: volgens `agenda.md`. Alleen een overlap tussen twee harde afspraken is een botsing bij de belangrijke punten. Een flexibel blok dat moet schuiven, of te weinig ruimte, is het agendavoorstel onder de lijn, hooguit één per briefing.
+- Voor de grens van 5 uur afspraken tellen alleen harde afspraken plus reistijd.
 - "Vrij", "vakantie" of "vrije dag" vandaag: geen briefing.
 - Privéafspraken noem je alleen als ze botsen met werk.
 
