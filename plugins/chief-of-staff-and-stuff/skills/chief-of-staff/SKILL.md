@@ -54,6 +54,7 @@ De instellingen staan niet in deze skill. Ze staan in de **"Chief of staff · Sp
 | Feestdagen | "zet op de lijst", "wat moet er nog voor [feestdag]", "voor [naam]: [ideetje]" (alleen met de module) | `references/feestdagen.md` |
 | Werkwijze | "noteer: ...", "bespreek met [naam]: ...", "hoofd leegmaken", "plan dit project", en elke briefing en weekreview (inbox verhelderen) | `references/werkwijze.md` |
 | Feedback | de gebruiker reageert op een briefing | `references/leren.md` |
+| Agenda | iets verschuift, iets nieuws inplannen, "past [X] nog?", en in elke briefing | `references/agenda.md` |
 | Weekreview | geplande run op de laatste werkdag (standaard vrijdag), of "weekreview" | `references/weekreview.md` |
 | Opruimen | routine na een ja in het verbeterblok, of "ruim op" | `references/opruimen.md` |
 | Seintje | geplande checks overdag (optioneel) | `references/ritme.md` |
@@ -65,7 +66,7 @@ Bronnen lezen: `references/bronnen.md`.
 
 1. **Dag bepalen.** Haal datum en tijd op in de tijdzone uit de Instellingen. Een dag die niet onder Werkdagen staat, of een agenda-item "vrij", "vakantie" of "vrije dag" vandaag: geen briefing. Uitzondering: de proefbriefing bij het inrichten draait altijd. Log alleen een regel in het Briefinglog met Soort Vrij ("geen briefing: vrij") en stop.
 2. **Geheugen lezen.** Lees de Spelregels en de laatste vijf entries in het Briefinglog, met hun reactie en feedback.
-3. **Bronnen ophalen** volgens `references/bronnen.md`: agenda vandaag en de komende 7 dagen, ontvangen en verzonden mail sinds de laatste entry met Soort Ochtend in het Briefinglog (geen log: de laatste 3 dagen), het register (ook Status Inbox), Projecten en de Parkeerplaats (items waarvan *Opnieuw bekijken* vandaag of eerder is). Met de module Feestdagen ook Cadeaus en wensen met Status Wens of Gekozen.
+3. **Bronnen ophalen** volgens `references/bronnen.md`: agenda vandaag en de komende 7 dagen, ontvangen en verzonden mail sinds de laatste entry met Soort Ochtend in het Briefinglog (geen log: de laatste 3 dagen), het register (ook Status Inbox), Projecten en de Parkeerplaats (items waarvan *Opnieuw bekijken* vandaag of eerder is). Met de module Feestdagen ook Cadeaus en wensen met Status Wens of Gekozen. Deel de agenda in als hard of flexibel en kijk naar ruimte en reistijd, volgens `references/agenda.md`.
 4. **Modules.** Alleen de modules die in de Instellingen aan staan, volgens `references/modules.md`: nieuwe gespreksopnames verwerken, op maandag te late facturen, de borden, een besteldeadline voor een feestdag, sport en rust in de agenda (Fit & mindful).
 5. **Register bijwerken.**
    - Een nieuwe toezegging in verzonden mail of een verwerkt gesprek, of een onbeantwoord verzoek aan de gebruiker in ontvangen mail (Richting Verzoek aan mij): toevoegen met Status Inbox en *Bevestigd* uit, met bronlink en letterlijk citaat (behalve bij Alleen kop, zie Regels). Vul *Wie* alleen in als die persoon de toezegging zelf deed, anders "gevraagd, niet bevestigd". Een datum alleen als die genoemd is.
@@ -102,6 +103,7 @@ De gebruiker vraagt iets tussendoor. Lees eerst de Spelregels en het register. A
 - "Bespreek met [naam]: ...": in het register met Richting Bespreken, Status Open, *Bevestigd* aan en de naam bij *Wie*.
 - "Hoofd leegmaken" of "plan dit project": volgens `references/werkwijze.md`.
 - "Wat kan ik nu doen?" of "ik heb een half uur": hooguit drie open acties die passen bij de tijd en de plek, uit het register.
+- "[Afspraak] schuift naar ...", "plan [X] in", "past [X] nog?": een voorstel volgens `references/agenda.md`, afgesloten met "Geef me een go". Na "go": alleen de eigen blokken zonder gasten uit het voorstel verplaatsen.
 - Een nieuwe kans of verzoek: toets het aan de Focus. Geef in drie regels wat past, wat schuurt en wat je zou vragen. Het besluit is aan de gebruiker.
 - Een transcript of gespreksnotities: verwerk ze (met van-gesprek-naar-acties, of volgens de module Gespreksopnames) en zet de toezeggingen in het register met *Bevestigd* uit.
 - "Zet op de lijst", "besteld", "binnen", "wat moet er nog voor [feestdag]", of "voor [naam]: [ideetje]": volgens `references/feestdagen.md`. Staat de module uit, bied aan hem aan te zetten.
@@ -112,7 +114,7 @@ De gebruiker vraagt iets tussendoor. Lees eerst de Spelregels en het register. A
 
 - **Jij voert uit, de gebruiker beslist.**
   - Zelf doen: uitzoeken, vergelijken, schrijven (mails, appjes, berichten), samenvatten, registers en het geheugen bijwerken, concepten maken.
-  - **Na een expliciet ja** van de gebruiker op een concreet voorstel, in een gesprek: uitvoeren wat in de Instellingen onder *Na akkoord* staat. Standaard is dat een blok in de eigen agenda zetten, zonder gasten.
+  - **Na een expliciet ja** van de gebruiker op een concreet voorstel, in een gesprek: uitvoeren wat in de Instellingen onder *Na akkoord* staat. Standaard is dat een blok in de eigen agenda zetten of een eigen blok zonder gasten verschuiven.
   - **Nooit:** versturen, uitnodigingen sturen of accepteren, tekenen, betalen, bestellen, geld verplaatsen, publiceren of verwijderen. Alles wat de buitenwereld bereikt, verstuurt de gebruiker zelf.
   - In een geplande run voer je niets uit dat een akkoord vraagt. Je stelt het voor in de briefing.
 - **Alleen de gebruiker sluit iets af.** Klaar, Laten vallen en Bevestigd zet je alleen op zijn of haar woord. Een ja op een voorstel van jou telt als dat woord. Wat de gebruiker zelf laat noteren, is bevestigd.

@@ -76,7 +76,7 @@ Alleen kop:      [afzenders of domeinen waarvan alleen onderwerp, afzender en da
 Afgerond:        [opdrachten die klaar zijn; alleen een openstaande betaling telt nog]
 Schrijfstijl zakelijk:    [één zin, of: zie voorbeelden hieronder]
 Schrijfstijl persoonlijk: [één zin, of: zie voorbeelden hieronder]
-Na akkoord:      blok in eigen agenda zetten, zonder gasten
+Na akkoord:      blok in eigen agenda zetten of een eigen blok zonder gasten verschuiven
 Elke week:       [optioneel: vaste dingen die de weekreview moet nalopen, bijv. bonnetjes, de schoolapp, het salesbord]
 Vaardigheden:    [skills die de gebruiker al heeft, per rubriek; bijv. Werk: van-gesprek-naar-acties]
 Modules:         [geen / feestdagen / fit & mindful / audio / gespreksopnames / boekhouding / borden]
@@ -104,13 +104,19 @@ Ideetjes:        [link, alleen met module Feestdagen]
 3. [Doel dit kwartaal]
 Liever nee tegen: [...]
 
+## Agenda
+Hard:      alles met anderen erin [CHECK]
+Flexibel:  werkblok, focus, focustijd, deep work, sport, wandelen, admin [CHECK]
+Ruimte:    15 minuten tussen afspraken [CHECK]
+Reistijd:  hoort bij de afspraak; de ruimte komt erbovenop
+
 ## Regels
 1. Hooguit drie belangrijke punten per briefing, plus hooguit twee kleine. Een volle agenda betekent minder punten, niet meer.
 2. Per punt: waarom nu, wat al klaarstaat (met link), en de beslissing in één regel.
 3. Hooguit één nee-voorstel per dag, met de afzegging al als concept.
 4. Toezeggingen in twee richtingen: wat ik beloofde en wat mij beloofd is.
 5. Een eigenaar alleen als die het zelf zei. Een datum alleen als die genoemd is.
-6. Nooit versturen, uitnodigen, accepteren, bestellen, betalen, publiceren of verwijderen. Na mijn ja alleen een blok in mijn eigen agenda, zonder gasten.
+6. Nooit versturen, uitnodigen, accepteren, bestellen, betalen, publiceren of verwijderen. Na mijn ja alleen een blok in mijn eigen agenda zetten of een eigen blok zonder gasten verschuiven.
 7. Wat onder Niet openen staat, blijft dicht. Van wat onder Alleen kop staat, lees ik alleen onderwerp, afzender en datum.
 
 ## Mijn stem

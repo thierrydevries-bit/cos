@@ -54,6 +54,7 @@ Nog briefjes, appjes, spraakmemo's of post die nergens staan? En zit er nog iets
 
 ## Vooruit
 **Volgende week:** [drukste dag, vrije ruimte, gesprekken die voorbereiding nodig hebben; hooguit 3 regels]
+**Agenda:** [één regel volgens `agenda.md`: keer zonder ruimte volgende week, en welk blok al twee keer verdrongen is]
 **Kansen:** [hooguit 2, getoetst aan de Focus; opvolgmail als concept als dat helpt]
 **Van de parkeerplaats:** [wat nu kan, of wat weg mag]
 **Aandacht:** [één vraag als een domein stilvalt of alles opslokt]
@@ -84,3 +85,4 @@ Een regel zonder inhoud laat je weg. Het blok Leeg en de terugblikvraag staan er
 - Je zet niets op Klaar, Laten vallen of Gestopt zonder het woord van de gebruiker.
 - Het antwoord op de terugblikvraag zet je in één zin in de Briefinglog-pagina, in de woorden van de gebruiker. Gaat het over gezondheid of hoe iemand zich voelt, dan zet je niets in het geheugen.
 - In een week waarvan het weeknummer deelbaar is door 4: één vraag onder Vooruit, "Klopt je focus nog?" In de eerste weekreview van januari, april, juli en oktober in plaats daarvan: "Waar wil je over een à twee jaar staan, en past je focus daarbij?" Pas de Focus alleen aan op het woord van de gebruiker.
+- In een week waarvan het weeknummer bij deling door 4 rest 2 geeft: één vraag onder Vooruit over de agendaregels (zie `agenda.md`).

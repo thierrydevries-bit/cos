@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.6.0 · [datum release]
+- **Agendaspelregels** (`references/agenda.md`). Afspraken met anderen zijn hard. Eigen blokken zoals werkblok, focus en sport zijn flexibel. Tussen afspraken blijft ruimte, standaard 15 minuten, en reistijd telt mee.
+- **Meeschuiven met "Geef me een go".** Verschuift er iets, dan stelt de chief of staff voor wat er mee schuift. Pas na je go verplaatst hij je eigen blokken zonder gasten. Afspraken met anderen verzet hij nooit: daarvoor zet hij een concept klaar.
+- **Geen afspraken meer zonder ruimte ertussen** zonder dat je het weet: hij meldt het en doet één voorstel.
+- **Inrichten blijft kort.** De agenda krijgt een standaard. In de proefbriefing laat hij zien hoe hij je agenda leest en vraagt hij of dat klopt.
+- **Weekreview:** een regel over ruimte en verdrongen blokken, en elke vier weken een vraag of je agendaregels nog kloppen.
+
 ## 1.5.1 · 28 oktober 2026
 - De repository heet nu `thierrydevries-bit/cos`. De oude namen stuurt GitHub door.
 - Installeren beschreven zoals het venster in Claude echt werkt: **URL** invullen, **Sync automatically** aan, **Sync**, en bij de waarschuwing **Continue**.

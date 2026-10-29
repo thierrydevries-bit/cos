@@ -62,7 +62,8 @@ Mail en agenda volgen uit stap 3. Al het andere krijgt een standaard met `[CHECK
 - Concepten: in het mailprogramma als de koppeling dat kan (stap 3), anders onder de briefing.
 - Schrijfstijl zakelijk: kort en vriendelijk, in de je-vorm. Schrijfstijl persoonlijk: kort en hartelijk. Dit verfijnt de skill mijn-stem later.
 - Dringend is: een klant of opdrachtgever wacht op antwoord vandaag, of een botsing in de agenda.
-- Geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten.
+- Geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten zetten of verschuiven.
+- Agenda: alles met anderen is hard, eigen blokken als werkblok, focus en sport zijn flexibel, 15 minuten ruimte tussen afspraken (zie `agenda.md`).
 
 Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Geen focus: laat de Focus leeg; dan doe je alleen nee-voorstellen op "bleef liggen". Voor de naam is er geen standaard: vraag hem opnieuw.
 
@@ -122,6 +123,7 @@ Zet onder de briefing een korte afronding, hooguit zes regels:
 - "Zo ziet je briefing er elke werkdag uit. Je kunt er nu al mee aan de slag."
 - wat er klaarstaat, met de link naar "Chief of staff" (in de lichte opzet: het blok Spelregels om te plakken);
 - welke `[CHECK]`-punten de gebruiker nog kan nalopen in het blok Instellingen in je Spelregels;
+- één regel over de agenda: "Zo lees ik je agenda: hard is [voorbeelden van vandaag], flexibel is [voorbeelden van vandaag], 15 minuten ruimte. Klopt dat?" Vul het blok Agenda aan op het woord van de gebruiker;
 - "Later, als je wilt: je hoofd leegmaken, je schrijfstijl leren (/mijn-stem), modules zoals Feestdagen of Fit & mindful, en seintjes overdag. Ik bied ze een voor een aan in de weekreview.";
 - "Reageer de komende twee weken op elke briefing, ook als hij goed is. Daar leer ik van."
 
@@ -151,7 +153,7 @@ Opdracht: Gebruik de skill chief-of-staff en sluit de dag af.
 
 In de lichte opzet niet: zonder log weet je niet wat je al meldde. Begin liever met één of twee seintjes per dag.
 
-**Overige instellingen.** Domeinen, taal, Afgerond (opdrachten die klaar zijn), Vaardigheden (skills die de gebruiker al heeft) en Elke week: vraag ernaar als ze ertoe doen, en vul ze in op het woord van de gebruiker.
+**Overige instellingen.** Domeinen, taal, Afgerond (opdrachten die klaar zijn), Vaardigheden (skills die de gebruiker al heeft), Agenda (hard, flexibel en ruimte, zie `agenda.md`) en Elke week: vraag ernaar als ze ertoe doen, en vul ze in op het woord van de gebruiker.
 
 **Modules aanzetten.** Zie `modules.md`. Stel alleen de vragen van die module:
 
