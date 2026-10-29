@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.6.0 · [datum release]
+## 1.6.0 · 29 oktober 2026
 - **Agendaspelregels** (`references/agenda.md`). Afspraken met anderen zijn hard. Eigen blokken zoals werkblok, focus en sport zijn flexibel. Tussen afspraken blijft ruimte, standaard 15 minuten, en reistijd telt mee.
 - **Meeschuiven met "Geef me een go".** Verschuift er iets, dan stelt de chief of staff voor wat er mee schuift. Pas na je go verplaatst hij je eigen blokken zonder gasten. Afspraken met anderen verzet hij nooit: daarvoor zet hij een concept klaar.
 - **Geen afspraken meer zonder ruimte ertussen** zonder dat je het weet: hij meldt het en doet één voorstel.
