@@ -91,6 +91,8 @@ Gesprekken:      [link, alleen met module Gespreksopnames]
 Borden:          [links naar sales- of projectborden, alleen met module Borden]
 Stem:            [naam en voice_id, alleen met module Audio]
 Model:           [ElevenLabs-model, alleen met module Audio]
+Onboarding:      [alleen met Pro: sessie JJJJ-MM-DD]
+Prikbord:        [alleen met Pro: link, of leeg]
 Feestdagen:      [welke, met datum; alleen met module Feestdagen]
 Aanloop:         [per feestdag in weken; standaard 4]
 Delen met:       [wie wensen doorgeeft; de chief of staff deelt het register zelf nooit]
@@ -103,6 +105,9 @@ Ideetjes:        [link, alleen met module Feestdagen]
 2. [Doel dit kwartaal]
 3. [Doel dit kwartaal]
 Liever nee tegen: [...]
+
+## Woordenlijst
+[Namen, merken, leveranciers en adressen die je goed moet schrijven, één per regel. Leeg bij de start, of uit het startpakket.]
 
 ## Agenda
 Hard:      alles met anderen erin [CHECK]
