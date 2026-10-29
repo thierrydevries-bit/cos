@@ -51,6 +51,10 @@ claude plugin install chief-of-staff-and-stuff@thierrydevries
 
 Losse dingen tussendoor: "noteer: bel de gemeente", "bespreek met Sanne: de planning", "wat kan ik nu doen?", "plan dit project", "hoofd leegmaken".
 
+## Pro
+
+Wie de chief of staff samen met Thierry inricht, krijgt er **Chief of Staff...and stuff · Pro** bij, uit dezelfde marketplace. Pro vult aan en overschrijft niets: zonder Pro werkt deze plug-in precies hetzelfde. Heb je een startpakket van je inrichtsessie, dan leest `/inrichten` dat in en vraagt alleen naar wat ontbreekt. Dat werkt ook zonder Pro. Let op: deze Pro is iets anders dan het Claude-abonnement Pro.
+
 ## Gegevens
 
 De plug-in zelf bewaart en verstuurt niets. Claude leest je mail, agenda, bestanden en notities via de connectoren die jij aanzet, en schrijft alleen in je eigen geheugen (Notion of Google Drive) en als concept in je mail. Versturen, accepteren, bestellen, betalen en verwijderen doet hij nooit. Bij Opruimen verplaatst hij alleen naar een map "Op te ruimen", na jouw ja. De module Fit & mindful kijkt alleen naar je agenda en vraagt of bewaart geen gezondheidsgegevens. Wat je onder *Niet openen* of *Alleen kop* zet, blijft dicht.

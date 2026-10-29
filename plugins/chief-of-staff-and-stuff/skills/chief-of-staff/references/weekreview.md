@@ -30,7 +30,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
     Kijk eerst in de weekreviews van de laatste acht weken: een voorstel waar de gebruiker nee op zei, doe je acht weken niet opnieuw. Zegt de gebruiker ja, voer het uit of zet het in de Instellingen (Routines of Modules) en zeg in één regel wat er staat. Een tip over Claude zelf leg je uit met de Engelse knopnamen, bijvoorbeeld: klik op **Settings**, dan **Capabilities**. Zet de voorstellen en de antwoorden in de Briefinglog-pagina van deze weekreview. In de lichte opzet: hooguit één voorstel.
 13. **Privacy, één keer.** Staat er in het blok Instellingen nog `[CHECK]` bij Niet openen of Alleen kop, vraag het dan in de eerste weekreview één keer. Daarna niet meer. Deze vraag telt niet mee voor de zeven.
 14. **Kies de vragen.** Hooguit zeven beslisvragen in de hele review (voorstellen, ja/nee-vragen, regelvoorstellen en het verbeterblok samen). Eerst wat iemand anders raakt, dan het oudste. De rest schuift een week door. De terugblikvraag telt niet mee.
-15. Schrijf de review in het format hieronder. Hooguit drie concepten in deze run.
+15. Schrijf de review in het format hieronder. Met Pro tijdens de onboarding: de regel "De stap van vandaag" direct onder de kop (zie Uitbreiding Pro in SKILL.md). Hooguit drie concepten in deze run.
 16. Log hem in het Briefinglog met Soort "Weekreview" en als titel `⚡ Weekreview | [dag] [DD-MM]` (zie de naamgeving in SKILL.md).
 17. Lever hem als antwoord van de run, met de titel als eerste regel en de link naar de Briefinglog-pagina.
 
@@ -38,6 +38,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 
 ```
 **Week [nummer], [datum maandag] tot [datum vrijdag]**
+[Alleen met Pro tijdens de onboarding: "De stap van vandaag", één regel.]
 
 ## Leeg
 [Eén regel: "Alles verhelderd." of "[N] voorstellen:". Plus het aantal dat nog in te delen is en het aantal items met "besluit open" in Notitie, als dat er zijn.]

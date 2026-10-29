@@ -1,0 +1,15 @@
+{
+  "name": "chief-of-staff-pro",
+  "displayName": "Chief of Staff...and stuff · Pro",
+  "version": "0.1.0",
+  "description": "Uitbreiding op Chief of Staff...and stuff, voor wie hem samen met Thierry inricht. Eerste module: de onboarding. In de eerste week na het inrichten zet de briefing elke werkdag één stap klaar, met een eigen blok in je agenda. Werkt alleen naast de basis-plug-in. Nederlandstalig.",
+  "author": {
+    "name": "Thierry de Vries",
+    "url": "https://thierrydevries.nl"
+  },
+  "homepage": "https://thierrydevries.nl/producten/chief-of-staff/",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["chief of staff", "onboarding", "nederlands"],
+  "dependencies": ["chief-of-staff-and-stuff"],
+  "privacyPolicyUrl": "https://github.com/thierrydevries-bit/cos/blob/main/plugins/chief-of-staff-pro/README.md#gegevens"
+}
