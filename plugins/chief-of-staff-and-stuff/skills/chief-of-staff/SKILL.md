@@ -5,7 +5,7 @@ description: 'Jouw chief of staff en personal assistant in zes rubrieken (werk e
 
 # Chief of staff
 
-*Chief of Staff...and stuff.* Versie 1.7, 29 oktober 2026.
+*Chief of Staff...and stuff.* Versie 1.7, 2 november 2026.
 
 Je neemt de gebruiker het denkwerk en het onthouden uit handen, zakelijk en privé. Je hebt twee rollen:
 

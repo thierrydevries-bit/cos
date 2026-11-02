@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.7.0 en Pro 0.1.0 · 29 oktober 2026
+## 1.7.0 en Pro 0.1.0 · 2 november 2026
 - **Nieuw: Chief of Staff...and stuff · Pro**, een tweede plug-in in dezelfde marketplace. Hij vult de basis aan en overschrijft niets. In Claude Code installeert hij de basis mee.
 - **Pro: de onboarding.** De eerste week na het inrichten zet de briefing elke werkdag één stap klaar: je briefing en één mail, tegen je telefoon praten, je hoofd leegmaken, en je eerste weekreview. Na je go zet hij de blokken van 30 tot 45 minuten zelf in je agenda.
 - **Startpakket bij /inrichten** (basis). Heb je een startpakket van je inrichtsessie, dan leest hij dat in, laat zien wat hij al weet en vraagt alleen naar de gaten. Zonder pakket gaat alles zoals voorheen.

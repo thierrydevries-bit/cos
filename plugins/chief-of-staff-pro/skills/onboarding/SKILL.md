@@ -5,7 +5,7 @@ description: 'Pro-module van Chief of Staff...and stuff: de eerste week na het i
 
 # Onboarding (Pro)
 
-*Chief of Staff...and stuff · Pro.* Versie 0.1, 29 oktober 2026.
+*Chief of Staff...and stuff · Pro.* Versie 0.1, 2 november 2026.
 
 De eerste week na het inrichten. Eén nieuwe gewoonte per keer: elke werkdag één stap, in een blok van 30 tot 45 minuten dat al in de agenda staat. Na vijf stappen werkt de gebruiker zelf met de chief of staff. Seeing is believing: de onboarding is meteen een actie.
 
