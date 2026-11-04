@@ -23,7 +23,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 **Systeem**
 11. Lees de Briefinglog-entries van deze week en verzamel de regelvoorstellen uit *Geleerde regel* (zie `leren.md`).
 12. **Verbeterblok** (alleen in weken met een even weeknummer). Hooguit drie voorstellen, één per soort, elk met ja of nee te beantwoorden:
-    - **a. Een nieuwe routine:** iets uit "Later" in `inrichten.md` dat nog niet aan staat (hoofd leegmaken, startvulling, schrijfstijl, seintje, avondafsluiting), de routine Opruimen (`opruimen.md`), of een module (Fit & mindful, Feestdagen in de weken voor een feestdag, zie `modules.md`).
+    - **a. Een nieuwe routine:** iets uit "Later" in `inrichten.md` dat nog niet aan staat (hoofd leegmaken, startvulling, schrijfstijl, seintje, avondafsluiting, agenda-kaart als het blok Agenda er nog geen heeft), de routine Opruimen (`opruimen.md`), of een module (Fit & mindful, Feestdagen in de weken voor een feestdag, zie `modules.md`).
     - **b. Een tip om Claude beter in te richten:** een project in Claude maken voor een lopend project, het geheugen van Claude aanzetten, een connector toevoegen voor een tool die de gebruiker noemde, of de chief of staff een project laten plannen ("plan dit project").
     - **c. Een aanpassing op basis van hoe de gebruiker reageerde:** een patroon uit het Briefinglog (punten die steeds blijven liggen, concepten die steeds herschreven worden) dat nog niet onder "Wat ik wil leren" staat. Zie `leren.md`.
 

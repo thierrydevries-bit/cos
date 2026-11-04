@@ -16,7 +16,7 @@ In de Spelregels van de chief of staff, in het blok **Mijn stem** (Notion-pagina
 Alleen in een gesprek, nooit in een geplande run.
 
 1. **Vraag akkoord** in één zin: "Mag ik 15 tot 20 mails uit je verzonden mail lezen om je schrijfstijl te leren? Ik bewaar geen inhoud, alleen hoe je schrijft." Wil de gebruiker dat niet, vraag dan om twee of drie zakelijke en één of twee persoonlijke berichten om te plakken.
-2. **Lees** de laatste verzonden mails die de gebruiker zelf schreef: geen doorgestuurde mail, geen automatische mail, niets onder Niet openen of Alleen kop. Mix van ontvangers: klanten, collega's, leveranciers, en als die er zijn vrienden of familie.
+2. **Lees** de laatste verzonden mails die de gebruiker zelf schreef: geen doorgestuurde mail, geen automatische mail, niets onder Niet openen, Alleen kop of Zonder onderwerp. Mix van ontvangers: klanten, collega's, leveranciers, en als die er zijn vrienden of familie.
 3. **Leg per register vast** (zakelijk en persoonlijk):
    - aanhef en afsluiting, en welke handtekening wanneer;
    - lengte en opbouw (kort en direct, of eerst context; opsommingen of lopende tekst);

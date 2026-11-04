@@ -22,7 +22,7 @@ Zoek gericht, alleen wat deze afspraak raakt:
 3. **Vorige gesprekken:** verslagen in het geheugen of in een gekoppelde opname-app.
 4. **Documenten:** projectpagina's of bestanden die de gebruiker noemt of die in de uitnodiging staan.
 
-Volg de Spelregels: wat onder Niet openen staat open je niet, van wat onder Alleen kop staat lees je alleen onderwerp, afzender en datum.
+Volg de Spelregels: wat onder Niet openen staat open je niet, van wat onder Alleen kop staat lees je alleen onderwerp, afzender en datum, en wat onder Zonder onderwerp staat noem je alleen met de naam uit de Spelregels.
 
 ## 3. Feit en aanname scheiden
 

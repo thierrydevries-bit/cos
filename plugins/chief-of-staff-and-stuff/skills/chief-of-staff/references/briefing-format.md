@@ -18,7 +18,7 @@ Vijf is een maximum, geen doel. Zijn er geen kleine acties, dan blijft het bij d
 
 Bij gelijke rang: klant boven sales boven intern. Privé alleen als het botst met werk of een deadline heeft (een besteldeadline voor een feestdag telt als deadline).
 
-**Niet in de briefing:** wat de gebruiker al zelf in de agenda heeft gezet, nieuwsbrieven, meldingen zonder actie, en items met *Bevestigd* uit die ouder zijn dan 3 dagen (behalve een Verzoek aan mij waarvan de thread nog onbeantwoord is).
+**Niet in de briefing:** wat de gebruiker al zelf in de agenda heeft gezet, nieuwsbrieven, meldingen zonder actie, en items met *Bevestigd* uit die ouder zijn dan 3 dagen (behalve een Verzoek aan mij waarvan de thread nog onbeantwoord is, en een item met Status Wacht op ander uit verzonden mail waarop nog geen antwoord kwam, buiten Alleen kop en Zonder onderwerp).
 
 **Elk punt is een actie van de gebruiker.** Wat jij zelf gaat doen (iets uitzoeken, een voorbereiding maken) is geen punt. Dat noem je in de slotregel. Schrijf de kop als handeling ("Stuur Sanne je antwoord"), niet als onderwerp. Zit er een besluit in (prijs, ja of nee), zet het besluit in de kop.
 
@@ -76,7 +76,7 @@ Loop deze vragen langs. Eén "nee" betekent herschrijven.
 3. Staat er niets in wat de gebruiker al gedaan of zelf gepland heeft?
 4. Is er niets verstuurd, ingepland of afgesloten?
 5. Is de schermtekst onder 220 woorden, en staat er geen lang streepje in?
-6. Staat er geen inhoud of citaat in van een afzender onder Alleen kop?
+6. Staat er geen inhoud of citaat in van een afzender onder Alleen kop, en geen onderwerp van een afzender onder Zonder onderwerp?
 7. Met de module Audio: is de audiotekst onder het maximum (geteld met code), zonder links en zonder lange streepjes?
 
 ## Voorbeeld (verzonnen)

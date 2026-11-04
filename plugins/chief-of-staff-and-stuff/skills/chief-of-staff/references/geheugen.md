@@ -37,7 +37,7 @@ Nodig: de koppelingen Google Drive, Google Docs en Google Sheets. Lukt lezen of 
 
 Voor wie snel wil beginnen. Er is geen Notion en geen Drive nodig.
 
-- **Spelregels:** het blok Instellingen, Focus en Regels staat als tekst in de opdracht van elke geplande taak. In een gesprek vraag je de verplichte velden als je ze niet kent.
+- **Spelregels:** het blok Instellingen, Focus, Agenda en Regels staat als tekst in de opdracht van elke geplande taak. In een gesprek vraag je de verplichte velden als je ze niet kent.
 - **Projecten en "noteer":** werken niet zonder geheugen. Zeg dat, en geef de tekst om zelf te bewaren.
 - **Toezeggingen:** elke run zoek je ze opnieuw op in de verzonden en ontvangen mail van de laatste 14 dagen. Je houdt geen lijst bij, dus noem alleen wat nu nog open lijkt.
 - **Loggen:** je logt niets. Wat normaal in het Briefinglog of de Parkeerplaats komt, noem je in de briefing of in het gesprek.
@@ -73,6 +73,7 @@ Taal:            Nederlands
 Domeinen:        Klanten, Sales, Eigen ontwikkeling, Administratie, Privé (je aandachtsgebieden; bijvoorbeeld ook Gezin of Huis)
 Niet openen:     [omgevingen, links en bijlagen, bijv. SharePoint en Teams van opdrachtgevers]
 Alleen kop:      [afzenders of domeinen waarvan alleen onderwerp, afzender en datum gelezen worden]
+Zonder onderwerp: [afzenders of domeinen waarvan ook het onderwerp niet getoond of bewaard wordt, met de naam die je gebruikt, bijv. "mail van de praktijk"]
 Afgerond:        [opdrachten die klaar zijn; alleen een openstaande betaling telt nog]
 Schrijfstijl zakelijk:    [één zin, of: zie voorbeelden hieronder]
 Schrijfstijl persoonlijk: [één zin, of: zie voorbeelden hieronder]
@@ -113,6 +114,8 @@ Liever nee tegen: [...]
 Hard:      alles met anderen erin [CHECK]
 Flexibel:  werkblok, focus, focustijd, deep work, sport, wandelen, admin [CHECK]
 Ruimte:    15 minuten tussen afspraken [CHECK]
+Schrijven: [de ene agenda waarin nieuwe blokken komen]
+Agenda's:  [per agenda: naam, van wie, lezen of schrijven, waarvoor; de agenda-kaart]
 Reistijd:  hoort bij de afspraak; de ruimte komt erbovenop
 
 ## Regels
@@ -122,7 +125,7 @@ Reistijd:  hoort bij de afspraak; de ruimte komt erbovenop
 4. Toezeggingen in twee richtingen: wat ik beloofde en wat mij beloofd is.
 5. Een eigenaar alleen als die het zelf zei. Een datum alleen als die genoemd is.
 6. Nooit versturen, uitnodigen, accepteren, bestellen, betalen, publiceren of verwijderen. Na mijn ja alleen een blok in mijn eigen agenda zetten of een eigen blok zonder gasten verschuiven.
-7. Wat onder Niet openen staat, blijft dicht. Van wat onder Alleen kop staat, lees ik alleen onderwerp, afzender en datum.
+7. Wat onder Niet openen staat, blijft dicht. Van wat onder Alleen kop staat, lees ik alleen onderwerp, afzender en datum. Wat onder Zonder onderwerp staat, noem ik alleen met de naam die ik daarvoor kreeg.
 
 ## Mijn stem
 [Leeg bij de start. De skill mijn-stem zet hier het stemprofiel, na akkoord van de gebruiker.]
@@ -148,7 +151,7 @@ Persoonlijk: [een of twee eigen berichten, als de gebruiker die gaf]
 | Project | relatie (Drive: tekst) | het project in Projecten, als het erbij hoort |
 | Deadline | datum | alleen als een datum genoemd is |
 | Deadline zoals gezegd | tekst | letterlijk, bijvoorbeeld "volgende week" |
-| Citaat | tekst | letterlijk uit de bron; leeg bij Alleen kop |
+| Citaat | tekst | letterlijk uit de bron; leeg bij Alleen kop en Zonder onderwerp |
 | Bron | url | link naar mail, afspraak of gesprek |
 | Brontype | select | Mail, Agenda, Gesprek, Notion, Drive, Chat |
 | Domein | select | de domeinen uit de Instellingen |

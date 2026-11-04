@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.7.1 · 4 november 2026
+- **Agenda-kaart bij /inrichten.** Na de koppelingen zet hij al je agenda's op een rij: van wie ze zijn, of hij mag lezen of schrijven, en waar nieuwe blokken komen. Heb je één agenda, dan is het één vraag. Eerder ingericht? Zeg "maak mijn agenda-kaart".
+- **Zonder onderwerp.** Een derde niveau naast Niet openen en Alleen kop, voor afzenders waarvan zelfs het onderwerp gevoelig is, zoals een patiëntnaam. Hij noemt zo'n mail alleen met de naam die jij kiest. Let op: dit beperkt wat hij toont en bewaart. Het onderwerp komt wel langs als hij de mail ophaalt.
+- **Wacht op antwoord, elke dag.** Stelde je een vraag per mail en kwam er na 2 werkdagen geen antwoord, dan zet hij dat in je register. Dan hoef je jezelf niet meer in de CC te zetten. Dit geldt niet voor mail onder Alleen kop en Zonder onderwerp. Zonder geheugen zie je het alleen in de briefing.
+- **Advies over meldingen** bij het inrichten: alles uit, behalve Claude.
+- Het startpakket kent nu ook de kopjes Agenda's en Zonder onderwerp.
+
 ## 1.7.0 en Pro 0.1.0 · 2 november 2026
 - **Nieuw: Chief of Staff...and stuff · Pro**, een tweede plug-in in dezelfde marketplace. Hij vult de basis aan en overschrijft niets. In Claude Code installeert hij de basis mee.
 - **Pro: de onboarding.** De eerste week na het inrichten zet de briefing elke werkdag één stap klaar: je briefing en één mail, tegen je telefoon praten, je hoofd leegmaken, en je eerste weekreview. Na je go zet hij de blokken van 30 tot 45 minuten zelf in je agenda.

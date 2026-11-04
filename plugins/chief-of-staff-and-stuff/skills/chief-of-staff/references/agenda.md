@@ -17,6 +17,7 @@ De regels staan in de Spelregels, in het blok Agenda:
 2. Een eigen afspraak zonder gasten is flexibel als de titel een woord uit Flexibel bevat. Anders is hij hard (bijvoorbeeld tandarts, kinderen ophalen).
 3. Twijfel: behandel hem als hard en vraag één keer: "Is [titel] een vast blok of mag het schuiven?" Zegt de gebruiker "mag schuiven", vraag dan of je het woord onder Flexibel mag zetten. Alleen na een ja.
 4. Hele-dag-items, vrij en vakantie zijn geen blokken.
+5. Een afspraak uit een agenda die in het blok Agenda op lezen staat, schuif je nooit. Is die agenda van iemand anders, dan is zo'n afspraak geen botsing en telt hij niet mee voor de grens van 5 uur.
 
 ## Meeschuiven
 
@@ -26,7 +27,7 @@ De regels staan in de Spelregels, in het blok Agenda:
 2. **Zoek een nieuwe plek** per geraakt blok: dezelfde duur, dezelfde dag als het kan, anders de volgende werkdag. Binnen de werktijd, zonder een hard blok te raken. Ruimte geldt alleen naast een hard blok of reistijd; naast een ander flexibel blok mag een blok direct aansluiten. Sport en wandelen liefst in hetzelfde dagdeel.
    Raken de verschuivingen elkaar, neem ze dan samen in één voorstel. Past er één niet, dan geldt Geen plek voor het geheel.
 3. **Geef één voorstel.** Kort, alle verschuivingen samen, en sluit af met "Geef me een go."
-4. **Na "go", "ja" of "doe maar":** verplaats alleen de eigen blokken zonder gasten uit het voorstel. Bij een terugkerend blok alleen deze keer, niet de reeks. Zeg daarna in één regel wat er nu staat. Zet in het Briefinglog van vandaag: "Verschoven: [blok] van [tijd] naar [tijd]".
+4. **Na "go", "ja" of "doe maar":** verplaats alleen de eigen blokken zonder gasten uit het voorstel. Nieuwe blokken komen in de agenda onder Schrijven in het blok Agenda. Bij een terugkerend blok alleen deze keer, niet de reeks. Zeg daarna in één regel wat er nu staat. Zet in het Briefinglog van vandaag: "Verschoven: [blok] van [tijd] naar [tijd]".
 5. **Geen ja:** verander niets. In een geplande run doe je alleen een voorstel. De gebruiker kan in hetzelfde gesprek "go" zeggen. Een voorstel zonder reactie doe je hooguit één keer per afspraak: kijk in het Briefinglog of je het al deed. Een terugkerend patroon komt alleen in de weekreview.
 6. **Geen plek:** zeg dat eerlijk en geef de keuze, met een letter per optie: (a) het blok korter maken, met de tijd erbij, (b) naar een andere dag, met de dag erbij, of (c) deze keer laten vallen. Niets verwijderen. "Go" is hier geen antwoord: vraag dan welke letter.
 7. **Iets nieuws inplannen.** Noemt de gebruiker geen duur, ga dan uit van 60 minuten en zeg dat. "Zet" of "plan" telt als ja voor een eigen blok zonder gasten. Een afspraak met anderen zet je niet zelf in de agenda: je maakt alleen ruimte, en de gebruiker stuurt de uitnodiging.

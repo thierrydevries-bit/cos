@@ -17,7 +17,7 @@ Mist er informatie die je niet kunt vinden, vraag dan één ding, het belangrijk
 - **Proactief:** afspraken vandaag of morgen met externe deelnemers krijgen een voorbereiding. Toezeggingen per project blijven in beeld.
 - **Op verzoek:** een gesprek voorbereiden, een verslag maken, de stand van een project ophalen, een document samenvatten, werken met de projectskills van de gebruiker.
 - **Bronnen:** agenda, mail, Notion of Drive, opnames (module Gespreksopnames), projectbord (module Borden).
-- **Grens:** wat onder Niet openen of Alleen kop staat.
+- **Grens:** wat onder Niet openen, Alleen kop of Zonder onderwerp staat.
 
 ## 2. Inbox en agenda
 

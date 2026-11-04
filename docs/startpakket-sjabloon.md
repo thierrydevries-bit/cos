@@ -19,6 +19,13 @@
 ## Alleen kop
 - [afzenders of domeinen]
 
+## Zonder onderwerp
+- [afzenders of domeinen waarvan ook het onderwerp niet getoond wordt, met de naam die hij gebruikt]
+
+## Agenda's
+- [per agenda: naam, van wie, lezen of schrijven, waarvoor]
+- Nieuwe blokken in: [de ene schrijfagenda]
+
 ## Woordenlijst
 - [namen, merken, leveranciers, adressen]
 

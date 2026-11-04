@@ -4,9 +4,9 @@ Eenmalig, of als de Spelregels ontbreken. Alleen in een gesprek met de gebruiker
 
 Knoppen in Claude zijn Engels. Noem ze letterlijk en vet, met de weg erheen: klik op **Customize**, dan **Connectors**. Bedoel je het blok Instellingen in de Spelregels, zeg dan "het blok Instellingen in je Spelregels", zodat het niet verward wordt met **Settings** van Claude.
 
-Stap 1 en 2 gaan samen in één bericht. Stap 3 en 4 ook, als de koppelingen werken.
+Stap 1 en 2 gaan samen in één bericht. Stap 3, 3b en 4 ook, als de koppelingen werken en er één agenda is.
 
-Is er een startpakket (stap 0b), dan vraag je in stap 2 en 4 alleen wat er nog ontbreekt.
+Is er een startpakket (stap 0b), dan vraag je in stap 2, 3b en 4 alleen wat er nog ontbreekt.
 
 ## 0. Bestaat er al iets?
 
@@ -22,7 +22,8 @@ Vond je in stap 0 geen Spelregels, vraag dan één ding: "Heb je een startpakket
 |---|---|
 | Over jou | Naam, Mailadres, Mail en agenda, Werkdagen, Briefing in het blok Instellingen |
 | Focus | het blok Focus |
-| Niet openen, Alleen kop | het blok Instellingen. Staat er iets, dan vraag je dit niet meer in stap 2 en komt er geen `[CHECK]` achter |
+| Niet openen, Alleen kop, Zonder onderwerp | het blok Instellingen. Staat er iets, dan vraag je dit niet meer in stap 2 en komt er geen `[CHECK]` achter |
+| Agenda's | het blok Agenda. In stap 3b laat je de kaart zien en vraag je alleen wat ontbreekt |
 | Woordenlijst | het blok Woordenlijst |
 | De ene taak | onthoud hem voor na de proefbriefing (stap 8) |
 | Modules | Modules in het blok Instellingen, met de vragen van die module uit "Modules aanzetten" hieronder, alleen voor wat ontbreekt |
@@ -46,8 +47,9 @@ In hetzelfde bericht:
 1. **Training:** "Liever niet dat Claude van je gesprekken leert? Klik dan op **Settings**, dan **Privacy**, en zet **Help improve Claude** uit." Dit is een advies, geen eis.
 2. **Niet openen:** welke omgevingen, links en bijlagen mag ik nooit openen? Bijvoorbeeld SharePoint, Teams of documenten van opdrachtgevers.
 3. **Alleen kop:** van welke afzenders of domeinen mag ik alleen onderwerp, afzender en datum lezen, niet de inhoud?
+4. **Zonder onderwerp:** werk je met patiënten, cliënten of leerlingen, en staan hun namen soms in een onderwerp? Noem dan die afzenders of domeinen, en hoe ik die mail noem, bijvoorbeeld "mail van de praktijk". Dan komt ook het onderwerp niet in je briefing of in het geheugen.
 
-Geen antwoord op 2 of 3: laat het leeg en zet `[CHECK]` erachter. De eerste weekreview vraagt het nog één keer (zie `weekreview.md`).
+Geen antwoord op 2 of 3: laat het leeg en zet `[CHECK]` erachter. De eerste weekreview vraagt het nog één keer (zie `weekreview.md`). Geen antwoord op 4: laat het leeg, zonder `[CHECK]`.
 
 ## 3. Koppelingen
 
@@ -68,6 +70,27 @@ In de plug-in zitten deze koppelingen:
 
 - **Andere tools,** zoals Trello, Pipedrive, Monday of Canva, mogen ook. Zeg in één zin: "Gebruik je nog iets anders? Dat kun je zelf toevoegen: klik op **Customize**, dan **Connectors**. Of vraag het me later."
 - Faalt mail én agenda, stop dan hier. Zonder mail of agenda werkt de briefing niet.
+
+## 3b. Agenda-kaart
+
+Een briefing die de helft van je agenda mist, is geen goede briefing. Kijk daarom welke agenda's de koppeling ziet.
+
+**Eén agenda:** vraag één ding: "Ik zie één agenda, [naam]. Heb je er nog een, bijvoorbeeld in iCloud, van je werk of samen met iemand?" Nee: zet hem op de kaart als schrijfagenda en ga door. Agenda's met alleen feestdagen of verjaardagen tellen niet mee.
+
+**Meer agenda's:** laat de kaart zien en vul hem samen in.
+
+| Agenda | Van wie | Lezen of schrijven | Waarvoor |
+|---|---|---|---|
+| [naam] | [gebruiker, partner, gezin, werk] | [lezen / schrijven] | [waarvoor hij dient] |
+
+Vraag daarna twee dingen: "Mis ik er een?" en "In welke agenda zet ik nieuwe blokken?" Dat is de schrijfagenda. Er is er maar één.
+
+- **Dubbele namen:** heten twee agenda's hetzelfde, vraag dan welke welke is en zet dat op de kaart. Hernoemen doet de gebruiker.
+- **Agenda van een ander of gedeeld:** alleen lezen, tenzij de gebruiker anders zegt. Daarin plan je nooit zelf iets.
+- **iCloud:** daar is geen koppeling voor. Je kunt zo'n agenda alleen lezen via een abonnement in Google Agenda, en er nooit in schrijven. Dat abonnement vraagt een openbare link: wie de link heeft, ziet de agenda. Zeg dat erbij en laat de gebruiker kiezen.
+- **Zie je een agenda niet:** zet hem op de kaart met "niet zichtbaar" en ga door. Je kunt er niet op rekenen in de briefing.
+
+Onthoud de kaart. Hij gaat in stap 5 in het blok Agenda.
 
 ## 4. Vier vragen
 
@@ -107,9 +130,9 @@ Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Gee
 
 **Google Drive:** een map **"Chief of staff"** met het document **"Chief of staff · Spelregels"** en de spreadsheet **"Chief of staff · Registers"**, met de tabbladen uit `geheugen.md`. Vul het blok Instellingen op dezelfde manier.
 
-Zet in beide gevallen de links van de registers en van de Spelregels zelf in het blok Instellingen.
+Zet in beide gevallen de agenda-kaart uit stap 3b in het blok Agenda, en de links van de registers en van de Spelregels zelf in het blok Instellingen.
 
-**Licht:** maak niets aan. Schrijf het blok Spelregels (Instellingen, Focus en Regels) uit als tekst. Dat gaat in stap 7 in de opdracht van de geplande taken.
+**Licht:** maak niets aan. Schrijf het blok Spelregels (Instellingen, Focus, Agenda en Regels) uit als tekst. Dat gaat in stap 7 in de opdracht van de geplande taken.
 
 ## 6. Rechten
 
@@ -137,16 +160,19 @@ Opdracht: Gebruik de skill chief-of-staff en maak de weekreview.
 
 Zeg erbij hoe het moet: "Plak de opdracht in een nieuw gesprek, vraag Claude hem te plannen en klik op **Schedule**. Werk je in Cowork: klik op **Scheduled**, dan **New task**." En: elke geplande run telt mee voor het gebruik van je Claude-abonnement.
 
+Geef in één zin dit advies: "Zet op je telefoon de meldingen van andere apps uit en die van Claude aan. Dan zie je alleen wat ik voor je klaarzet." Dit is een advies, geen eis.
+
 ## 8. Proefbriefing
 
 De laatste stap. Maak meteen een briefing volgens de gewone stappen, ook als het vandaag geen werkdag is. Titel: `⚡ Proefbriefing | [dag] [DD-MM]`. Log hem met Soort "Proef" (in de lichte opzet log je niets). Hij telt niet mee voor de stand van tien op rij.
 
-Zet onder de briefing een korte afronding, hooguit zes regels:
+Zet onder de briefing een korte afronding, hooguit zeven regels:
 
 - "Zo ziet je briefing er elke werkdag uit. Je kunt er nu al mee aan de slag."
 - wat er klaarstaat, met de link naar "Chief of staff" (in de lichte opzet: het blok Spelregels om te plakken);
 - welke `[CHECK]`-punten de gebruiker nog kan nalopen in het blok Instellingen in je Spelregels;
 - één regel over de agenda: "Zo lees ik je agenda: hard is [voorbeelden van vandaag], flexibel is [voorbeelden van vandaag], 15 minuten ruimte. Klopt dat?" Vul het blok Agenda aan op het woord van de gebruiker;
+- alleen met meer agenda's: stel één echt eigen blok voor, bijvoorbeeld de weekreview of een uur voor jezelf. Na een ja zet je het in de schrijfagenda en vraag je: "Zie je het op je telefoon?" Geen testafspraak, want je verwijdert niets. Ziet de gebruiker het niet, dan staat die agenda op de telefoon uit;
 - "Later, als je wilt: je hoofd leegmaken, je schrijfstijl leren (/mijn-stem), modules zoals Feestdagen of Fit & mindful, en seintjes overdag. Ik bied ze een voor een aan in de weekreview.";
 - "Reageer de komende twee weken op elke briefing, ook als hij goed is. Daar leer ik van."
 
@@ -156,7 +182,7 @@ Met een startpakket mag de afronding twee regels langer: de extra skills en wat 
 
 Deze stappen zaten vroeger in het inrichten. Nu biedt het verbeterblok van de weekreview ze aan (zie `weekreview.md`), of de gebruiker vraagt erom.
 
-**Startvulling.** Alleen met Notion of Google Drive. Lees de verzonden mail van de laatste 14 dagen. Zet toezeggingen die nog open lijken in Toezeggingen, met *Bevestigd* uit en bronlink. Hooguit 10, de nieuwste eerst. Volg Niet openen en Alleen kop: mail aan of van een Alleen kop-afzender krijgt geen citaat en geen inhoud, alleen een korte omschrijving in je eigen woorden, op basis van het onderwerp. Kun je het niet zeggen zonder de inhoud, sla het dan over.
+**Startvulling.** Alleen met Notion of Google Drive. Lees de verzonden mail van de laatste 14 dagen. Zet toezeggingen die nog open lijken in Toezeggingen, met *Bevestigd* uit en bronlink. Hooguit 10, de nieuwste eerst. Volg Niet openen en Alleen kop: mail aan of van een Alleen kop-afzender krijgt geen citaat en geen inhoud, alleen een korte omschrijving in je eigen woorden, op basis van het onderwerp. Kun je het niet zeggen zonder de inhoud, sla het dan over. Mail onder Zonder onderwerp sla je altijd over.
 
 **Hoofd leegmaken.** Alleen met Notion of Google Drive. Volg Hoofd leegmaken in `werkwijze.md`.
 
@@ -177,6 +203,8 @@ Opdracht: Gebruik de skill chief-of-staff en sluit de dag af.
 ```
 
 In de lichte opzet niet: zonder log weet je niet wat je al meldde. Begin liever met één of twee seintjes per dag.
+
+**Agenda-kaart.** Voor wie het blok Agenda nog zonder kaart heeft: volg stap 3b en zet de kaart in het blok Agenda, op het woord van de gebruiker.
 
 **Overige instellingen.** Domeinen, taal, Afgerond (opdrachten die klaar zijn), Vaardigheden (skills die de gebruiker al heeft), Agenda (hard, flexibel en ruimte, zie `agenda.md`) en Elke week: vraag ernaar als ze ertoe doen, en vul ze in op het woord van de gebruiker.
 

@@ -19,6 +19,15 @@
 ## Alleen kop
 - Alle mail van @opdrachtgever-noord.example
 
+## Zonder onderwerp
+- Alle mail van @praktijk-oost.example, naam: mail van de praktijk
+
+## Agenda's
+- Sam werk: van Sam, schrijven, afspraken en blokken
+- Gezin: gedeeld, lezen, schoolvakanties en sport
+- [AANVULLEN] iCloud-agenda
+- Nieuwe blokken in: Sam werk
+
 ## Woordenlijst
 - Studio Voorbeeld (eigen bedrijf)
 - Opdrachtgever Noord
