@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.7.1 · 4 november 2026
+## 1.7.1 · 5 november 2026
 - **Agenda-kaart bij /inrichten.** Na de koppelingen zet hij al je agenda's op een rij: van wie ze zijn, of hij mag lezen of schrijven, en waar nieuwe blokken komen. Heb je één agenda, dan is het één vraag. Eerder ingericht? Zeg "maak mijn agenda-kaart".
 - **Zonder onderwerp.** Een derde niveau naast Niet openen en Alleen kop, voor afzenders waarvan zelfs het onderwerp gevoelig is, zoals een patiëntnaam. Hij noemt zo'n mail alleen met de naam die jij kiest. Let op: dit beperkt wat hij toont en bewaart. Het onderwerp komt wel langs als hij de mail ophaalt.
 - **Wacht op antwoord, elke dag.** Stelde je een vraag per mail en kwam er na 2 werkdagen geen antwoord, dan zet hij dat in je register. Dan hoef je jezelf niet meer in de CC te zetten. Dit geldt niet voor mail onder Alleen kop en Zonder onderwerp. Zonder geheugen zie je het alleen in de briefing.
