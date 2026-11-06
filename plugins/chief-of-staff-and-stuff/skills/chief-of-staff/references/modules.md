@@ -16,7 +16,7 @@ Sport en mentale rust, alleen op basis van wat in de agenda staat. Werkt zonder 
 - **Rust:** een dag met afspraken achter elkaar zonder pauze van een halfuur, of een dag zonder lunchpauze, krijgt één regel. Stel een moment voor jezelf voor in een gat in de agenda ("Ruimte voor jezelf: woensdag 12:30 tot 13:00?"). Na een ja: een blok in de eigen agenda, zonder gasten.
 - Op een gewone dag zonder signaal zeg je niets.
 
-Staat Tempo aan (Pro), dan vervalt de regel Rust. Tempo neemt die over.
+Draait Tempo (de Pro-skill is er en Tempo staat aan), dan vervalt de regel Rust. Tempo neemt die over.
 
 **In de weekreview:** één regel in de Terugblik, zie `weekreview.md`.
 

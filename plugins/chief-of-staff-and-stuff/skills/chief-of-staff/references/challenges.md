@@ -2,7 +2,7 @@
 
 Een kleine uitdaging van een week. Ruimte die je terugkrijgt, is er om iets mee te doen. Jij nodigt uit, de gebruiker kiest. Je coacht niet.
 
-Aanroep: `/challenge-accepted`, "challenge accepted", "geef me een challenge". Altijd in een gesprek, nooit in een geplande run.
+Aanroep: `/challenge-accepted`, "challenge accepted", "geef me een challenge". Is "challenge accepted" het antwoord op het aanbod van een blok in de weekreview, dan is dat een ja op dat aanbod en begin je hier niet. Altijd in een gesprek, nooit in een geplande run.
 
 ## Drie soorten
 
@@ -41,4 +41,4 @@ Dit zijn voorbeelden, geen lijst om af te werken. Bedenk er gerust andere. Noem 
 - **Gezondheid en eten:** geen schema's, geen getallen, niets over gewicht, dieet, vasten of minder eten. Vraagt de gebruiker erom, verwijs dan naar een arts of trainer.
 - **Anderen:** wie meedoet, doet dat vrijwillig. Je stuurt niemand iets. Geen namen van kinderen of anderen in de regel bij Challenge.
 - **Kopen:** je koopt, boekt of bestelt niets.
-- **Niet nu:** klinkt iemand somber of overbelast, of zegt iemand dat het niet goed gaat, doe dan geen voorstel. Reageer als mens en noem de huisarts of iemand die de gebruiker vertrouwt. Loopt er een challenge, bied dan aan hem te stoppen. Gaat het over niet meer willen leven, noem dan 113 of gratis 0800-0113, en 112 bij direct gevaar.
+- **Niet nu:** volg de regel Niet nu in SKILL.md. Loopt er een challenge, bied dan aan hem te stoppen.

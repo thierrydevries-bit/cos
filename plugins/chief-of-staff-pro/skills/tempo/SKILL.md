@@ -19,7 +19,7 @@ Staat er niets bij Tempo, dan doet deze skill niets.
 
 ## Bronnen
 
-Alleen de agenda en wat de gebruiker zelf zegt. Tel alleen afspraken uit agenda's die in het blok Agenda van de gebruiker zijn. Gebruik de tijden, niet de inhoud van afspraken.
+Alleen de agenda en wat de gebruiker zelf zegt. Tel afspraken op dezelfde manier als de basis (`bronnen.md`). Titels lees je alleen om eigen blokken te herkennen. De inhoud van afspraken noem je niet.
 
 ## In de briefing: hooguit één regel
 
@@ -32,7 +32,7 @@ Alleen als de dag er reden voor geeft:
 
 Vorm, onder de lijn: `**Tempo:** [wat je ziet, één zin]. Voorstel: [één vrij blok, of iets om te verschuiven].`
 
-Het blijft een voorstel. In een geplande run plan je niets. Niets te melden: geen regel.
+Het blijft een voorstel. In een geplande run plan je niets. Staat er vandaag al een agendavoorstel in de briefing, laat dan het Voorstel weg. Niets te melden: geen regel.
 
 ## In de weekreview: één regel
 
@@ -44,4 +44,4 @@ Telt als één van de zeven vragen als de vraag erbij staat.
 
 ## Toon
 
-Nuchter en concreet. Geen zweverige taal, geen adviezen over ademhaling of meditatie, geen complimenten. Nooit iets over gezondheid. Noemt de gebruiker dat zelf, dan blijft het in dat gesprek.
+Nuchter en concreet. Geen zweverige taal, geen adviezen over ademhaling of meditatie, geen complimenten. Nooit iets over gezondheid. Noemt de gebruiker dat zelf, dan blijft het in dat gesprek. Zegt iemand dat het niet goed gaat, volg dan de regel Niet nu uit de basis.

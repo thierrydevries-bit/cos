@@ -4,7 +4,7 @@ Eenmalig, of als de Spelregels ontbreken. Alleen in een gesprek met de gebruiker
 
 Knoppen in Claude zijn Engels. Noem ze letterlijk en vet, met de weg erheen: klik op **Customize**, dan **Connectors**. Bedoel je het blok Instellingen in de Spelregels, zeg dan "het blok Instellingen in je Spelregels", zodat het niet verward wordt met **Settings** van Claude.
 
-Stap 1 en 2 gaan samen in één bericht. Stap 3, 3b, 3c en 4 ook, als de koppelingen werken en er één agenda is.
+Stap 1 en 2 gaan samen in één bericht. Stap 3 en 3b ook, als de koppelingen werken en er één agenda is. Stap 3c en stap 4 krijgen elk een eigen bericht.
 
 Is er een startpakket (stap 0b), dan vraag je in stap 2, 3b, 3c en 4 alleen wat er nog ontbreekt.
 
@@ -94,18 +94,18 @@ Onthoud de kaart. Hij gaat in stap 5 in het blok Agenda.
 
 ## 3c. Je takenlijst
 
-Hier zit vaak de meeste onrust. Vraag: "Hoe houd je nu je taken bij? Op één plek of op meer plekken? Heb je een to-do-app of een lijstje, maak dan een screenshot en plak hem hier. Overslaan mag."
+Hier zit vaak de meeste onrust. Vraag: "Hoe houd je nu je taken bij? Op één plek of op meer plekken? Heb je een to-do-app of een lijstje, maak dan een screenshot en plak hem hier. Haal eerst weg wat vertrouwelijk is, want de screenshot blijft in dit gesprek staan. Overslaan mag."
 
 - **Geen lijst of overslaan:** ga door.
-- **Wel een lijst:** zeg in hooguit drie regels wat je ziet: ongeveer hoeveel, op hoeveel plekken, en welke thema's. Geen namen van anderen en niets over gezondheid.
-- **Neem niets over.** Zeg: "Dat is veel om bij je te dragen. Ik neem nu niets over. Als je wilt, maken we later samen je hoofd leeg, dan komt het op één lijst." Laat niemand van tool wisselen.
-- Onthoud alleen de plek of de app. Die gaat in stap 5 in de Instellingen bij Taken. De screenshot bewaar je niet.
+- **Wel een lijst:** zeg in hooguit drie regels wat je ziet: ongeveer hoeveel, op hoeveel plekken, en welke thema's. Geen namen van anderen en niets over gezondheid of geld.
+- **Neem niets over.** Zeg: "Ik neem nu niets over." Bij een lange lijst mag er één zin voor: "Dat is veel om bij je te dragen." Hoofd leegmaken komt later, als er een geheugen is. Laat niemand van tool wisselen.
+- Onthoud alleen de plek of de app. Die gaat in stap 5 in de Instellingen bij Taken. De screenshot neem je niet over in het geheugen.
 
 ## 4. Vijf vragen
 
 Nodig de gebruiker eerst uit om te praten, want daar zit de winst:
 
-"Typen hoeft niet. Klik op de microfoon en lees deze zin voor: ik vind het comfortabel om tegen mijn computer te praten. Lukt dat, antwoord dan ook hardop op de vragen hieronder. Pakt Claude je Nederlands niet goed op, gebruik dan het dicteren van je computer of de microfoon op het toetsenbord van je telefoon."
+"Typen hoeft niet. Zet het dicteren van je computer aan en lees deze zin voor: ik vind het comfortabel om tegen mijn computer te praten. Op je telefoon gebruik je de microfoon van je toetsenbord. Lukt dat, antwoord dan ook hardop op de vragen hieronder."
 
 Stel daarna deze vragen in één bericht en wacht op antwoord:
 
@@ -122,10 +122,10 @@ Mail en agenda volgen uit stap 3. Al het andere krijgt een standaard met `[CHECK
 - Concepten: in het mailprogramma als de koppeling dat kan (stap 3), anders onder de briefing.
 - Schrijfstijl zakelijk: kort en vriendelijk, in de je-vorm. Schrijfstijl persoonlijk: kort en hartelijk. Dit verfijnt de skill mijn-stem later.
 - Dringend is: een klant of opdrachtgever wacht op antwoord vandaag, of een botsing in de agenda.
-- Geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten zetten of verschuiven.
+- Geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten zetten of verschuiven; met de routine Opruimen ook bestanden verplaatsen.
 - Agenda: alles met anderen is hard, eigen blokken als werkblok, focus en sport zijn flexibel, 15 minuten ruimte tussen afspraken (zie `agenda.md`).
 
-Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Geen focus: laat de Focus leeg; dan doe je alleen nee-voorstellen op "bleef liggen". Vraag 5 zet je in het blok Focus bij Ruimte voor. Geen antwoord: laat het leeg. Noemt iemand gezondheid of hoe het gaat, bewaar dan alleen de keuze uit de lijst, of niets. Dit is geen test: vraag niet door. Voor de naam is er geen standaard: vraag hem opnieuw.
+Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Geen focus: laat de Focus leeg; dan doe je alleen nee-voorstellen op "bleef liggen". Vraag 5 zet je in het blok Focus bij Ruimte voor. Geen antwoord: laat het leeg. Noemt iemand gezondheid of hoe het gaat, bewaar dan alleen de keuze uit de lijst, of niets. Dit is geen test: vraag niet door. Zegt iemand dat het niet goed gaat, volg dan de regel Niet nu in SKILL.md. Het inrichten kan wachten. Voor de naam is er geen standaard: vraag hem opnieuw.
 
 ## 5. Geheugen aanmaken
 
@@ -187,7 +187,7 @@ Zet onder de briefing een korte afronding, hooguit acht regels:
 - welke `[CHECK]`-punten de gebruiker nog kan nalopen in het blok Instellingen in je Spelregels;
 - één regel over de agenda: "Zo lees ik je agenda: hard is [voorbeelden van vandaag], flexibel is [voorbeelden van vandaag], 15 minuten ruimte. Klopt dat?" Vul het blok Agenda aan op het woord van de gebruiker;
 - alleen met meer agenda's: stel één echt eigen blok voor, bijvoorbeeld de weekreview of een uur voor jezelf. Na een ja zet je het in de schrijfagenda en vraag je: "Zie je het op je telefoon?" Geen testafspraak, want je verwijdert niets. Ziet de gebruiker het niet, dan staat die agenda op de telefoon uit;
-- "Zet de Claude-app op je telefoon en zeg onderweg: noteer, gevolgd door wat je kwijt wilt. Zo komt het uit je hoofd op je lijst.";
+- alleen met Notion of Google Drive: "Zet de Claude-app op je telefoon. Onderweg tik je op de microfoon van je toetsenbord en zeg je: noteer, gevolgd door wat je kwijt wilt.";
 - "Later, als je wilt: je hoofd leegmaken, je doelen uitwerken (/doelen), je schrijfstijl leren (/mijn-stem), modules zoals Feestdagen of Fit & mindful, en seintjes overdag. Ik bied ze een voor een aan in de weekreview.";
 - "Reageer de komende twee weken op elke briefing, ook als hij goed is. Daar leer ik van."
 
@@ -198,6 +198,8 @@ Met een startpakket mag de afronding twee regels langer: de extra skills en wat 
 Deze stappen zaten vroeger in het inrichten. Nu biedt het verbeterblok van de weekreview ze aan (zie `weekreview.md`), of de gebruiker vraagt erom.
 
 **Startvulling.** Alleen met Notion of Google Drive. Lees de verzonden mail van de laatste 14 dagen. Zet toezeggingen die nog open lijken in Toezeggingen, met *Bevestigd* uit en bronlink. Hooguit 10, de nieuwste eerst. Volg Niet openen en Alleen kop: mail aan of van een Alleen kop-afzender krijgt geen citaat en geen inhoud, alleen een korte omschrijving in je eigen woorden, op basis van het onderwerp. Kun je het niet zeggen zonder de inhoud, sla het dan over. Mail onder Zonder onderwerp sla je altijd over.
+
+**Doelen.** Zie `doelen.md`.
 
 **Hoofd leegmaken.** Alleen met Notion of Google Drive. Volg Hoofd leegmaken in `werkwijze.md`.
 

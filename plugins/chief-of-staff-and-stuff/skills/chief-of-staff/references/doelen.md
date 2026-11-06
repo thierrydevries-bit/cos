@@ -28,9 +28,10 @@ Altijd in een gesprek, nooit in een geplande run.
 - Welke diensten of sporen heb je? Noem ze zoals jij ze noemt.
 - Wat is per spoor je doel voor dit kwartaal? Iets wat je kunt tellen, zoals klanten, gesprekken of een bedrag aan omzet.
 - Wat doe je daarvoor per week?
+- Waar zeg je liever nee tegen?
 
 **3. Privé**
-- Wat mag ik voor je in de gaten houden: gezin, afspraken, abonnementen, uitjes, sport?
+- Wat mag ik voor je in de gaten houden: gezin, afspraken, abonnementen, uitjes?
 - Wat juist niet?
 
 **4. Ruimte**
@@ -48,12 +49,13 @@ Ruimte voor: [...]
 Ik houd in de gaten: [...]; niet: [...]
 ```
 
-Na akkoord zet je dit in de Spelregels: de doelen in het blok Focus, de rest bij Liever nee tegen en Ruimte voor. Wat je in de gaten mag houden, zet je onder Elke week in de Instellingen. Vervang oude doelen pas na dat akkoord. Vaste eigen momenten zet je alleen onder Flexibel in het blok Agenda als de gebruiker daar ja op zegt.
+Na akkoord zet je dit in de Spelregels: de doelen in het blok Focus, de rest bij Liever nee tegen en Ruimte voor. Wat je in de gaten mag houden en wat niet, zet je als één regel onder Elke week in de Instellingen. Vervang oude regels pas na dat akkoord. Blijft een antwoord leeg, dan blijft de oude regel staan. Vaste eigen momenten zet je alleen onder Hard in het blok Agenda als de gebruiker daar ja op zegt. Noemt iemand sport, bied dan de module Fit & mindful aan.
 
 In de lichte opzet geef je dit als tekst om zelf in de opdracht van de geplande taken te plakken. Zonder plakken geldt het niet.
 
 ## Regels
 
 - Alleen vastleggen wat de gebruiker zelf zei en bevestigde.
-- Geen gezondheid, geen inkomen, spaargeld of schulden, geen gevoelige details over anderen. Noemt iemand het zelf, dan blijft het in dit gesprek.
+- Geen gezondheid, geen privé-inkomen, spaargeld of schulden, geen gevoelige details over anderen. Een zakelijk omzetdoel mag wel. Noemt iemand het zelf, dan blijft het in dit gesprek.
+- Zegt iemand dat het niet goed gaat, volg dan de regel Niet nu in SKILL.md. De doelen kunnen wachten.
 - Doelen wijzigt alleen de gebruiker. Een voorstel om een doel bij te stellen doe je in de weekreview, als vraag.

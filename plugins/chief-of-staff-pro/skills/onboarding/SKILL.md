@@ -5,7 +5,7 @@ description: 'Pro-module van Chief of Staff...and stuff: de eerste week na het i
 
 # Onboarding (Pro)
 
-*Chief of Staff...and stuff · Pro.* Versie 0.1, 2 november 2026.
+*Chief of Staff...and stuff · Pro.* Versie 0.2, 6 november 2026.
 
 De eerste week na het inrichten. Eén nieuwe gewoonte per keer: elke werkdag één stap, in een blok van 30 tot 45 minuten dat al in de agenda staat. Na vijf stappen werkt de gebruiker zelf met de chief of staff. Seeing is believing: de onboarding is meteen een actie.
 
@@ -68,7 +68,7 @@ De skill chief-of-staff roept dit aan bij het schrijven van de ochtendbriefing e
    | Stap | Hoe, in één zin |
    |---|---|
    | 2 | Reageer op deze briefing met één woord, en zeg welke mail ik moet klaarzetten. |
-   | 3 | Open de Claude-app op je telefoon en zeg: "zet op de lijst", met wat je kwijt wilt. |
+   | 3 | Open de Claude-app op je telefoon, tik op de microfoon van je toetsenbord en zeg: "zet op de lijst", met wat je kwijt wilt. |
    | 4 | Typ `/hoofd-leegmaken` en neem tien minuten voor alles wat in je hoofd zit. |
    | 5 | Lees je weekreview en zeg bij één regelvoorstel "akkoord". |
 

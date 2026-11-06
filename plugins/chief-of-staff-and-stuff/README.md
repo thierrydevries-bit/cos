@@ -53,7 +53,7 @@ Losse dingen tussendoor: "noteer: bel de gemeente", "bespreek met Sanne: de plan
 
 ## Pro
 
-Wie de chief of staff samen met Thierry inricht, krijgt er **Chief of Staff...and stuff · Pro** bij, uit dezelfde marketplace. Pro vult aan en overschrijft niets: zonder Pro werkt deze plug-in precies hetzelfde. Heb je een startpakket van je inrichtsessie, dan leest `/inrichten` dat in en vraagt alleen naar wat ontbreekt. Dat werkt ook zonder Pro. Let op: deze Pro is iets anders dan het Claude-abonnement Pro.
+Meer begeleiding nodig? Er is ook **Chief of Staff...and stuff · Pro**, uit dezelfde marketplace. Pro vult aan en overschrijft niets: zonder Pro werkt deze plug-in precies hetzelfde. Heb je een startpakket van je inrichtsessie, dan leest `/inrichten` dat in en vraagt alleen naar wat ontbreekt. Dat werkt ook zonder Pro. Let op: deze Pro is iets anders dan het Claude-abonnement Pro.
 
 ## Gegevens
 
