@@ -16,6 +16,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 6. **Wacht op:** wie is aan de beurt voor een herinnering (volgens de Regels)? Zet het concept klaar.
 7. **Projecten:** heeft elk project met Status Actief een volgende actie met Status Open of Wacht op ander? Werk *Laatst bekeken* bij. Een project zonder volgende actie komt in de review.
 8. **Vaste checklists:** loop de modules langs die aan staan (bijvoorbeeld Feestdagen: welke feestdagen vallen binnen hun aanloop, hoeveel wensen staan open) en wat de gebruiker onder *Elke week* in de Instellingen zette. Staat de routine Opruimen aan, doe dan in de eerste weekreview van de maand de maandronde uit `opruimen.md`, voor de plekken die je in deze run bereikt.
+8b. **Stand.** Staat bij Stand in de Instellingen "maandelijks" en is dit de eerste weekreview van de maand, werk de pagina dan bij (`stand.md`).
 
 **Vooruit**
 9. **Parkeerplaats:** is er iets dat nu actief kan worden, of dat weg kan?

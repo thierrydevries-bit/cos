@@ -75,6 +75,7 @@ De skill chief-of-staff roept dit aan bij het schrijven van de ochtendbriefing e
 3. **Stap 5** staat bovenaan de weekreview, niet in de ochtendbriefing. Staat er een link bij Prikbord, zet die erachter: "Meer tips en vragen van anderen: [prikbord]." Staat er niets, laat de zin weg.
 4. Vind je het blok van vandaag niet in de agenda, laat dan "Je blok staat om ..." weg. Plan het niet zelf opnieuw in een geplande run.
 5. Na stap 5: één regel onder de weekreview: "Je onboarding is klaar. Vanaf nu ben je los." Daarna lever je niets meer.
+6. Staat er een link bij Stand, werk die pagina dan bij in de weekreview van stap 5 (`stand.md` van de basis). Stel daar ook de keuze voor uit "Na de onboarding" in dat bestand.
 
 ## Waar sta ik?
 

@@ -86,6 +86,7 @@ Opruimen:        [per plek de soort en de regel, bijv. Downloads = doorgeefluik 
 Inboxronde:      [uit / maandelijks; dag 1, 08:40]
 Houden:          [afzenders die nooit worden voorgesteld, met de reden, bijv. (label Inspiratie, buiten de inbox)]
 Inboxdashboard:  [leeg, of aan met de link; alleen met Pro]
+Stand:           [leeg, of de link; met "maandelijks" erachter als de gebruiker dat wil]
 Tempo:           [leeg, of aan; alleen met Pro]
 Taken:           [waar de gebruiker nu zijn taken bijhoudt, uit het inrichten]
 Challenge:       [leeg, of: wat, van JJJJ-MM-DD tot JJJJ-MM-DD. Zie challenges.md]

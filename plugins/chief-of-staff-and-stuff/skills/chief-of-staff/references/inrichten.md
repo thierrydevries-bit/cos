@@ -10,7 +10,7 @@ Is er een startpakket (stap 0b), dan vraag je in stap 2, 3b, 3c en 4 alleen wat 
 
 ## 0. Bestaat er al iets?
 
-Zoek in Notion en in Google Drive naar "Chief of staff · Spelregels", voor zover die koppelingen aan staan. Vind je er een, maak dan geen nieuwe set. Vul alleen aan wat ontbreekt en vraag alleen naar de lege velden. Komt de set uit een oudere versie, voeg dan ontbrekende registers en velden toe volgens `geheugen.md` (bijvoorbeeld Projecten, en in Toezeggingen de status Inbox, de richtingen Eigen actie en Bespreken, Omvang en Project). Verwijder of hernoem niets.
+Zoek in Notion en in Google Drive naar "Chief of staff · Spelregels", voor zover die koppelingen aan staan. Vind je er een, maak dan geen nieuwe set. Vul alleen aan wat ontbreekt en vraag alleen naar de lege velden. Komt de set uit een oudere versie, voeg dan ontbrekende registers en velden toe volgens `geheugen.md` (bijvoorbeeld Projecten, en in Toezeggingen de status Inbox, de richtingen Eigen actie en Bespreken, Omvang en Project). Verwijder of hernoem niets. Was het inrichten nog niet af, geef dan de korte stand uit `stand.md` en ga verder waar het ophield.
 
 ## 0b. Startpakket?
 
@@ -201,6 +201,10 @@ Zet onder de briefing een korte afronding, hooguit acht regels:
 - "Reageer de komende twee weken op elke briefing, ook als hij goed is. Daar leer ik van."
 
 Met een startpakket mag de afronding twee regels langer: de extra skills en wat er nog te regelen is (zie stap 0b). Staat de skill `chief-of-staff-pro:onboarding` in je lijst, sluit dan af met: "Zeg 'start de onboarding', dan zet ik de blokken van week 1 in je agenda."
+
+## 9. Stand van de inrichting
+
+Maak de pagina uit `stand.md`, na de afronding en na de ene taak uit het startpakket als die er is. Zeg in één regel: "Hier zie je wat er staat en wat nog open is: [link]. De pagina is privé tot je hem deelt." Stopt de gebruiker eerder, geef dan de korte stand uit `stand.md`.
 
 ## Later: wat de weekreview aanbiedt
 

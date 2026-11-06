@@ -2,6 +2,7 @@
 
 ## 1.8.0 en Pro 0.2.0 · 6 november 2026
 - **Nieuw: de Inboxronde.** Eens per maand kijkt hij naar de afzenders in je inbox, zonder je mail te openen. Je krijgt hooguit vijf voorstellen: afmelden, minder vaak, filter of Inspiratie. Pas na jouw akkoord gebeurt er iets, en afmelden doe je standaard zelf. Op verzoek doet hij het in de browser. Standaard aan bij het inrichten. Gebruik je de plug-in al? De weekreview biedt hem aan. Getest met Gmail, niet met Microsoft 365.
+- **Nieuw: de stand van de inrichting.** Stop je halverwege, dan zegt hij waar je staat en waar je verdergaat. Aan het eind van het inrichten krijg je een pagina die je kunt delen: wat staat er, wat loopt nog, wat doe jij nog even. Vraag hem op met `/waar-staan-we`. Met Pro werkt hij de pagina bij in de onboardingweek.
 - **Pro: het inboxdashboard.** Een vaste pagina met je kerncijfers, wat er wacht en het effect over de maanden. Hiervoor opent hij je mail van echte mensen, alleen als je dat aanzet.
 - **Opruimen begint nu met de grote afwas.** Eenmalig per plek spreek je af wat voor plek het is: een doorgeefluik zoals Downloads, je eigen indeling, of een map van een app. De achterstand gaat in groepen weg, met één ja per groep. Daarna houdt de maandronde het bij.
 - **Indelen op thema** (optioneel). Staat er na het archiveren nog veel los, dan stelt hij genummerde mappen voor. Alleen op naam, hij opent niets, en er verhuist niets zonder ja.
