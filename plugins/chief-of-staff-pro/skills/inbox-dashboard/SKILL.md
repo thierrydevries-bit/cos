@@ -21,10 +21,10 @@ Staat er geen "aan" bij Inboxdashboard, dan doet deze skill niets.
 
 Na de stap Voorstellen en voor Afsluiten van de analyse in `inboxronde.md`, ook in een geplande run:
 
-1. **Verzonden mail erbij.** Haal ook de verzonden mail van die maand op, in dezelfde vensters.
+1. **Verzonden mail erbij.** Haal ook de verzonden mail van die maand op, in dezelfde vensters en in dezelfde weergave met alleen kopgegevens.
 2. **Overslaan.** Niet open gaat elke thread waarin een adres of domein onder Niet openen, Alleen kop of Zonder onderwerp voorkomt, als afzender of ontvanger. Die tel je alleen bij het totaal, niet als beantwoord en niet bij het aandeel beantwoord.
-3. **Echte mensen.** Deel de andere threads in als echt persoon of automatisch. Open alleen threads van echte mensen, volledig. Een thread telt als beantwoord als de gebruiker erin schreef na een bericht van iemand anders.
-4. **Wat wacht.** Open punten in het register, onbeantwoorde verzoeken en onverstuurde concepten. Kijk of ze niet al elders geregeld zijn.
+3. **Echte mensen.** Deel de andere threads in als echt persoon of automatisch. Open alleen threads van echte mensen, volledig, maar nooit bijlagen of links. Een thread telt als beantwoord als de gebruiker erin schreef na een bericht van iemand anders.
+4. **Wat wacht.** Open punten in het register, onbeantwoorde verzoeken en onverstuurde concepten. Kijk of ze niet al elders geregeld zijn. Ook hier geldt stap 2: open niets met een adres of domein onder Niet openen, Alleen kop of Zonder onderwerp. Concepten tel je alleen, je opent ze niet.
 5. **Bijwerken.** De pagina die in de Instellingen staat, elke maand dezelfde. Staat er geen link, of lukt het niet, maak dan geen nieuwe pagina: geef de cijfers als tekst en zeg dat het dashboard niet is bijgewerkt.
 6. **Afsluiten.** Zet de link bij de drie cijfers.
 
