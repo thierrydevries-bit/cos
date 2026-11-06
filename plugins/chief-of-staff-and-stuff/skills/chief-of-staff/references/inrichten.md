@@ -1,6 +1,6 @@
 # Inrichten
 
-Eenmalig, of als de Spelregels ontbreken. Alleen in een gesprek met de gebruiker, nooit in een geplande run. Doel: in twintig minuten een werkende chief of staff. Eerst privacy, dan de koppelingen, en als laatste stap meteen een proefbriefing: de gebruiker kan direct beginnen. Al het andere komt later, via de weekreview. Maak niets aan voordat de gebruiker de vragen heeft beantwoord.
+Eenmalig, of als de Spelregels ontbreken. Alleen in een gesprek met de gebruiker, nooit in een geplande run. Doel: in twintig minuten een werkende chief of staff. Eerst privacy, dan de koppelingen, en daarna meteen een proefbriefing: de gebruiker kan direct beginnen. Al het andere komt later, via de weekreview. Maak niets aan voordat de gebruiker de vragen heeft beantwoord.
 
 Knoppen in Claude zijn Engels. Noem ze letterlijk en vet, met de weg erheen: klik op **Customize**, dan **Connectors**. Bedoel je het blok Instellingen in de Spelregels, zeg dan "het blok Instellingen in je Spelregels", zodat het niet verward wordt met **Settings** van Claude.
 
@@ -10,7 +10,9 @@ Is er een startpakket (stap 0b), dan vraag je in stap 2, 3b, 3c en 4 alleen wat 
 
 ## 0. Bestaat er al iets?
 
-Zoek in Notion en in Google Drive naar "Chief of staff · Spelregels", voor zover die koppelingen aan staan. Vind je er een, maak dan geen nieuwe set. Vul alleen aan wat ontbreekt en vraag alleen naar de lege velden. Komt de set uit een oudere versie, voeg dan ontbrekende registers en velden toe volgens `geheugen.md` (bijvoorbeeld Projecten, en in Toezeggingen de status Inbox, de richtingen Eigen actie en Bespreken, Omvang en Project). Verwijder of hernoem niets. Was het inrichten nog niet af, geef dan de korte stand uit `stand.md` en ga verder waar het ophield.
+Staat er in dit gesprek al een inrichting die niet af is, of plakt de gebruiker een blok Spelregels, ga dan daar verder en sla stap 0b over.
+
+Zoek in Notion en in Google Drive naar "Chief of staff · Spelregels", voor zover die koppelingen aan staan. Vind je er een, maak dan geen nieuwe set. Vul alleen aan wat ontbreekt en vraag alleen naar de lege velden. Komt de set uit een oudere versie, voeg dan ontbrekende registers en velden toe volgens `geheugen.md` (bijvoorbeeld Projecten, en in Toezeggingen de status Inbox, de richtingen Eigen actie en Bespreken, Omvang en Project). Verwijder of hernoem niets. Is er nog geen entry met Soort Proef in het Briefinglog, dan was het inrichten niet af. Geef dan de korte stand uit `stand.md`, zonder de afsluiter, en ga verder bij de eerste stap die nog ontbreekt.
 
 ## 0b. Startpakket?
 
@@ -27,6 +29,7 @@ Vond je in stap 0 geen Spelregels, vraag dan één ding: "Heb je een startpakket
 | Woordenlijst | het blok Woordenlijst |
 | De ene taak | onthoud hem voor na de proefbriefing (stap 8) |
 | Modules | Modules in het blok Instellingen, met de vragen van die module uit "Modules aanzetten" hieronder, alleen voor wat ontbreekt |
+| Gelukt als | Gelukt als in het blok Instellingen |
 | Extra skills | noem ze in de afronding en leg uit hoe je ze toevoegt: klik op **Customize**, dan **Skills**, en upload het bestand |
 | Nog regelen | noem het in de afronding, één regel per punt |
 
@@ -187,7 +190,7 @@ Geef in één zin dit advies: "Zet op je telefoon de meldingen van andere apps u
 
 ## 8. Proefbriefing
 
-De laatste stap. Maak meteen een briefing volgens de gewone stappen, ook als het vandaag geen werkdag is. Titel: `⚡ Proefbriefing | [dag] [DD-MM]`. Log hem met Soort "Proef" (in de lichte opzet log je niets). Hij telt niet mee voor de stand van tien op rij.
+Maak meteen een briefing volgens de gewone stappen, ook als het vandaag geen werkdag is. Titel: `⚡ Proefbriefing | [dag] [DD-MM]`. Log hem met Soort "Proef" (in de lichte opzet log je niets). Hij telt niet mee voor de stand van tien op rij.
 
 Zet onder de briefing een korte afronding, hooguit acht regels:
 
@@ -204,7 +207,7 @@ Met een startpakket mag de afronding twee regels langer: de extra skills en wat 
 
 ## 9. Stand van de inrichting
 
-Maak de pagina uit `stand.md`, na de afronding en na de ene taak uit het startpakket als die er is. Zeg in één regel: "Hier zie je wat er staat en wat nog open is: [link]. De pagina is privé tot je hem deelt." Stopt de gebruiker eerder, geef dan de korte stand uit `stand.md`.
+Maak de pagina uit `stand.md`, na de afronding en na de ene taak uit het startpakket als die er is. Zeg in één regel: "Hier zie je wat er staat en wat nog open is: [link]. De pagina is privé tot je hem deelt." Stopt de gebruiker eerder, geef dan de korte stand uit `stand.md`. In de lichte opzet laat je de zin met de link weg.
 
 ## Later: wat de weekreview aanbiedt
 

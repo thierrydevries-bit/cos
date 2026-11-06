@@ -35,6 +35,9 @@
 ## Modules
 - [geen / feestdagen / fit & mindful / gespreksopnames / boekhouding / borden]
 
+## Gelukt als
+[de zin uit de intake: over drie weken is het gelukt als ...]
+
 ## Extra skills
 - [naam van de skill, en waar het bestand staat]
 
