@@ -1,12 +1,15 @@
 # Changelog
 
-## 1.7.2 · 6 november 2026
+## 1.7.2 en Pro 0.2.0 · 6 november 2026
 - **Opruimen begint nu met de grote afwas.** Eenmalig per plek spreek je af wat voor plek het is: een doorgeefluik zoals Downloads, je eigen indeling, of een map van een app. De achterstand gaat in groepen weg, met één ja per groep. Daarna houdt de maandronde het bij.
 - **Indelen op thema** (optioneel). Staat er na het archiveren nog veel los, dan stelt hij genummerde mappen voor. Alleen op naam, hij opent niets, en er verhuist niets zonder ja.
 - **Mappen op je computer** koppel je zelf met **Add folder**. Daarna kan hij ook daar opruimen, in een gesprek.
 - **Slimmer en veiliger.** Vaste patronen zoals een zip naast een uitgepakte map. Dubbel is pas dubbel bij gelijke naam én grootte. Persoonlijke bestanden blijven staan en hun namen blijven uit het voorstel. Bestanden die alleen in de cloud staan haalt hij niet op.
 - **De weekreview geeft je een kleine challenge.** Routines die tijd vragen krijgen een voorstel met een blok in je agenda voor volgende week. Niet in de eerste twee weken.
+- **Inrichten kijkt verder dan je mail.** Een vraag waar je meer ruimte voor wilt, een blik op je takenlijst (screenshot van je to-do-app) en een uitnodiging om hardop te praten. Reken op twintig minuten.
+- **Nieuw: `/doelen`.** Werk je doelen uit in een kwartier. De weekreview laat zien wat er volgende week aan bijdraagt.
 - **Nieuw: `/challenge-accepted`.** Een kleine challenge van een week, voor een gewoonte, je perspectief of iets nieuws. Hij doet drie voorstellen, jij kiest. Geen score, altijd te weigeren.
+- **Pro: Tempo.** Hij bewaakt je ritme vanuit de agenda, met hooguit één regel per dag. Zeg "zet tempo aan".
 - **Gebruik je Opruimen al?** Dan begint hij per plek met de grote afwas. De maandronde zegt wanneer. Oudere Spelregels hoef je niet aan te passen.
 
 ## 1.7.1 · 5 november 2026

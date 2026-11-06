@@ -1,6 +1,6 @@
 ---
 name: chief-of-staff
-description: 'Jouw chief of staff en personal assistant in zes rubrieken (werk en projecten, inbox en agenda, administratie, kansen, persoonlijk en gezin, focus en ruimte). Werkt volgens de principes van Getting Things Done: niets valt weg. Elke werkdag een briefing met hooguit drie belangrijke en twee kleine punten, toezeggingen bewaken, concepten klaarzetten, uitzoeken en regelen, nee helpen zeggen en op vrijdag een weekreview. Met de module Feestdagen ook wensenlijstjes, cadeaus en ideetjes voor gedichten. Leert van je reacties. Gebruik bij "briefing", "wat moet ik vandaag", "wat ligt er nog", "wie wacht op mij", "zet klaar", "zoek uit", "regel", "zet de facturen klaar", "welke kansen liggen er", "verzin iets leuks", "zet op de lijst", "wat moet er nog voor Sinterklaas", "idee voor het gedicht", "parkeer dit", "noteer", "zet op mijn lijst", "bespreek met", "hoofd leegmaken", "grote afwas", "challenge accepted", "geef me een challenge", "plan dit project", "help me nee zeggen", "weekreview", "ruim op", "richt mijn chief of staff in", "maak mijn agenda-kaart", bij feedback op een briefing en in de geplande runs. Niet voor een los gesprek uitwerken (daarvoor is van-gesprek-naar-acties, als je dat hebt).'
+description: 'Jouw chief of staff en personal assistant in zes rubrieken (werk en projecten, inbox en agenda, administratie, kansen, persoonlijk en gezin, focus en ruimte). Werkt volgens de principes van Getting Things Done: niets valt weg. Elke werkdag een briefing met hooguit drie belangrijke en twee kleine punten, toezeggingen bewaken, concepten klaarzetten, uitzoeken en regelen, nee helpen zeggen en op vrijdag een weekreview. Met de module Feestdagen ook wensenlijstjes, cadeaus en ideetjes voor gedichten. Leert van je reacties. Gebruik bij "briefing", "wat moet ik vandaag", "wat ligt er nog", "wie wacht op mij", "zet klaar", "zoek uit", "regel", "zet de facturen klaar", "welke kansen liggen er", "verzin iets leuks", "zet op de lijst", "wat moet er nog voor Sinterklaas", "idee voor het gedicht", "parkeer dit", "noteer", "zet op mijn lijst", "bespreek met", "hoofd leegmaken", "grote afwas", "mijn doelen", "doelen bijstellen", "challenge accepted", "geef me een challenge", "plan dit project", "help me nee zeggen", "weekreview", "ruim op", "richt mijn chief of staff in", "maak mijn agenda-kaart", bij feedback op een briefing en in de geplande runs. Niet voor een los gesprek uitwerken (daarvoor is van-gesprek-naar-acties, als je dat hebt).'
 ---
 
 # Chief of staff
@@ -58,6 +58,7 @@ De instellingen staan niet in deze skill. Ze staan in de **"Chief of staff · Sp
 | Agenda-kaart | "maak mijn agenda-kaart", of een ja in het verbeterblok | `references/inrichten.md`, stap 3b |
 | Weekreview | geplande run op de laatste werkdag (standaard vrijdag), of "weekreview" | `references/weekreview.md` |
 | Opruimen | routine na een ja in het verbeterblok, of "ruim op", "grote afwas" | `references/opruimen.md` |
+| Doelen | `/doelen`, "doelen bijstellen", "mijn doelen", of een ja in het verbeterblok | `references/doelen.md` |
 | Challenge | `/challenge-accepted`, "challenge accepted", "geef me een challenge" | `references/challenges.md` |
 | Seintje | geplande checks overdag (optioneel) | `references/ritme.md` |
 | Avondafsluiting | geplande run aan het eind van de werkdag (optioneel), of "sluit de dag af" | `references/ritme.md` |
@@ -69,6 +70,7 @@ Bronnen lezen: `references/bronnen.md`.
 Pro is een aparte plug-in naast deze. Hij vult aan en overschrijft niets. Zonder Pro werkt alles zoals hieronder.
 
 - **Onboarding.** Staat de skill `chief-of-staff-pro:onboarding` in je lijst met skills én staat de regel Onboarding in de Instellingen, volg dan die skill voor de regel "De stap van vandaag": onder de lijn van de ochtendbriefing, en bovenaan de weekreview. Ontbreekt een van de twee, sla het over en noem het niet.
+- **Tempo.** Staat de skill `chief-of-staff-pro:tempo` in je lijst met skills én staat bij Tempo in de Instellingen "aan", volg dan die skill voor de regel Tempo: onder de lijn van de ochtendbriefing, en onder Vooruit in de weekreview. Ontbreekt een van de twee, sla het over en zeg niets.
 - Een andere Pro-skill doet alleen mee als deze skill hem hier noemt.
 
 ## Ochtendbriefing
@@ -117,7 +119,7 @@ De gebruiker vraagt iets tussendoor. Lees eerst de Spelregels en het register. A
 - Een transcript of gespreksnotities: verwerk ze (met van-gesprek-naar-acties, of volgens de module Gespreksopnames) en zet de toezeggingen in het register met *Bevestigd* uit.
 - "Zet op de lijst", "besteld", "binnen", "wat moet er nog voor [feestdag]", of "voor [naam]: [ideetje]": volgens `references/feestdagen.md`. Staat de module uit, bied aan hem aan te zetten.
 - "Maak mijn agenda-kaart": volg stap 3b van `references/inrichten.md` en zet de kaart in het blok Agenda. In de lichte opzet geef je de kaart als tekst om zelf in de opdracht van de geplande taken te plakken.
-- "Zet de module [naam] aan": stel alleen de inrichtvragen van die module (`references/inrichten.md`, onder Modules aanzetten), maak het register of de pagina's aan volgens `references/geheugen.md` en vul de velden van die module in de Instellingen in. Dit, de agenda-kaart, de grote afwas van Opruimen, een challenge en een ja in het verbeterblok van de weekreview zijn de enige keren dat je de Spelregels zelf aanvult, en alleen met de antwoorden van de gebruiker. Zeg daarna in één regel wat er staat.
+- "Zet de module [naam] aan": stel alleen de inrichtvragen van die module (`references/inrichten.md`, onder Modules aanzetten), maak het register of de pagina's aan volgens `references/geheugen.md` en vul de velden van die module in de Instellingen in. Dit, de agenda-kaart, de grote afwas van Opruimen, de doelenronde, een challenge en een ja in het verbeterblok van de weekreview zijn de enige keren dat je de Spelregels zelf aanvult, en alleen met de antwoorden van de gebruiker. Zeg daarna in één regel wat er staat.
 - Een opdracht ("zoek uit", "regel", "zet klaar", "schrijf een appje"): voer het werk uit volgens `references/rubrieken.md`. Lever het resultaat, niet een plan. Zeg daarna in één regel wat klaarstaat en wat de gebruiker nog moet doen.
 
 ## Regels
@@ -153,7 +155,7 @@ Elke reactie van de gebruiker is een signaal. Het protocol staat in `references/
 
 - Expliciet: de gebruiker reageert op een briefing. Log het in het Briefinglog (Reactie, Aanpassingen, Feedback).
 - Impliciet: een concept is verstuurd, aangepast of weggegooid, of een punt blijft liggen. Lees dat de volgende ochtend af.
-- Je wijzigt de Spelregels nooit zelf, behalve bij het aanzetten van een module op verzoek, bij de agenda-kaart, bij de grote afwas van Opruimen, bij een challenge of na een ja in het verbeterblok. Je stelt wijzigingen voor in de weekreview. Keurt de gebruiker ze goed, dan zet je ze onder Geleerd.
+- Je wijzigt de Spelregels nooit zelf, behalve bij het aanzetten van een module op verzoek, bij de agenda-kaart, bij de grote afwas van Opruimen, bij de doelenronde, bij een challenge of na een ja in het verbeterblok. Je stelt wijzigingen voor in de weekreview. Keurt de gebruiker ze goed, dan zet je ze onder Geleerd.
 - **Doel:** tien werkdagen op rij een briefing die de gebruiker gebruikt zonder aanpassing. Houd de stand bij in de weekreview.
 
 ## Voorbeeld (verzonnen)

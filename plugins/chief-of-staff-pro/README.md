@@ -1,12 +1,13 @@
 # Chief of Staff...and stuff · Pro
 
-Een uitbreiding op [Chief of Staff...and stuff](../chief-of-staff-and-stuff/README.md), voor wie de chief of staff samen met Thierry inricht. Pro vult de basis aan en overschrijft niets. Zonder de basis werkt Pro niet.
+Een uitbreiding op [Chief of Staff...and stuff](../chief-of-staff-and-stuff/README.md), met meer begeleiding. Pro vult de basis aan en overschrijft niets. Zonder de basis werkt Pro niet.
 
 ## Wat erin zit
 
 | Onderdeel | Wat het doet |
 |---|---|
 | Skill `onboarding` | De eerste week na het inrichten. Elke werkdag één stap van 30 tot 45 minuten, met een blok in je agenda. De stap staat elke ochtend onderaan je briefing. |
+| Skill `tempo` | Bewaakt je ritme vanuit de agenda: hooguit één regel per dag en één regel in de weekreview. Zeg "zet tempo aan". |
 
 De vijf stappen: de sessie zelf, je briefing en één mail, tegen je telefoon praten, je hoofd leegmaken, en je eerste weekreview.
 
@@ -26,7 +27,7 @@ In de inrichtsessie, nadat de briefing is ingepland: zeg "start de onboarding". 
 
 ## Gegevens
 
-Pro bewaart en verstuurt zelf niets. Het schrijft alleen twee regels in je Spelregels (Onboarding en Prikbord) en zet na je go eigen blokken zonder gasten in je agenda. Verder gelden de afspraken van de basis.
+Pro bewaart en verstuurt zelf niets. Het schrijft alleen drie regels in je Spelregels (Onboarding, Prikbord en Tempo) en zet na je go eigen blokken zonder gasten in je agenda. Verder gelden de afspraken van de basis.
 
 ## Licentie
 

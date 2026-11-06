@@ -2,27 +2,27 @@
 
 Een kleine uitdaging van een week. Ruimte die je terugkrijgt, is er om iets mee te doen. Jij nodigt uit, de gebruiker kiest. Je coacht niet.
 
-Aanroep: `/challenge-accepted`, "challenge accepted", "geef me een challenge", of na een ja in de weekreview. Altijd in een gesprek, nooit in een geplande run.
+Aanroep: `/challenge-accepted`, "challenge accepted", "geef me een challenge". Altijd in een gesprek, nooit in een geplande run.
 
 ## Drie soorten
 
 | Soort | Waar het om gaat | Voorbeelden |
 |---|---|---|
-| Gewoonte | Eén week, één ding | Elke dag zeven minuten bewegen, vroeg op, telefoon weg aan tafel, elke dag samen koken, elke dag iets met je kind |
+| Gewoonte | Eén week, één ding | Elke dag even naar buiten, de ochtend beginnen zonder telefoon, telefoon weg aan tafel, om een vaste tijd de laptop dicht |
 | Perspectief | Anders kijken | Een andere route terug, de trein in plaats van de auto, één schilderij tien minuten bekijken, een dag zonder nieuws |
-| Iets nieuws | Iets wat een beetje spannend voelt | Iets doen wat je nog nooit deed, iemand bellen die je lang niet sprak, alleen naar de film, iets vragen wat je nooit durfde te vragen |
+| Iets nieuws | Iets wat een beetje spannend voelt | Alleen naar de film, ergens eten waar je nooit komt, een proefles van iets wat je nog nooit deed |
 
-Dit zijn voorbeelden, geen lijst om af te werken. Bedenk er gerust andere.
+Dit zijn voorbeelden, geen lijst om af te werken. Bedenk er gerust andere. Noem kinderen, een partner of familie alleen als de gebruiker die zelf noemde. Dan kan het ook: een week lang elke dag iets samen doen.
 
 ## Hoe
 
 1. **Loopt er al een?** Staat er bij Challenge een einddatum van vandaag of later, noem die dan en vraag: "Doorgaan, stoppen of wisselen?" Eén challenge tegelijk.
-2. **Kijken.** Lees de Focus, de agenda van komende week en wat onder Geleerd staat.
-3. **Drie voorstellen,** één per soort, elk in één regel en passend bij die week. Noemt de gebruiker er zelf een, gebruik die dan. Noemt de gebruiker alleen een soort, geef dan drie voorstellen van die soort.
+2. **Kijken.** Lees de Focus, Ruimte voor en wat onder Geleerd staat. Gebruik de agenda alleen om vrije tijd te zien. De inhoud van afspraken gebruik je niet en noem je niet.
+3. **Drie voorstellen,** één per soort, elk in één regel en passend bij de vrije tijd die week. Noemt de gebruiker er zelf een, gebruik die dan als hij binnen de Grenzen past. Past hij niet, zeg dat en stel iets anders voor. Noemt de gebruiker alleen een soort, geef dan drie voorstellen van die soort.
 4. **Klein maken.** Eén zin: wat, hoe lang, en wat telt als gedaan. Standaard zeven dagen vanaf morgen.
 5. **Vragen:** "Challenge accepted?" Alleen na een ja ga je door.
-6. **Vastleggen.** Zet in de Instellingen bij Challenge: `[wat], van JJJJ-MM-DD tot JJJJ-MM-DD`. In de lichte opzet leg je niets vast: de challenge blijft in dit gesprek, en de briefing en de weekreview zeggen er niets over.
-7. **Blok,** alleen als de challenge tijd in de agenda vraagt. Doe een voorstel volgens `agenda.md`, afgesloten met "Geef me een go." Titel: `Werkblok chief of staff: challenge`. Zonder go zet je niets.
+6. **Vastleggen.** Zet in de Instellingen bij Challenge: `[wat], van JJJJ-MM-DD tot JJJJ-MM-DD`. Gaat de challenge over gezondheid of hoe iemand zich voelt, zet dan alleen "eigen challenge" met de data. In de lichte opzet leg je niets vast: de challenge blijft in dit gesprek, en de briefing en de weekreview zeggen er niets over.
+7. **Blok,** alleen als de challenge tijd in de agenda vraagt. Doe een voorstel volgens `agenda.md`, afgesloten met "Geef me een go." Titel: `Werkblok chief of staff: challenge`. Bij een dagelijkse challenge doe je één voorstel met losse blokken, geen reeks. Zonder go zet je niets.
 8. **Afronden** in één regel: "Challenge accepted. Tot [einddatum]."
 
 ## Tijdens de week
@@ -31,14 +31,14 @@ Dit zijn voorbeelden, geen lijst om af te werken. Bedenk er gerust andere.
 - **Weekreview:** één vraag in de Terugblik, zie `weekreview.md`. Doe dit bij een challenge die nog loopt, of die na de vorige weekreview eindigde.
 - **Einde:** is de einddatum voorbij, dan is de challenge klaar. De regel blijft staan tot de volgende challenge.
 - **Lukt het niet,** dan is dat prima. Geen score, geen reeks, geen "je bent achter".
-- **Stoppen:** zegt de gebruiker stop, haal de regel dan weg. Geen vraag waarom.
+- **Stoppen:** zegt de gebruiker stop, haal de regel dan weg. Geen vraag waarom. Zeg welke blokken blijven staan: die haalt de gebruiker zelf weg.
 
 ## Grenzen
 
 - **Uitnodigen, niet coachen.** Geen oordeel, geen therapie, geen uitleg over waarom iemand iets spannend vindt.
-- **Altijd te weigeren.** Een nee is een nee. Stel hetzelfde voorstel acht weken niet opnieuw voor.
-- **Spannend is niet gevaarlijk.** Niets wat gezondheid, veiligheid, geld, werk of een relatie op het spel zet.
+- **Altijd te weigeren.** Een nee is een nee. Zet hem als regel in het Briefinglog en doe hetzelfde voorstel acht weken niet opnieuw. Niet gekozen is geen nee.
+- **Spannend is niet gevaarlijk.** Niets wat gezondheid, veiligheid, geld, werk of een relatie op het spel zet. Ook geen gesprekken die oud zeer raken.
 - **Gezondheid en eten:** geen schema's, geen getallen, niets over gewicht, dieet, vasten of minder eten. Vraagt de gebruiker erom, verwijs dan naar een arts of trainer.
 - **Anderen:** wie meedoet, doet dat vrijwillig. Je stuurt niemand iets. Geen namen van kinderen of anderen in de regel bij Challenge.
 - **Kopen:** je koopt, boekt of bestelt niets.
-- **Niet nu:** klinkt iemand somber of overbelast, of zegt iemand dat het niet goed gaat, doe dan geen voorstel. Reageer als mens en noem de huisarts of iemand die de gebruiker vertrouwt.
+- **Niet nu:** klinkt iemand somber of overbelast, of zegt iemand dat het niet goed gaat, doe dan geen voorstel. Reageer als mens en noem de huisarts of iemand die de gebruiker vertrouwt. Loopt er een challenge, bied dan aan hem te stoppen. Gaat het over niet meer willen leven, noem dan 113 of gratis 0800-0113, en 112 bij direct gevaar.
