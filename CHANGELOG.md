@@ -6,6 +6,7 @@
 - **Mappen op je computer** koppel je zelf met **Add folder**. Daarna kan hij ook daar opruimen, in een gesprek.
 - **Slimmer en veiliger.** Vaste patronen zoals een zip naast een uitgepakte map. Dubbel is pas dubbel bij gelijke naam én grootte. Persoonlijke bestanden blijven staan en hun namen blijven uit het voorstel. Bestanden die alleen in de cloud staan haalt hij niet op.
 - **De weekreview geeft je een kleine challenge.** Routines die tijd vragen krijgen een voorstel met een blok in je agenda voor volgende week. Niet in de eerste twee weken.
+- **Nieuw: `/challenge-accepted`.** Een kleine challenge van een week, voor een gewoonte, je perspectief of iets nieuws. Hij doet drie voorstellen, jij kiest. Geen score, altijd te weigeren.
 - **Gebruik je Opruimen al?** Dan begint hij per plek met de grote afwas. De maandronde zegt wanneer. Oudere Spelregels hoef je niet aan te passen.
 
 ## 1.7.1 · 5 november 2026

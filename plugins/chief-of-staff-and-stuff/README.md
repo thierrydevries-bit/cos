@@ -22,7 +22,7 @@ Hij leert van je reacties, en je kunt hem uitbreiden met modules en met je eigen
 | Skill `mijn-stem` | leert hoe jij schrijft, zodat elk concept klinkt als jij |
 | Skill `van-gesprek-naar-acties` | maakt van een opname of transcript besluiten, acties en toezeggingen |
 | Skill `overleg-voorbereiden` | voorbereiding van één pagina voor een afspraak, met wat er nog openstaat |
-| Commando's | `inrichten`, `briefing`, `weekreview`, `noteer`, `hoofd-leegmaken`, `plan-project` (en `mijn-stem` als skill) |
+| Commando's | `inrichten`, `briefing`, `weekreview`, `noteer`, `hoofd-leegmaken`, `plan-project`, `challenge-accepted` (en `mijn-stem` als skill) |
 | Connectoren | Gmail en Google Calendar, Microsoft 365, Google Drive en Dropbox, Notion (zet aan wat je gebruikt) |
 
 ## Installeren

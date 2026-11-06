@@ -62,7 +62,7 @@ Nog briefjes, appjes, spraakmemo's of post die nergens staan? En zit er nog iets
 **Van de parkeerplaats:** [wat nu kan, of wat weg mag]
 **Aandacht:** [één vraag als een domein stilvalt of alles opslokt]
 **Om nee tegen te zeggen:** [hooguit 2, wat niet bij de Focus past]
-**Iets om te durven:** [één vraag: is er iets wat je al lang wilt proberen of beginnen? Of één voorstel voor iets leuks, als de gebruiker dat wil.]
+**Iets om te durven:** [één vraag: is er iets wat je al lang wilt proberen of beginnen? Of één voorstel voor iets leuks, als de gebruiker dat wil. Loopt er geen challenge, dan mag dit ook: "Zin in iets nieuws deze week? Zeg 'challenge accepted'."]
 **Opruimen:** [alleen met de routine aan, in de eerste weekreview van de maand: per groep aantal en grootte, en de stand van Op te ruimen voor plekken die je zag. Voor een plek die je niet bereikt of die nog geen soort heeft: "Zeg 'ruim op [plek]', dan doen we het samen."]
 
 ## Systeem
@@ -72,6 +72,7 @@ Nog briefjes, appjes, spraakmemo's of post die nergens staan? En zit er nog iets
 ## Terugblik
 Hoe kijk je terug op deze week? Eén zin is genoeg.
 [Alleen met Fit & mindful, één regel: "Deze week [N] keer sport in je agenda en [M] rustdagen. Hoe was dat?"]
+[Alleen bij een challenge die nog loopt of na de vorige review eindigde, één regel: "Hoe ging je challenge?" Zie `challenges.md`.]
 
 ## Beter
 [Alleen om de week. Hooguit drie regels, elk eindigend op "Ja of nee?"]

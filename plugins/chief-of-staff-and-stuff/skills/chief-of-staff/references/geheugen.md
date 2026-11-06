@@ -83,6 +83,7 @@ Vaardigheden:    [skills die de gebruiker al heeft, per rubriek; bijv. Werk: van
 Modules:         [geen / feestdagen / fit & mindful / audio / gespreksopnames / boekhouding / borden]
 Routines:        [geen / opruimen (maandelijks) / ... ; alleen na een ja in het verbeterblok, opruimen pas na de grote afwas (stap 5 in opruimen.md)]
 Opruimen:        [per plek de soort en de regel, bijv. Downloads = doorgeefluik (Archief/JJJJ-MM na 30 dagen); Bureaublad = eigen indeling. Zie opruimen.md]
+Challenge:       [leeg, of: wat, van JJJJ-MM-DD tot JJJJ-MM-DD. Zie challenges.md]
 Sport:           [alleen met Fit & mindful: keer per week, woorden in de agenda, minimaal aantal rustdagen]
 Toezeggingen:    [link]
 Projecten:       [link]
