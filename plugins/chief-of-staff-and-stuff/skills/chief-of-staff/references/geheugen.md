@@ -1,10 +1,10 @@
 # Geheugen
 
-Het geheugen is waar je de Spelregels en de registers bewaart: Toezeggingen, Projecten, Briefinglog en Parkeerplaats. De gebruiker kiest bij het inrichten een van drie opzetten. Het veld Geheugen in de Instellingen zegt welke.
+Het geheugen is waar je de Spelregels en de registers bewaart: Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog. De gebruiker kiest bij het inrichten een van drie opzetten. Het veld Geheugen in de Instellingen zegt welke.
 
 | Opzet | Wat | Wanneer |
 |---|---|---|
-| **Notion** | een pagina "Chief of staff" met de Spelregels en vier databases | standaard, werkt het best; het gratis plan volstaat |
+| **Notion** | een pagina "Chief of staff" met de Spelregels en vijf databases | standaard, werkt het best; het gratis plan volstaat |
 | **Google Drive** | een map "Chief of staff" met een document en een spreadsheet | voor wie met Google werkt en geen Notion wil |
 | **Licht** | geen geheugen; de Spelregels staan in de opdracht van de geplande taak | om snel te beginnen; later uit te breiden |
 
@@ -12,14 +12,14 @@ Gebruik in alle drie precies de namen en velden hieronder: de andere bestanden v
 
 ## Notion
 
-Vijf onderdelen, onder één pagina "Chief of staff": de pagina Spelregels en de databases Toezeggingen, Projecten, Briefinglog en Parkeerplaats. Met de module Gespreksopnames ook Gesprekken. Met de module Feestdagen ook Cadeaus en wensen, en een pagina "Ideetjes" met daaronder een pagina per persoon.
+Zes onderdelen, onder één pagina "Chief of staff": de pagina Spelregels en de databases Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog. Met de module Gespreksopnames ook Gesprekken. Met de module Feestdagen ook Cadeaus en wensen, en een pagina "Ideetjes" met daaronder een pagina per persoon.
 
 ## Google Drive
 
 Een map "Chief of staff" in Drive, met:
 
 - een Google-document **"Chief of staff · Spelregels"**, met dezelfde inhoud als de Spelregels hieronder;
-- een Google-spreadsheet **"Chief of staff · Registers"**, met een tabblad per register: Toezeggingen, Projecten, Briefinglog en Parkeerplaats (Gesprekken en Cadeaus en wensen alleen met die module);
+- een Google-spreadsheet **"Chief of staff · Registers"**, met een tabblad per register: Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog (Gesprekken en Cadeaus en wensen alleen met die module);
 - met de module Feestdagen: een document **"Chief of staff · Ideetjes"**, met een kop per persoon.
 
 Per tabblad:
@@ -29,7 +29,7 @@ Per tabblad:
 - Een bijlage (Audio) wordt een link naar het bestand in Drive.
 - Je voegt regels toe of past ze aan. Je verwijdert nooit een regel: zet de Status op Klaar of Laten vallen.
 
-In de Instellingen staan de link naar het document en, bij Toezeggingen, Projecten, Briefinglog en Parkeerplaats, de link naar het tabblad.
+In de Instellingen staan de link naar het document en, bij Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog, de link naar het tabblad.
 
 Nodig: de koppelingen Google Drive, Google Docs en Google Sheets. Lukt lezen of schrijven niet, meld dan onderaan de briefing "Ontbrak vandaag: geheugen" en ga door zoals in de lichte opzet.
 
@@ -77,7 +77,7 @@ Zonder onderwerp: [afzenders of domeinen waarvan ook het onderwerp niet getoond 
 Afgerond:        [opdrachten die klaar zijn; alleen een openstaande betaling telt nog]
 Schrijfstijl zakelijk:    [één zin, of: zie voorbeelden hieronder]
 Schrijfstijl persoonlijk: [één zin, of: zie voorbeelden hieronder]
-Na akkoord:      blok in eigen agenda zetten of een eigen blok zonder gasten verschuiven; met de routine Opruimen ook bestanden verplaatsen
+Na akkoord:      blok in eigen agenda zetten of een eigen blok zonder gasten verschuiven; met de routine Opruimen ook bestanden verplaatsen; met de Inboxronde labels zetten, de Houden-lijst bijwerken en op verzoek afmelden in de browser
 Elke week:       [optioneel: vaste dingen die de weekreview moet nalopen, bijv. bonnetjes, de schoolapp, het salesbord]
 Vaardigheden:    [skills die de gebruiker al heeft, per rubriek; bijv. Werk: van-gesprek-naar-acties]
 Modules:         [geen / feestdagen / fit & mindful / audio / gespreksopnames / boekhouding / borden]
@@ -94,6 +94,7 @@ Toezeggingen:    [link]
 Projecten:       [link]
 Briefinglog:     [link]
 Parkeerplaats:   [link]
+Afmeldlog:       [link, alleen met de Inboxronde]
 Gesprekken:      [link, alleen met module Gespreksopnames]
 Borden:          [links naar sales- of projectborden, alleen met module Borden]
 Stem:            [naam en voice_id, alleen met module Audio]
@@ -131,7 +132,7 @@ Reistijd:  hoort bij de afspraak; de ruimte komt erbovenop
 3. Hooguit één nee-voorstel per dag, met de afzegging al als concept.
 4. Toezeggingen in twee richtingen: wat ik beloofde en wat mij beloofd is.
 5. Een eigenaar alleen als die het zelf zei. Een datum alleen als die genoemd is.
-6. Nooit versturen, uitnodigen, accepteren, bestellen, betalen, publiceren of verwijderen. Na mijn ja alleen een blok in mijn eigen agenda zetten, een eigen blok zonder gasten verschuiven of bij Opruimen bestanden verplaatsen.
+6. Nooit versturen, uitnodigen, accepteren, bestellen, betalen, publiceren of verwijderen. Na mijn ja alleen een blok in mijn eigen agenda zetten, een eigen blok zonder gasten verschuiven bij Opruimen bestanden verplaatsen, of bij de Inboxronde labels zetten, de Houden-lijst bijwerken en op mijn verzoek afmelden in de browser.
 7. Wat onder Niet openen staat, blijft dicht. Van wat onder Alleen kop staat, lees ik alleen onderwerp, afzender en datum. Wat onder Zonder onderwerp staat, noem ik alleen met de naam die ik daarvoor kreeg.
 
 ## Mijn stem

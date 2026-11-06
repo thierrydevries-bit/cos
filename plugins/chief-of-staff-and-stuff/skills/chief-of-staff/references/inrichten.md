@@ -122,7 +122,7 @@ Mail en agenda volgen uit stap 3. Al het andere krijgt een standaard met `[CHECK
 - Concepten: in het mailprogramma als de koppeling dat kan (stap 3), anders onder de briefing.
 - Schrijfstijl zakelijk: kort en vriendelijk, in de je-vorm. Schrijfstijl persoonlijk: kort en hartelijk. Dit verfijnt de skill mijn-stem later.
 - Dringend is: een klant of opdrachtgever wacht op antwoord vandaag, of een botsing in de agenda.
-- Inboxronde aan (zie stap 7). Verder geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten zetten of verschuiven; met de routine Opruimen ook bestanden verplaatsen.
+- Inboxronde aan (zie stap 7). Verder geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten zetten of verschuiven; met de routine Opruimen ook bestanden verplaatsen; met de Inboxronde labels zetten, de Houden-lijst bijwerken en op verzoek afmelden in de browser.
 - Agenda: alles met anderen is hard, eigen blokken als werkblok, focus en sport zijn flexibel, 15 minuten ruimte tussen afspraken (zie `agenda.md`).
 
 Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Geen focus: laat de Focus leeg; dan doe je alleen nee-voorstellen op "bleef liggen". Vraag 5 zet je in het blok Focus bij Ruimte voor. Geen antwoord: laat het leeg. Noemt iemand gezondheid of hoe het gaat, bewaar dan alleen de keuze uit de lijst, of niets. Dit is geen test: vraag niet door. Zegt iemand dat het niet goed gaat, volg dan de regel Niet nu in SKILL.md. Het inrichten kan wachten. Voor de naam is er geen standaard: vraag hem opnieuw.
@@ -178,6 +178,8 @@ Opdracht: Gebruik de skill chief-of-staff en doe de inboxronde.
 ```
 
 Wil de gebruiker de Inboxronde niet, laat de derde taak dan weg en zet de Inboxronde uit in de Instellingen.
+
+Kan de planner niet maandelijks, kies dan elke maandag om 08:40 en zet in de opdracht: "Staat er deze kalendermaand al een entry met Soort Inboxronde, stop dan zonder iets te doen." In de lichte opzet kan dat niet: laat de taak weg en zeg dat de gebruiker elke maand zelf `/inboxronde` doet.
 
 Zeg erbij hoe het moet: "Plak de opdracht in een nieuw gesprek, vraag Claude hem te plannen en klik op **Schedule**. Werk je in Cowork: klik op **Scheduled**, dan **New task**." En: elke geplande run telt mee voor het gebruik van je Claude-abonnement.
 
@@ -244,7 +246,7 @@ In de lichte opzet niet: zonder log weet je niet wat je al meldde. Begin liever 
   - Hoe vaak per week wil je sporten?
   - Hoe herken ik sport in je agenda? Bijvoorbeeld "hardlopen", "sportschool", "padel".
   - Hoeveel rustdagen wil je minstens per week? Standaard één.
-- **Inboxronde:** maak ook de database **Afmeldlog** (Notion) of het tabblad Afmeldlog (Drive), en voeg de optie Inboxronde toe bij Soort in het Briefinglog. Geef de geplande taak uit stap 7 om zelf in te plannen.
+- **Inboxronde:** maak ook de database **Afmeldlog** (Notion) of het tabblad Afmeldlog (Drive), en voeg de optie Inboxronde toe bij Soort in het Briefinglog. Zet de link bij Afmeldlog en "maandelijks" bij Inboxronde in de Instellingen. Geef de geplande taak uit stap 7 om zelf in te plannen. In de lichte opzet maak je niets aan: zet alleen de opdracht klaar.
 - **Gespreksopnames:** maak ook de database **Gesprekken** (Notion) of het tabblad Gesprekken (Drive).
 - **Borden:** een salesbord of projectbord, ook in Trello, Pipedrive of Monday als de gebruiker die koppelt. Zet de links in het blok Instellingen bij Borden.
 - **Audio, Boekhouding:** de velden uit `geheugen.md`.

@@ -2,7 +2,7 @@
 
 Een Nederlandstalige chief of staff en personal assistant voor Claude, als plug-in. Elke werkdag een korte briefing, toezeggingen bewaken, concepten klaarzetten en op vrijdag een weekreview, volgens de principes van *Getting Things Done*: alles wat aandacht vraagt komt op één plek, en elk ding krijgt een volgende stap, zodat niets wegvalt.
 
-**Kosten:** de plug-in is gratis. Voor de dagelijkse briefing en de weekreview (geplande taken) heb je een betaald Claude-plan nodig, zoals Pro.
+**Kosten:** de plug-in is gratis. Voor de dagelijkse briefing, de weekreview en de Inboxronde (geplande taken) heb je een betaald Claude-plan nodig, zoals Pro.
 
 **Plug-in, skills en connectoren:** de plug-in is het pakket, de skills zijn wat hij kan, de connectoren zijn waar hij bij mag. Hij leert van je reacties en je kunt hem uitbreiden.
 

@@ -1,10 +1,10 @@
 # Modules
 
-Een module draait alleen als hij in de Instellingen bij Modules staat. Werkt de koppeling niet, sla de module dan over en meld het onderaan de briefing ("Ontbrak vandaag: ...").
+Een module draait alleen als hij in de Instellingen bij Modules staat. Uitzondering: de Inboxronde heeft een eigen veld. Werkt de koppeling niet, sla de module dan over en meld het onderaan de briefing ("Ontbrak vandaag: ...").
 
 ## Inboxronde
 
-Standaard aan bij het inrichten. Eens per maand een analyse van de inbox en hooguit vijf voorstellen. Werkwijze in `inboxronde.md`.
+Standaard aan bij het inrichten. Staat bij Inboxronde in de Instellingen "maandelijks". Eens per maand een analyse van de inbox en hooguit vijf voorstellen. Werkwijze in `inboxronde.md`.
 
 ## Feestdagen
 
