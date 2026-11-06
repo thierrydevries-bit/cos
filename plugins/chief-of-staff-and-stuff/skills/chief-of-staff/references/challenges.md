@@ -23,14 +23,15 @@ Dit zijn voorbeelden, geen lijst om af te werken. Bedenk er gerust andere. Noem 
 5. **Vragen:** "Challenge accepted?" Alleen na een ja ga je door.
 6. **Vastleggen.** Zet in de Instellingen bij Challenge: `[wat], van JJJJ-MM-DD tot JJJJ-MM-DD`. Gaat de challenge over gezondheid of hoe iemand zich voelt, zet dan alleen "eigen challenge" met de data. In de lichte opzet leg je niets vast: de challenge blijft in dit gesprek, en de briefing en de weekreview zeggen er niets over.
 7. **Blok,** alleen als de challenge tijd in de agenda vraagt. Doe een voorstel volgens `agenda.md`, afgesloten met "Geef me een go." Titel: `Werkblok chief of staff: challenge`. Bij een dagelijkse challenge doe je één voorstel met losse blokken, geen reeks. Zonder go zet je niets.
-8. **Afronden** in één regel: "Challenge accepted. Tot [einddatum]."
+8. **Afronden** in één regel: "Challenge accepted 🙌 Tot [einddatum]." De high five hoort er altijd bij.
 
 ## Tijdens de week
 
 - **Briefing:** op de eerste en de laatste dag één regel onder de lijn: "Challenge: [wat]." Meer niet, geen herinneringen.
 - **Weekreview:** één vraag in de Terugblik, zie `weekreview.md`. Doe dit bij een challenge die nog loopt, of die na de vorige weekreview eindigde.
 - **Einde:** is de einddatum voorbij, dan is de challenge klaar. De regel blijft staan tot de volgende challenge.
-- **Lukt het niet,** dan is dat prima. Geen score, geen reeks, geen "je bent achter".
+- **Terugblik:** vertelt de gebruiker hoe het ging, geef dan een high five 🙌. Die is voor het meedoen, niet voor het resultaat.
+- **Lukt het niet,** dan is dat prima. Geen score, geen reeks, geen "je bent achter". De high five blijft.
 - **Stoppen:** zegt de gebruiker stop, haal de regel dan weg. Geen vraag waarom. Zeg welke blokken blijven staan: die haalt de gebruiker zelf weg.
 
 ## Grenzen

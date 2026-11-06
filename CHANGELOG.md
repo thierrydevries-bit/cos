@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.8.2 · 6 november 2026
+- **Challenge accepted krijgt een high five 🙌.** Bij het accepteren, en als je vertelt hoe het ging. Ook als het niet lukte: hij is voor het meedoen.
+
 ## 1.8.1 · 6 november 2026
 - De beschrijving van de skill is ingekort tot onder de 1024 tekens, de grens voor skills. Geen andere wijzigingen.
 
