@@ -10,6 +10,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 3. **Inbox verhelderen.** Alles met Status Inbox, ook wat stap 1 en 2 net opleverden, volgens `werkwijze.md`.
 
 **Bijwerken**
+3b. **Inboxronde.** Lees de laatste entry met Soort Inboxronde in het Briefinglog. Staan daar voorstellen zonder antwoord, noem dat in één regel.
 4. **Komende twee weken in de agenda:** welke afspraken vragen voorbereiding of een actie vooraf? Zet die actie in het register. Noteer de drukste dag en de vrije ruimte van volgende week.
 5. **Volgende acties:** een item dat al drie weken open staat, krijgt de vraag "Nog doen, of zal ik het parkeren?" Zonder antwoord blijft het open.
 6. **Wacht op:** wie is aan de beurt voor een herinnering (volgens de Regels)? Zet het concept klaar.
@@ -23,7 +24,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 **Systeem**
 11. Lees de Briefinglog-entries van deze week en verzamel de regelvoorstellen uit *Geleerde regel* (zie `leren.md`).
 12. **Verbeterblok** (alleen in weken met een even weeknummer). Hooguit drie voorstellen, één per soort, elk met ja of nee te beantwoorden:
-    - **a. Een nieuwe routine:** iets uit "Later" in `inrichten.md` dat nog niet aan staat (hoofd leegmaken, startvulling, schrijfstijl, seintje, avondafsluiting, agenda-kaart als het blok Agenda er nog geen heeft), de routine Opruimen (`opruimen.md`), de doelenronde als de Focus leeg is (`doelen.md`), of een module (Fit & mindful, Feestdagen in de weken voor een feestdag, zie `modules.md`).
+    - **a. Een nieuwe routine:** iets uit "Later" in `inrichten.md` dat nog niet aan staat (hoofd leegmaken, startvulling, schrijfstijl, seintje, avondafsluiting, agenda-kaart als het blok Agenda er nog geen heeft), de routine Opruimen (`opruimen.md`), de doelenronde als de Focus leeg is (`doelen.md`), de Inboxronde voor wie die nog niet heeft, of een module (Fit & mindful, Feestdagen in de weken voor een feestdag, zie `modules.md`).
     - **b. Een tip om Claude beter in te richten:** een project in Claude maken voor een lopend project, het geheugen van Claude aanzetten, een connector toevoegen voor een tool die de gebruiker noemde, of de chief of staff een project laten plannen ("plan dit project").
     - **c. Een aanpassing op basis van hoe de gebruiker reageerde:** een patroon uit het Briefinglog (punten die steeds blijven liggen, concepten die steeds herschreven worden) dat nog niet onder "Wat ik wil leren" staat. Zie `leren.md`.
 
@@ -49,6 +50,7 @@ Nog briefjes, appjes, spraakmemo's of post die nergens staan? En zit er nog iets
 
 ## Bijwerken
 **Af:** [hooguit 5 regels: Status Klaar met *Afgerond op* deze week, met wie]
+**Inboxronde:** [alleen als er voorstellen openstaan: "[N] voorstellen wachten op je akkoord."]
 **Open:** [hooguit 5 regels, oudste eerst: wat, wie, sinds wanneer; na drie weken: "Nog doen, of zal ik het parkeren?"]
 **Wacht op:** [wie een herinnering krijgt, concept klaar]
 **Projecten zonder volgende stap:** [project: "wat is de volgende stap?"]

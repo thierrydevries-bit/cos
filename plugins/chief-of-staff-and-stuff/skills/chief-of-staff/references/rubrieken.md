@@ -22,6 +22,7 @@ Mist er informatie die je niet kunt vinden, vraag dan één ding, het belangrijk
 ## 2. Inbox en agenda
 
 - **Proactief:** wie wacht op de gebruiker, gemiste berichten (ook in Slack als die gekoppeld is), concepten voor de belangrijkste antwoorden, en botsingen in de agenda: dubbele boekingen, een afspraak op de verkeerde dag, geen reistijd, een gesprek vlak voor vertrek. Bij een botsing: noem hem en zet een voorstel klaar om te verzetten.
+- **Maandelijks:** de Inboxronde (`inboxronde.md`).
 - **Op verzoek:** een antwoord schrijven, een thread samenvatten, afspraken voorstellen, de inbox doorlopen op wat echt een antwoord nodig heeft.
 - **Grens:** geen uitnodigingen versturen of accepteren. Een afspraak met anderen wordt een concept-mail met tijdsvoorstellen.
 

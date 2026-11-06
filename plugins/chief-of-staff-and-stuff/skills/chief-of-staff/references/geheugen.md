@@ -83,6 +83,9 @@ Vaardigheden:    [skills die de gebruiker al heeft, per rubriek; bijv. Werk: van
 Modules:         [geen / feestdagen / fit & mindful / audio / gespreksopnames / boekhouding / borden]
 Routines:        [geen / opruimen (maandelijks) / ... ; alleen na een ja in het verbeterblok, opruimen pas na de grote afwas (stap 5 in opruimen.md)]
 Opruimen:        [per plek de soort en de regel, bijv. Downloads = doorgeefluik (Archief/JJJJ-MM na 30 dagen); Bureaublad = eigen indeling. Zie opruimen.md]
+Inboxronde:      [uit / maandelijks; dag 1, 08:40]
+Houden:          [afzenders die nooit worden voorgesteld, met de reden, bijv. (label Inspiratie, buiten de inbox)]
+Inboxdashboard:  [leeg, of aan met de link; alleen met Pro]
 Tempo:           [leeg, of aan; alleen met Pro]
 Taken:           [waar de gebruiker nu zijn taken bijhoudt, uit het inrichten]
 Challenge:       [leeg, of: wat, van JJJJ-MM-DD tot JJJJ-MM-DD. Zie challenges.md]
@@ -186,7 +189,7 @@ Klaar en Gestopt zet je alleen op het woord van de gebruiker. Een oudere opzet z
 |---|---|---|
 | Briefing | titel | volgens de naamgeving in SKILL.md, bijv. "⚡ Ochtendbriefing \| din 27-10" |
 | Datum | datum | |
-| Soort | select | Ochtend, Weekreview, Aanroep, Proef, Seintje, Avond, Vrij |
+| Soort | select | Ochtend, Weekreview, Aanroep, Proef, Seintje, Avond, Inboxronde, Vrij |
 | Punten | tekst | de koppen van de punten (in een oudere opzet heet dit veld Top 3; gebruik dan dat) |
 | Reactie | select | Nog geen, Gebruikt zonder aanpassing, Aangepast, Genegeerd |
 | Aanpassingen | getal | hoeveel dingen de gebruiker anders wilde |
@@ -204,6 +207,19 @@ Klaar en Gestopt zet je alleen op het woord van de gebruiker. Een oudere opzet z
 | Opnieuw bekijken | datum | optioneel |
 | Bron | url | |
 | Domein | select | de domeinen uit de Instellingen |
+
+## Register "Afmeldlog" (alleen met de Inboxronde)
+
+| Veld | Type | Opties of uitleg |
+|---|---|---|
+| Afzender | titel | |
+| Adres | tekst | het afzenderadres |
+| Datum | datum | |
+| Actie | select | Afmelden, Minder vaak, Filter, Inspiratie |
+| Uitkomst | select | Gelukt, Niet gelukt, Gebruiker doet het |
+| Bevestiging | tekst | wat de site zei, of leeg |
+
+In Google Drive is dit een tabblad. Een oudere opzet krijgt het via "zet de module inboxronde aan", samen met de optie Inboxronde bij Soort.
 
 ## Register "Gesprekken" (alleen met de module Gespreksopnames)
 

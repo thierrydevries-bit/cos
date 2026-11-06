@@ -122,7 +122,7 @@ Mail en agenda volgen uit stap 3. Al het andere krijgt een standaard met `[CHECK
 - Concepten: in het mailprogramma als de koppeling dat kan (stap 3), anders onder de briefing.
 - Schrijfstijl zakelijk: kort en vriendelijk, in de je-vorm. Schrijfstijl persoonlijk: kort en hartelijk. Dit verfijnt de skill mijn-stem later.
 - Dringend is: een klant of opdrachtgever wacht op antwoord vandaag, of een botsing in de agenda.
-- Geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten zetten of verschuiven; met de routine Opruimen ook bestanden verplaatsen.
+- Inboxronde aan (zie stap 7). Verder geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten zetten of verschuiven; met de routine Opruimen ook bestanden verplaatsen.
 - Agenda: alles met anderen is hard, eigen blokken als werkblok, focus en sport zijn flexibel, 15 minuten ruimte tussen afspraken (zie `agenda.md`).
 
 Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Geen focus: laat de Focus leeg; dan doe je alleen nee-voorstellen op "bleef liggen". Vraag 5 zet je in het blok Focus bij Ruimte voor. Geen antwoord: laat het leeg. Noemt iemand gezondheid of hoe het gaat, bewaar dan alleen de keuze uit de lijst, of niets. Dit is geen test: vraag niet door. Zegt iemand dat het niet goed gaat, volg dan de regel Niet nu in SKILL.md. Het inrichten kan wachten. Voor de naam is er geen standaard: vraag hem opnieuw.
@@ -140,7 +140,7 @@ Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Gee
 
 1. Een pagina **"Chief of staff"**.
 2. Daaronder de pagina **"Chief of staff · Spelregels"**, met de inhoud uit `geheugen.md`. Vul het blok Instellingen met de antwoorden uit stap 2 tot en met 4.
-3. Daaronder vier databases: **Toezeggingen**, **Projecten**, **Briefinglog** en **Parkeerplaats**, met precies de velden uit `geheugen.md`. Vul de opties van Domein met de domeinen.
+3. Daaronder vijf databases: **Toezeggingen**, **Projecten**, **Briefinglog**, **Parkeerplaats** en **Afmeldlog**, met precies de velden uit `geheugen.md`. Vul de opties van Domein met de domeinen.
 
 **Google Drive:** een map **"Chief of staff"** met het document **"Chief of staff · Spelregels"** en de spreadsheet **"Chief of staff · Registers"**, met de tabbladen uit `geheugen.md`. Vul het blok Instellingen op dezelfde manier.
 
@@ -158,7 +158,7 @@ Leg uit waar: "Klik op **Customize**, dan **Connectors**, kies een koppeling en 
 
 ## 7. Gepland zetten
 
-Plan niets zelf. Geef de gebruiker deze twee taken, met de tijden en de werkdagen uit het blok Instellingen en de echte link naar de Spelregels. In de lichte opzet zet je op de plaats van de link het hele blok Spelregels als tekst.
+Plan niets zelf. Geef de gebruiker deze drie taken, met de tijden en de werkdagen uit het blok Instellingen en de echte link naar de Spelregels. In de lichte opzet zet je op de plaats van de link het hele blok Spelregels als tekst.
 
 ```
 Naam:     Ochtendbriefing
@@ -170,7 +170,14 @@ Naam:     Weekreview
 Wanneer:  [laatste werkdag] om 15:00
 Opdracht: Gebruik de skill chief-of-staff en maak de weekreview.
           Spelregels: [link]
+
+Naam:     Inboxronde
+Wanneer:  de 1e van de maand om 08:40
+Opdracht: Gebruik de skill chief-of-staff en doe de inboxronde.
+          Spelregels: [link]
 ```
+
+Wil de gebruiker de Inboxronde niet, laat de derde taak dan weg en zet de Inboxronde uit in de Instellingen.
 
 Zeg erbij hoe het moet: "Plak de opdracht in een nieuw gesprek, vraag Claude hem te plannen en klik op **Schedule**. Werk je in Cowork: klik op **Scheduled**, dan **New task**." En: elke geplande run telt mee voor het gebruik van je Claude-abonnement.
 
@@ -237,6 +244,7 @@ In de lichte opzet niet: zonder log weet je niet wat je al meldde. Begin liever 
   - Hoe vaak per week wil je sporten?
   - Hoe herken ik sport in je agenda? Bijvoorbeeld "hardlopen", "sportschool", "padel".
   - Hoeveel rustdagen wil je minstens per week? Standaard één.
+- **Inboxronde:** maak ook de database **Afmeldlog** (Notion) of het tabblad Afmeldlog (Drive), en voeg de optie Inboxronde toe bij Soort in het Briefinglog. Geef de geplande taak uit stap 7 om zelf in te plannen.
 - **Gespreksopnames:** maak ook de database **Gesprekken** (Notion) of het tabblad Gesprekken (Drive).
 - **Borden:** een salesbord of projectbord, ook in Trello, Pipedrive of Monday als de gebruiker die koppelt. Zet de links in het blok Instellingen bij Borden.
 - **Audio, Boekhouding:** de velden uit `geheugen.md`.

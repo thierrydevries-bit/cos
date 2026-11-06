@@ -2,6 +2,10 @@
 
 Een module draait alleen als hij in de Instellingen bij Modules staat. Werkt de koppeling niet, sla de module dan over en meld het onderaan de briefing ("Ontbrak vandaag: ...").
 
+## Inboxronde
+
+Standaard aan bij het inrichten. Eens per maand een analyse van de inbox en hooguit vijf voorstellen. Werkwijze in `inboxronde.md`.
+
 ## Feestdagen
 
 Wensenlijstjes, cadeaus en ideetjes voor gedichten rond de feestdagen die de gebruiker viert. Nodig: een geheugen (Notion of Google Drive). Werkwijze in `feestdagen.md`.

@@ -27,4 +27,4 @@ Een rustig einde van de dag, zodat de gebruiker de laptop dicht kan doen met een
 
 ## Gebruik
 
-Elke geplande run telt mee voor het gebruik van het abonnement. Raad bij het inrichten één of twee seintjes per dag aan, en verhoog alleen als de gebruiker dat wil.
+Elke geplande run telt mee voor het gebruik van het abonnement, ook de Inboxronde. Raad bij het inrichten één of twee seintjes per dag aan, en verhoog alleen als de gebruiker dat wil.

@@ -50,6 +50,7 @@ Eén scherm, hooguit ongeveer 220 woorden.
 [Eén regel als er gesprekken zijn verwerkt: "Gisteren N gesprekken verwerkt, M nieuwe toezeggingen ter bevestiging."]
 [Eén regel als er iets van de parkeerplaats terugkomt: "Van de parkeerplaats: ..." (hooguit 2 items)]
 [Eén regel met de module Fit & mindful, alleen bij een signaal: te weinig sport, geen rustdag, of een dag zonder pauze. Zie `modules.md`.]
+[Eén regel na een Inboxronde: "Inboxronde: [N] voorstellen wachten op je akkoord." Alleen in de eerste briefing na de ronde.]
 [Eén regel Tempo, alleen met Pro en Tempo aan, en alleen bij een signaal. Zie Uitbreiding Pro in SKILL.md.]
 [Eén regel "Challenge: [wat]", alleen op de eerste en de laatste dag van een challenge. Zie `challenges.md`.]
 [Eén regel met Pro, alleen tijdens de onboarding: "De stap van vandaag", volgens de skill chief-of-staff-pro:onboarding. Zie Uitbreiding Pro in SKILL.md.]
