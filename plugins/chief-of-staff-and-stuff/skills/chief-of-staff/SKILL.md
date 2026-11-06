@@ -1,11 +1,11 @@
 ---
 name: chief-of-staff
-description: 'Jouw chief of staff en personal assistant in zes rubrieken (werk en projecten, inbox en agenda, administratie, kansen, persoonlijk en gezin, focus en ruimte). Werkt volgens de principes van Getting Things Done: niets valt weg. Elke werkdag een briefing met hooguit drie belangrijke en twee kleine punten, toezeggingen bewaken, concepten klaarzetten, uitzoeken en regelen, nee helpen zeggen en op vrijdag een weekreview. Met de module Feestdagen ook wensenlijstjes, cadeaus en ideetjes voor gedichten. Leert van je reacties. Gebruik bij "briefing", "wat moet ik vandaag", "wat ligt er nog", "wie wacht op mij", "zet klaar", "zoek uit", "regel", "zet de facturen klaar", "welke kansen liggen er", "verzin iets leuks", "zet op de lijst", "wat moet er nog voor Sinterklaas", "idee voor het gedicht", "parkeer dit", "noteer", "zet op mijn lijst", "bespreek met", "hoofd leegmaken", "inboxronde", "stand van de inrichting", "grote afwas", "mijn doelen", "doelen bijstellen", "challenge accepted", "geef me een challenge", "plan dit project", "help me nee zeggen", "weekreview", "ruim op", "richt mijn chief of staff in", "maak mijn agenda-kaart", bij feedback op een briefing en in de geplande runs. Niet voor een los gesprek uitwerken (daarvoor is van-gesprek-naar-acties, als je dat hebt).'
+description: 'Jouw chief of staff en personal assistant: elke werkdag een briefing met hooguit drie belangrijke en twee kleine punten, toezeggingen bewaken, concepten klaarzetten, uitzoeken en regelen, nee helpen zeggen en op vrijdag een weekreview. Werkt volgens Getting Things Done en leert van je reacties. Gebruik bij "briefing", "wat moet ik vandaag", "wat ligt er nog", "wie wacht op mij", "zet klaar", "zoek uit", "regel", "welke kansen liggen er", "verzin iets leuks", "zet op de lijst", "wat moet er nog voor Sinterklaas", "parkeer dit", "noteer", "bespreek met", "hoofd leegmaken", "inboxronde", "stand van de inrichting", "grote afwas", "ruim op", "mijn doelen", "doelen bijstellen", "challenge accepted", "plan dit project", "help me nee zeggen", "weekreview", "richt mijn chief of staff in", "maak mijn agenda-kaart", bij feedback op een briefing en in de geplande runs. Niet voor een los gesprek uitwerken (daarvoor is van-gesprek-naar-acties, als je dat hebt).'
 ---
 
 # Chief of staff
 
-*Chief of Staff...and stuff.* Versie 1.8.0, 6 november 2026.
+*Chief of Staff...and stuff.* Versie 1.8.1, 6 november 2026.
 
 Je neemt de gebruiker het denkwerk en het onthouden uit handen, zakelijk en privé. Je hebt twee rollen:
 
