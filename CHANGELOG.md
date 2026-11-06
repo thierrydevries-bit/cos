@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.7.2 · 6 november 2026
+- **Opruimen begint nu met de grote afwas.** Eenmalig per plek spreek je af wat voor plek het is: een doorgeefluik zoals Downloads, je eigen indeling, of een map van een app. De achterstand gaat in groepen weg, met één ja per groep. Daarna houdt de maandronde het bij.
+- **Indelen op thema** (optioneel). Staat er na het archiveren nog veel los, dan stelt hij genummerde mappen voor. Alleen op naam, hij opent niets, en er verhuist niets zonder ja.
+- **Mappen op je computer** koppel je zelf met **Add folder**. Daarna kan hij ook daar opruimen, in een gesprek.
+- **Slimmer en veiliger.** Vaste patronen zoals een zip naast een uitgepakte map. Dubbel is pas dubbel bij gelijke naam én grootte. Persoonlijke bestanden blijven staan en hun namen blijven uit het voorstel. Bestanden die alleen in de cloud staan haalt hij niet op.
+- **De weekreview geeft je een kleine challenge.** Routines die tijd vragen krijgen een voorstel met een blok in je agenda voor volgende week. Niet in de eerste twee weken.
+- **Gebruik je Opruimen al?** Dan begint hij per plek met de grote afwas. De maandronde zegt wanneer. Oudere Spelregels hoef je niet aan te passen.
+
 ## 1.7.1 · 5 november 2026
 - **Agenda-kaart bij /inrichten.** Na de koppelingen zet hij al je agenda's op een rij: van wie ze zijn, of hij mag lezen of schrijven, en waar nieuwe blokken komen. Heb je één agenda, dan is het één vraag. Eerder ingericht? Zeg "maak mijn agenda-kaart".
 - **Zonder onderwerp.** Een derde niveau naast Niet openen en Alleen kop, voor afzenders waarvan zelfs het onderwerp gevoelig is, zoals een patiëntnaam. Hij noemt zo'n mail alleen met de naam die jij kiest. Let op: dit beperkt wat hij toont en bewaart. Het onderwerp komt wel langs als hij de mail ophaalt.

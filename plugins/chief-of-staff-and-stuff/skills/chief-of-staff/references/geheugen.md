@@ -77,12 +77,12 @@ Zonder onderwerp: [afzenders of domeinen waarvan ook het onderwerp niet getoond 
 Afgerond:        [opdrachten die klaar zijn; alleen een openstaande betaling telt nog]
 Schrijfstijl zakelijk:    [één zin, of: zie voorbeelden hieronder]
 Schrijfstijl persoonlijk: [één zin, of: zie voorbeelden hieronder]
-Na akkoord:      blok in eigen agenda zetten of een eigen blok zonder gasten verschuiven
+Na akkoord:      blok in eigen agenda zetten of een eigen blok zonder gasten verschuiven; met de routine Opruimen ook bestanden verplaatsen
 Elke week:       [optioneel: vaste dingen die de weekreview moet nalopen, bijv. bonnetjes, de schoolapp, het salesbord]
 Vaardigheden:    [skills die de gebruiker al heeft, per rubriek; bijv. Werk: van-gesprek-naar-acties]
 Modules:         [geen / feestdagen / fit & mindful / audio / gespreksopnames / boekhouding / borden]
-Routines:        [geen / opruimen (maandelijks) / ... ; alleen na een ja in het verbeterblok]
-Opruimen:        [uit / aan; plekken: Google Drive, Dropbox, per project; Bureaublad en Downloads alleen in Cowork]
+Routines:        [geen / opruimen (maandelijks) / ... ; alleen na een ja in het verbeterblok, opruimen pas na de grote afwas (stap 5 in opruimen.md)]
+Opruimen:        [per plek de soort en de regel, bijv. Downloads = doorgeefluik (Archief/JJJJ-MM na 30 dagen); Bureaublad = eigen indeling. Zie opruimen.md]
 Sport:           [alleen met Fit & mindful: keer per week, woorden in de agenda, minimaal aantal rustdagen]
 Toezeggingen:    [link]
 Projecten:       [link]
@@ -124,7 +124,7 @@ Reistijd:  hoort bij de afspraak; de ruimte komt erbovenop
 3. Hooguit één nee-voorstel per dag, met de afzegging al als concept.
 4. Toezeggingen in twee richtingen: wat ik beloofde en wat mij beloofd is.
 5. Een eigenaar alleen als die het zelf zei. Een datum alleen als die genoemd is.
-6. Nooit versturen, uitnodigen, accepteren, bestellen, betalen, publiceren of verwijderen. Na mijn ja alleen een blok in mijn eigen agenda zetten of een eigen blok zonder gasten verschuiven.
+6. Nooit versturen, uitnodigen, accepteren, bestellen, betalen, publiceren of verwijderen. Na mijn ja alleen een blok in mijn eigen agenda zetten, een eigen blok zonder gasten verschuiven of bij Opruimen bestanden verplaatsen.
 7. Wat onder Niet openen staat, blijft dicht. Van wat onder Alleen kop staat, lees ik alleen onderwerp, afzender en datum. Wat onder Zonder onderwerp staat, noem ik alleen met de naam die ik daarvoor kreeg.
 
 ## Mijn stem

@@ -57,7 +57,7 @@ Wie de chief of staff samen met Thierry inricht, krijgt er **Chief of Staff...an
 
 ## Gegevens
 
-De plug-in zelf bewaart en verstuurt niets. Claude leest je mail, agenda, bestanden en notities via de connectoren die jij aanzet, en schrijft alleen in je eigen geheugen (Notion of Google Drive) en als concept in je mail. Versturen, accepteren, bestellen, betalen en verwijderen doet hij nooit. Bij Opruimen verplaatst hij alleen naar een map "Op te ruimen", na jouw ja. De module Fit & mindful kijkt alleen naar je agenda en vraagt of bewaart geen gezondheidsgegevens. Wat je onder *Niet openen* of *Alleen kop* zet, blijft dicht.
+De plug-in zelf bewaart en verstuurt niets. Claude leest je mail, agenda, bestanden en notities via de connectoren die jij aanzet, en schrijft alleen in je eigen geheugen (Notion of Google Drive) en als concept in je mail. Versturen, accepteren, bestellen, betalen en verwijderen doet hij nooit. Bij Opruimen verplaatst hij alleen na jouw ja, naar "Op te ruimen", naar Archief of naar mappen die jullie afspraken. Blokken zet hij alleen na jouw ja in je eigen agenda. De module Fit & mindful kijkt alleen naar je agenda en vraagt of bewaart geen gezondheidsgegevens. Wat je onder *Niet openen* of *Alleen kop* zet, blijft dicht.
 
 ## Licentie
 

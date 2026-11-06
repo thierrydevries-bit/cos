@@ -14,7 +14,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 5. **Volgende acties:** een item dat al drie weken open staat, krijgt de vraag "Nog doen, of zal ik het parkeren?" Zonder antwoord blijft het open.
 6. **Wacht op:** wie is aan de beurt voor een herinnering (volgens de Regels)? Zet het concept klaar.
 7. **Projecten:** heeft elk project met Status Actief een volgende actie met Status Open of Wacht op ander? Werk *Laatst bekeken* bij. Een project zonder volgende actie komt in de review.
-8. **Vaste checklists:** loop de modules langs die aan staan (bijvoorbeeld Feestdagen: welke feestdagen vallen binnen hun aanloop, hoeveel wensen staan open) en wat de gebruiker onder *Elke week* in de Instellingen zette.
+8. **Vaste checklists:** loop de modules langs die aan staan (bijvoorbeeld Feestdagen: welke feestdagen vallen binnen hun aanloop, hoeveel wensen staan open) en wat de gebruiker onder *Elke week* in de Instellingen zette. Staat de routine Opruimen aan, doe dan in de eerste weekreview van de maand de maandronde uit `opruimen.md`, voor de plekken die je in deze run bereikt.
 
 **Vooruit**
 9. **Parkeerplaats:** is er iets dat nu actief kan worden, of dat weg kan?
@@ -27,7 +27,9 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
     - **b. Een tip om Claude beter in te richten:** een project in Claude maken voor een lopend project, het geheugen van Claude aanzetten, een connector toevoegen voor een tool die de gebruiker noemde, of de chief of staff een project laten plannen ("plan dit project").
     - **c. Een aanpassing op basis van hoe de gebruiker reageerde:** een patroon uit het Briefinglog (punten die steeds blijven liggen, concepten die steeds herschreven worden) dat nog niet onder "Wat ik wil leren" staat. Zie `leren.md`.
 
-    Kijk eerst in de weekreviews van de laatste acht weken: een voorstel waar de gebruiker nee op zei, doe je acht weken niet opnieuw. Zegt de gebruiker ja, voer het uit of zet het in de Instellingen (Routines of Modules) en zeg in één regel wat er staat. Een tip over Claude zelf leg je uit met de Engelse knopnamen, bijvoorbeeld: klik op **Settings**, dan **Capabilities**. Zet de voorstellen en de antwoorden in de Briefinglog-pagina van deze weekreview. In de lichte opzet: hooguit één voorstel.
+    Kijk eerst in de weekreviews van de laatste acht weken: een voorstel waar de gebruiker nee op zei, doe je acht weken niet opnieuw. Zegt de gebruiker ja, voer het uit of zet het in de Instellingen (Routines of Modules) en zeg in één regel wat er staat. Bij Opruimen zet een ja alleen het blok. Een tip over Claude zelf leg je uit met de Engelse knopnamen, bijvoorbeeld: klik op **Settings**, dan **Capabilities**. Zet de voorstellen en de antwoorden in de Briefinglog-pagina van deze weekreview. In de lichte opzet: hooguit één voorstel.
+
+    **Een routine die tijd vraagt.** Kost een voorstel onder a meer dan vijf minuten van de gebruiker (de grote afwas van Opruimen, hoofd leegmaken, startvulling), doe het dan niet in de eerste twee weken na het inrichten. Zoek in de agenda van volgende week een vrij blok van 15 tot 30 minuten (zie `agenda.md`) en noem dat in het voorstel. Een ja is de go voor dat blok, en alleen voor dat blok. Controleer de agenda vlak voor het zetten. Is het moment voorbij of bezet, doe dan een nieuw voorstel en wacht op een ja. Zet het blok in de eigen agenda, zonder gasten, met als titel `Werkblok chief of staff: [routine]`. Zet in de beschrijving wat de gebruiker dan doet, bijvoorbeeld: "Koppel je map met **Add folder** en zeg: ruim op [plek]." Kun je niet schrijven in de agenda, zeg dat in het voorstel en geef dag, tijd en titel om zelf te zetten. Formuleer het als een kleine challenge, zoals hieronder bij Beter. Geen complimenten: de stand is het feit, de rest is een uitnodiging. In de lichte opzet bied je dit niet aan.
 13. **Privacy, één keer.** Staat er in het blok Instellingen nog `[CHECK]` bij Niet openen of Alleen kop, vraag het dan in de eerste weekreview één keer. Daarna niet meer. Deze vraag telt niet mee voor de zeven.
 14. **Kies de vragen.** Hooguit zeven beslisvragen in de hele review (voorstellen, ja/nee-vragen, regelvoorstellen en het verbeterblok samen). Eerst wat iemand anders raakt, dan het oudste. De rest schuift een week door. De terugblikvraag telt niet mee.
 15. Schrijf de review in het format hieronder. Met Pro tijdens de onboarding: de regel "De stap van vandaag" direct onder de kop (zie Uitbreiding Pro in SKILL.md). Hooguit drie concepten in deze run.
@@ -61,6 +63,7 @@ Nog briefjes, appjes, spraakmemo's of post die nergens staan? En zit er nog iets
 **Aandacht:** [één vraag als een domein stilvalt of alles opslokt]
 **Om nee tegen te zeggen:** [hooguit 2, wat niet bij de Focus past]
 **Iets om te durven:** [één vraag: is er iets wat je al lang wilt proberen of beginnen? Of één voorstel voor iets leuks, als de gebruiker dat wil.]
+**Opruimen:** [alleen met de routine aan, in de eerste weekreview van de maand: per groep aantal en grootte, en de stand van Op te ruimen voor plekken die je zag. Voor een plek die je niet bereikt of die nog geen soort heeft: "Zeg 'ruim op [plek]', dan doen we het samen."]
 
 ## Systeem
 **Wat ik wil leren:** [hooguit 3 regelvoorstellen met bewijs. "Akkoord?"]
@@ -73,6 +76,7 @@ Hoe kijk je terug op deze week? Eén zin is genoeg.
 ## Beter
 [Alleen om de week. Hooguit drie regels, elk eindigend op "Ja of nee?"]
 1. [Routine: ...]
+   [Voorbeeld bij Opruimen, de eerste zin alleen vanaf 5 dagen op rij: "Je briefing loopt [N] werkdagen op rij zonder aanpassing. Zin in een kleine challenge? [Dag] om [tijd] een half uur de grote afwas in je [plek]. Begin volgende maand doen we de eerste ronde, en kijken we of je het volhoudt. Hoofd leeg, computer schoon, iedereen wint. Ja of nee?"]
 2. [Claude: ...]
 3. [Aanpassing: ...]
 ```
@@ -82,7 +86,7 @@ Een regel zonder inhoud laat je weg. Het blok Leeg en de terugblikvraag staan er
 ## Regels
 
 - Geen complimenten, geen samenvatting van wat de gebruiker zelf al weet.
-- Vraagt de review om een besluit, stel dan een vraag die met ja of nee te beantwoorden is. Antwoordt de gebruiker, verwerk het meteen volgens `werkwijze.md` (een ja is het woord van de gebruiker).
+- Vraagt de review om een besluit, stel dan een vraag die met ja of nee te beantwoorden is. Antwoordt de gebruiker, verwerk het meteen volgens `werkwijze.md` (een ja is het woord van de gebruiker). Staan er meer vragen open, vraag dan eerst waar de ja bij hoort. Verplaats of plan pas daarna.
 - Je zet niets op Klaar, Laten vallen of Gestopt zonder het woord van de gebruiker.
 - Het antwoord op de terugblikvraag zet je in één zin in de Briefinglog-pagina, in de woorden van de gebruiker. Gaat het over gezondheid of hoe iemand zich voelt, dan zet je niets in het geheugen.
 - In een week waarvan het weeknummer deelbaar is door 4: één vraag onder Vooruit, "Klopt je focus nog?" In de eerste weekreview van januari, april, juli en oktober in plaats daarvan: "Waar wil je over een à twee jaar staan, en past je focus daarbij?" Pas de Focus alleen aan op het woord van de gebruiker.
