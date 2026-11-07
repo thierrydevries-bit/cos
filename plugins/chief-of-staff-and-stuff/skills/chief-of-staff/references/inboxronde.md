@@ -40,7 +40,7 @@ Stel niets voor bij:
 - echte mensen en klanten;
 - facturen, bonnetjes, banken, overheid, school en zorg;
 - bestellingen en andere transactiemail;
-- afzenders op de Houden-lijst;
+- afzenders op de Houden-lijst of bij Spotten;
 - afzenders met minder dan drie threads in de maand, behalve na stap 6;
 - afzenders onder Niet openen, Alleen kop of Zonder onderwerp;
 - afzenders in het Afmeldlog met een open toezegging, met minder dan tien dagen geleden, of met Actie Filter of Inspiratie.

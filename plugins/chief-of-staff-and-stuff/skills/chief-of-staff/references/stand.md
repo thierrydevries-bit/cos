@@ -76,3 +76,5 @@ In een geplande run werk je alleen een pagina bij die in de Instellingen staat. 
 ## Na de onboarding
 
 Stel één keer voor: laten staan zoals het is, of maandelijks bijwerken als overzicht. Kiest de gebruiker maandelijks, zet dan "maandelijks" achter de link bij Stand. Je werkt hem dan bij in de eerste weekreview van de maand. Je verwijdert de pagina niet.
+
+Wat in de eerste maand nog open of geparkeerd staat, biedt de briefing stap voor stap aan. Zie `restant.md`.

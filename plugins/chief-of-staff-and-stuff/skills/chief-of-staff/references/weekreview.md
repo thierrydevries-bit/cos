@@ -17,6 +17,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 7. **Projecten:** heeft elk project met Status Actief een volgende actie met Status Open of Wacht op ander? Werk *Laatst bekeken* bij. Een project zonder volgende actie komt in de review.
 8. **Vaste checklists:** loop de modules langs die aan staan (bijvoorbeeld Feestdagen: welke feestdagen vallen binnen hun aanloop, hoeveel wensen staan open) en wat de gebruiker onder *Elke week* in de Instellingen zette. Staat de routine Opruimen aan, doe dan in de eerste weekreview van de maand de maandronde uit `opruimen.md`, voor de plekken die je in deze run bereikt.
 8b. **Stand.** Staat bij Stand in de Instellingen "maandelijks" en is dit de eerste weekreview van de maand, werk de pagina dan bij (`stand.md`).
+8c. **Spotten.** Staat er iets bij Spotten, zoek dan in de ontvangen mail van deze week naar die namen, met woorden als voorverkoop, early bird, tickets of kaartverkoop. Volg Niet openen, Alleen kop en Zonder onderwerp. Een tribute of cover van een artiest telt niet. Vind je een bevestiging van een gekocht ticket dat nog niet in de agenda staat, noem dat ook.
 
 **Vooruit**
 9. **Parkeerplaats:** is er iets dat nu actief kan worden, of dat weg kan?
@@ -59,6 +60,7 @@ Nog briefjes, appjes, spraakmemo's of post die nergens staan? En zit er nog iets
 **Weekend en privé:** [hooguit 4 regels: regelzaken met een deadline binnen 14 dagen, abonnementen die verlengen, met Feestdagen per feestdag in de aanloop één regel, bijv. "Sinterklaas over 3 weken: 4 wensen open, voor 2 personen."]
 
 ## Vooruit
+**Spotten:** [alleen met Spotten en een vondst, hooguit 2 regels: "[naam]: voorverkoop [datum]. [bron]" of "Ticket [naam] staat nog niet in je agenda." Een datum in de agenda zetten kan na "Geef me een go". Kopen doet de gebruiker.]
 **Volgende week:** [drukste dag, vrije ruimte, gesprekken die voorbereiding nodig hebben; hooguit 3 regels]
 **Agenda:** [één regel volgens `agenda.md`: keer zonder ruimte volgende week, en welk blok al twee keer verdrongen is]
 **Doelen:** [één regel: welke afspraak of actie van volgende week draagt bij aan welk doel uit de Focus. Niets: laat de regel weg.]

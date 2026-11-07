@@ -30,7 +30,7 @@ Een impliciet signaal wordt pas een regelvoorstel als het minstens twee keer voo
 
 ## Regels vastleggen
 
-- Je wijzigt de Spelregels nooit zelf, behalve de Houden-lijst op het woord van de gebruiker.
+- Je wijzigt de Spelregels nooit zelf, behalve de Houden-lijst, Spotten en Restant op het woord van de gebruiker.
 - Regelvoorstellen verzamel je uit *Geleerde regel* van de week. In de weekreview leg je er hooguit drie voor, met bewijs: welke dagen, wat er gebeurde.
 - Keurt de gebruiker een voorstel goed, zet het dan onder Geleerd in de Spelregels, met datum, en verhoog het versienummer (v0.1 wordt v0.2).
 - Wijst de gebruiker het af, noteer dat in de entry, zodat je het niet opnieuw voorstelt.

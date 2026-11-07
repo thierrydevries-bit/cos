@@ -31,7 +31,7 @@ Altijd in een gesprek, nooit in een geplande run.
 - Waar zeg je liever nee tegen?
 
 **3. Privé**
-- Wat mag ik voor je in de gaten houden: gezin, afspraken, abonnementen, uitjes?
+- Wat mag ik voor je in de gaten houden: gezin, afspraken, abonnementen, uitjes? Zijn er concerten, festivals of voorstellingen die ik mag spotten? Die gaan bij Spotten.
 - Wat juist niet?
 
 **4. Ruimte**

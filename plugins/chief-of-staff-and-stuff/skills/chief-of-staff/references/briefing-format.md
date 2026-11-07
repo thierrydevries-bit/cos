@@ -53,6 +53,7 @@ Eén scherm, hooguit ongeveer 220 woorden.
 [Eén regel na een Inboxronde: "Inboxronde: [N] voorstellen wachten op je akkoord." Alleen in de eerste briefing na de ronde.]
 [Eén regel Tempo, alleen met Pro en Tempo aan, en alleen bij een signaal. Zie Uitbreiding Pro in SKILL.md.]
 [Eén regel "Challenge: [wat]", alleen op de eerste en de laatste dag van een challenge. Zie `challenges.md`.]
+[Eén regel "Restant", alleen in de eerste vier weken na het inrichten en hooguit één keer per week. Zie `restant.md`.]
 [Eén regel met Pro, alleen tijdens de onboarding: "De stap van vandaag", volgens de skill chief-of-staff-pro:onboarding. Zie Uitbreiding Pro in SKILL.md.]
 [Eén regel als er nieuwe dingen verhelderd zijn: "Genoteerd en verhelderd: N. M voorstellen hieronder. Nog K in te delen." Hooguit drie voorstellen (naar de parkeerplaats, laten vallen, nieuw project), onder de lijn, elk op één regel.]
 ```

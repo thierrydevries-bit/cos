@@ -104,7 +104,7 @@ Hier zit vaak de meeste onrust. Vraag: "Hoe houd je nu je taken bij? Op één pl
 - **Neem niets over.** Zeg: "Ik neem nu niets over." Bij een lange lijst mag er één zin voor: "Dat is veel om bij je te dragen." Hoofd leegmaken komt later, als er een geheugen is. Laat niemand van tool wisselen.
 - Onthoud alleen de plek of de app. Die gaat in stap 5 in de Instellingen bij Taken. De screenshot neem je niet over in het geheugen.
 
-## 4. Vijf vragen
+## 4. Zes vragen
 
 Nodig de gebruiker eerst uit om te praten, want daar zit de winst:
 
@@ -117,6 +117,7 @@ Stel daarna deze vragen in één bericht en wacht op antwoord:
 3. Hoe laat wil je de briefing, en op welke dagen werk je?
 4. Je focus: wat zijn je twee of drie belangrijkste doelen voor dit kwartaal?
 5. Waar wil je vooral meer ruimte voor? Kies er een of twee: rust in je hoofd, tijd voor je gezin, ruimte om na te denken, verbinding, energie, focus. Of zeg het in je eigen woorden. Overslaan mag.
+6. Zal ik dingen voor je spotten, zoals uitjes, concerten, festivals of voorstellingen? Noem er een paar: een festival waar je elk jaar heen gaat, een zaal of nieuwsbrief die je volgt, of een artiest die je ooit live wilt zien. Dan let ik in de weekreview op voorverkoop en early birds in je mail. Of zeg "nu even niet".
 
 Mail en agenda volgen uit stap 3. Al het andere krijgt een standaard met `[CHECK]`:
 
@@ -128,7 +129,7 @@ Mail en agenda volgen uit stap 3. Al het andere krijgt een standaard met `[CHECK
 - Inboxronde aan (zie stap 7). Verder geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten zetten of verschuiven; met de routine Opruimen ook bestanden verplaatsen; met de Inboxronde labels zetten, de Houden-lijst bijwerken en op verzoek afmelden in de browser.
 - Agenda: alles met anderen is hard, eigen blokken als werkblok, focus en sport zijn flexibel, 15 minuten ruimte tussen afspraken (zie `agenda.md`).
 
-Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Geen focus: laat de Focus leeg; dan doe je alleen nee-voorstellen op "bleef liggen". Vraag 5 zet je in het blok Focus bij Ruimte voor. Geen antwoord: laat het leeg. Noemt iemand gezondheid of hoe het gaat, bewaar dan alleen de keuze uit de lijst, of niets. Dit is geen test: vraag niet door. Zegt iemand dat het niet goed gaat, volg dan de regel Niet nu in SKILL.md. Het inrichten kan wachten. Voor de naam is er geen standaard: vraag hem opnieuw.
+Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Geen focus: laat de Focus leeg; dan doe je alleen nee-voorstellen op "bleef liggen". Vraag 5 zet je in het blok Focus bij Ruimte voor. Geen antwoord: laat het leeg. Vraag 6 zet je bij Spotten, per favoriet met de soort: afzender, vast evenement met de periode, of artiest. Bij een artiest geldt alleen de artiest zelf live, geen tribute of cover. "Nu even niet" zet je met de datum. Geen antwoord: laat het leeg. Noemt iemand gezondheid of hoe het gaat, bewaar dan alleen de keuze uit de lijst, of niets. Dit is geen test: vraag niet door. Zegt iemand dat het niet goed gaat, volg dan de regel Niet nu in SKILL.md. Het inrichten kan wachten. Voor de naam is er geen standaard: vraag hem opnieuw.
 
 ## 5. Geheugen aanmaken
 
@@ -207,7 +208,7 @@ Met een startpakket mag de afronding twee regels langer: de extra skills en wat 
 
 ## 9. Stand van de inrichting
 
-Maak de pagina uit `stand.md`, na de afronding en na de ene taak uit het startpakket als die er is. Zeg in één regel: "Hier zie je wat er staat en wat nog open is: [link]. De pagina is privé tot je hem deelt." Stopt de gebruiker eerder, geef dan de korte stand uit `stand.md`. In de lichte opzet laat je de zin met de link weg.
+Maak de pagina uit `stand.md`, na de afronding en na de ene taak uit het startpakket als die er is. Zeg in één regel: "Hier zie je wat er staat en wat nog open is: [link]. De pagina is privé tot je hem deelt." Stopt de gebruiker eerder, geef dan de korte stand uit `stand.md`. In de lichte opzet laat je de zin met de link weg. Wat open blijft, biedt de briefing in de eerste maand stap voor stap aan (`restant.md`).
 
 ## Later: wat de weekreview aanbiedt
 
