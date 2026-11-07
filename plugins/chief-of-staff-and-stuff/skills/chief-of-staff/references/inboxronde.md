@@ -15,7 +15,8 @@ Getest met Gmail. Microsoft 365 is niet getest: daar ken je geen labels, dus gee
    - of de gebruiker ooit naar dit adres of domein schreef;
    - of mail van dit adres in de categorie Aankopen of Reserveringen staat;
    - of dit adres mail stuurt met woorden als factuur, bestelling, afspraak of ticket in het onderwerp;
-   - of het een eigen label heeft of voorkomt in Projecten of Toezeggingen.
+   - of het een eigen label heeft of voorkomt in Projecten of Toezeggingen;
+   - of de naam van de afzender of het domein een naam bij Spotten bevat.
 
    Is één daarvan raak, stel dan niets voor en noem de afzender als kandidaat voor Houden. Twijfel je, stel niets voor.
 5. **Adressen.** Komt veel binnen op een oud adres, of mailt een afzender naar twee adressen? Noem dat. Dan is minder vaak: één adres afmelden.

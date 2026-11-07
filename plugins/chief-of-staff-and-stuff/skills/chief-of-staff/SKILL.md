@@ -61,7 +61,7 @@ De instellingen staan niet in deze skill. Ze staan in de **"Chief of staff · Sp
 | Stand | `/waar-staan-we`, "stand van de inrichting", "waar staan we" zonder onderwerp, de gebruiker breekt een inrichtgesprek af, of aan het eind van het inrichten | `references/stand.md` |
 | Opruimen | routine na een ja in het verbeterblok, of "ruim op", "grote afwas" | `references/opruimen.md` |
 | Doelen | `/doelen`, "doelen bijstellen", "mijn doelen" | `references/doelen.md` |
-| Restant | "pak [onderdeel] op" na het aanbod in de briefing | `references/restant.md` |
+| Restant | "pak [onderdeel] op", of een ja op het aanbod van Restant in de briefing | `references/restant.md` |
 | Challenge | `/challenge-accepted`, "challenge accepted", "geef me een challenge" | `references/challenges.md` |
 | Seintje | geplande checks overdag (optioneel) | `references/ritme.md` |
 | Avondafsluiting | geplande run aan het eind van de werkdag (optioneel), of "sluit de dag af" | `references/ritme.md` |
@@ -123,7 +123,7 @@ De gebruiker vraagt iets tussendoor. Lees eerst de Spelregels en het register. A
 - Een transcript of gespreksnotities: verwerk ze (met van-gesprek-naar-acties, of volgens de module Gespreksopnames) en zet de toezeggingen in het register met *Bevestigd* uit.
 - "Zet op de lijst", "besteld", "binnen", "wat moet er nog voor [feestdag]", of "voor [naam]: [ideetje]": volgens `references/feestdagen.md`. Staat de module uit, bied aan hem aan te zetten.
 - "Maak mijn agenda-kaart": volg stap 3b van `references/inrichten.md` en zet de kaart in het blok Agenda. In de lichte opzet geef je de kaart als tekst om zelf in de opdracht van de geplande taken te plakken.
-- "Zet de module [naam] aan": stel alleen de inrichtvragen van die module (`references/inrichten.md`, onder Modules aanzetten), maak het register of de pagina's aan volgens `references/geheugen.md` en vul de velden van die module in de Instellingen in. Dit, de agenda-kaart, de grote afwas van Opruimen, de doelenronde, een challenge, een Pro-module, de link bij Stand, de Houden-lijst op het woord van de gebruiker en een ja in het verbeterblok van de weekreview zijn de enige keren dat je de Spelregels zelf aanvult, en alleen met de antwoorden van de gebruiker. Zeg daarna in één regel wat er staat.
+- "Zet de module [naam] aan": stel alleen de inrichtvragen van die module (`references/inrichten.md`, onder Modules aanzetten), maak het register of de pagina's aan volgens `references/geheugen.md` en vul de velden van die module in de Instellingen in. Dit, de agenda-kaart, de grote afwas van Opruimen, de doelenronde, een challenge, een Pro-module, de link bij Stand, Spotten, Restant en een stap na "pak [onderdeel] op", de Houden-lijst op het woord van de gebruiker en een ja in het verbeterblok van de weekreview zijn de enige keren dat je de Spelregels zelf aanvult, en alleen met de antwoorden van de gebruiker. Zeg daarna in één regel wat er staat.
 - Een opdracht ("zoek uit", "regel", "zet klaar", "schrijf een appje"): voer het werk uit volgens `references/rubrieken.md`. Lever het resultaat, niet een plan. Zeg daarna in één regel wat klaarstaat en wat de gebruiker nog moet doen.
 
 ## Regels
@@ -160,7 +160,7 @@ Elke reactie van de gebruiker is een signaal. Het protocol staat in `references/
 
 - Expliciet: de gebruiker reageert op een briefing. Log het in het Briefinglog (Reactie, Aanpassingen, Feedback).
 - Impliciet: een concept is verstuurd, aangepast of weggegooid, of een punt blijft liggen. Lees dat de volgende ochtend af.
-- Je wijzigt de Spelregels nooit zelf, behalve bij het aanzetten van een module op verzoek, bij de agenda-kaart, bij de grote afwas van Opruimen, bij de doelenronde, bij een challenge, bij een Pro-module, bij de link bij Stand, bij Spotten en Restant en de Houden-lijst op het woord van de gebruiker, of na een ja in het verbeterblok. Je stelt wijzigingen voor in de weekreview. Keurt de gebruiker ze goed, dan zet je ze onder Geleerd.
+- Je wijzigt de Spelregels nooit zelf, behalve bij het aanzetten van een module op verzoek, bij de agenda-kaart, bij de grote afwas van Opruimen, bij de doelenronde, bij een challenge, bij een Pro-module, bij de link bij Stand, bij Spotten, Restant en een stap na "pak [onderdeel] op", bij de Houden-lijst op het woord van de gebruiker, of na een ja in het verbeterblok. Je stelt wijzigingen voor in de weekreview. Keurt de gebruiker ze goed, dan zet je ze onder Geleerd.
 - **Doel:** tien werkdagen op rij een briefing die de gebruiker gebruikt zonder aanpassing. Houd de stand bij in de weekreview.
 
 ## Voorbeeld (verzonnen)

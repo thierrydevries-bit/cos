@@ -117,7 +117,7 @@ Stel daarna deze vragen in één bericht en wacht op antwoord:
 3. Hoe laat wil je de briefing, en op welke dagen werk je?
 4. Je focus: wat zijn je twee of drie belangrijkste doelen voor dit kwartaal?
 5. Waar wil je vooral meer ruimte voor? Kies er een of twee: rust in je hoofd, tijd voor je gezin, ruimte om na te denken, verbinding, energie, focus. Of zeg het in je eigen woorden. Overslaan mag.
-6. Zal ik dingen voor je spotten, zoals uitjes, concerten, festivals of voorstellingen? Noem er een paar: een festival waar je elk jaar heen gaat, een zaal of nieuwsbrief die je volgt, of een artiest die je ooit live wilt zien. Dan let ik in de weekreview op voorverkoop en early birds in je mail. Of zeg "nu even niet".
+6. Zal ik in je mail letten op voorverkoop en early birds? Noem een paar festivals, zalen of artiesten waarvan je mail krijgt. Of zeg "nu even niet".
 
 Mail en agenda volgen uit stap 3. Al het andere krijgt een standaard met `[CHECK]`:
 
@@ -129,7 +129,7 @@ Mail en agenda volgen uit stap 3. Al het andere krijgt een standaard met `[CHECK
 - Inboxronde aan (zie stap 7). Verder geen modules, geen seintjes, geen avondafsluiting. Na akkoord alleen agendablokken zonder gasten zetten of verschuiven; met de routine Opruimen ook bestanden verplaatsen; met de Inboxronde labels zetten, de Houden-lijst bijwerken en op verzoek afmelden in de browser.
 - Agenda: alles met anderen is hard, eigen blokken als werkblok, focus en sport zijn flexibel, 15 minuten ruimte tussen afspraken (zie `agenda.md`).
 
-Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Geen focus: laat de Focus leeg; dan doe je alleen nee-voorstellen op "bleef liggen". Vraag 5 zet je in het blok Focus bij Ruimte voor. Geen antwoord: laat het leeg. Vraag 6 zet je bij Spotten, per favoriet met de soort: afzender, vast evenement met de periode, of artiest. Bij een artiest geldt alleen de artiest zelf live, geen tribute of cover. "Nu even niet" zet je met de datum. Geen antwoord: laat het leeg. Noemt iemand gezondheid of hoe het gaat, bewaar dan alleen de keuze uit de lijst, of niets. Dit is geen test: vraag niet door. Zegt iemand dat het niet goed gaat, volg dan de regel Niet nu in SKILL.md. Het inrichten kan wachten. Voor de naam is er geen standaard: vraag hem opnieuw.
+Geen antwoord op vraag 2: kies Notion als die koppeling werkt, anders licht. Geen focus: laat de Focus leeg; dan doe je alleen nee-voorstellen op "bleef liggen". Vraag 5 zet je in het blok Focus bij Ruimte voor. Geen antwoord: laat het leeg. Vraag 6 zet je bij Spotten, per favoriet met de soort: afzender, vast evenement met de periode, of artiest. Bij een afzender zet je het adres of domein erbij, als je het in de mail ziet. Bij een artiest geldt alleen de artiest zelf live, geen tribute of cover. "Nu even niet" zet je met de datum. Geen antwoord: laat het leeg. Noemt iemand gezondheid of hoe het gaat, bewaar dan alleen de keuze uit de lijst, of niets. Dit is geen test: vraag niet door. Zegt iemand dat het niet goed gaat, volg dan de regel Niet nu in SKILL.md. Het inrichten kan wachten. Voor de naam is er geen standaard: vraag hem opnieuw.
 
 ## 5. Geheugen aanmaken
 

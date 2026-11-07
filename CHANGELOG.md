@@ -1,7 +1,7 @@
 # Changelog
 
 ## 1.9.0 · 7 november 2026
-- **Nieuw: spotten.** Bij het inrichten vraagt hij of hij iets voor je mag spotten: uitjes, concerten, festivals of voorstellingen. Noem een festival, een zaal die je volgt of een artiest die je ooit live wilt zien. In de weekreview let hij dan op voorverkoop en early birds in je mail, en op tickets die nog niet in je agenda staan. Kopen doe je zelf. Of zeg "nu even niet".
+- **Nieuw: spotten.** Bij het inrichten vraagt hij of hij in je mail mag letten op voorverkoop en early birds. Noem een paar festivals, zalen of artiesten waarvan je mail krijgt. De weekreview meldt wat hij vindt, en tickets die nog niet in je agenda staan. Kopen doe je zelf. Of zeg "nu even niet".
 - **Nieuw: je inrichting groeit mee.** Bleef er iets open, of zei je "nu even niet"? Dan biedt de briefing in de eerste maand hooguit één keer per week één onderdeel aan. Zeg "pak [onderdeel] op", of laat het. Na een maand stopt het vanzelf, of eerder als je "stop" zegt.
 - **Challenge accepted krijgt een high five 🙌.** Bij het accepteren, en als je vertelt hoe het ging. Ook als het niet lukte: hij is voor het meedoen.
 

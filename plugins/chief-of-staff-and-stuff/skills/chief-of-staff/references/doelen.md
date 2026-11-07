@@ -31,7 +31,7 @@ Altijd in een gesprek, nooit in een geplande run.
 - Waar zeg je liever nee tegen?
 
 **3. Privé**
-- Wat mag ik voor je in de gaten houden: gezin, afspraken, abonnementen, uitjes? Zijn er concerten, festivals of voorstellingen die ik mag spotten? Die gaan bij Spotten.
+- Wat mag ik voor je in de gaten houden: gezin, afspraken, abonnementen, uitjes? Van welke festivals, zalen of artiesten krijg je mail waarin ik op voorverkoop mag letten?
 - Wat juist niet?
 
 **4. Ruimte**
@@ -47,9 +47,10 @@ Doelen (hooguit 3): [doel, in de woorden van de gebruiker]
 Liever nee tegen: [...]
 Ruimte voor: [...]
 Ik houd in de gaten: [...]; niet: [...]
+Spotten: [favoriet, soort]
 ```
 
-Na akkoord zet je dit in de Spelregels: de doelen in het blok Focus, de rest bij Liever nee tegen en Ruimte voor. Wat je in de gaten mag houden en wat niet, zet je als één regel onder Elke week in de Instellingen. Vervang oude regels pas na dat akkoord. Blijft een antwoord leeg, dan blijft de oude regel staan. Vaste eigen momenten zet je alleen onder Hard in het blok Agenda als de gebruiker daar ja op zegt. Noemt iemand sport, bied dan de module Fit & mindful aan.
+Na akkoord zet je dit in de Spelregels: de doelen in het blok Focus, de rest bij Liever nee tegen en Ruimte voor. Wat je in de gaten mag houden en wat niet, zet je als één regel onder Elke week in de Instellingen. Spotten zet je bij Spotten, per favoriet met de soort, zoals in stap 4 van `inrichten.md`. Vervang oude regels pas na dat akkoord. Blijft een antwoord leeg, dan blijft de oude regel staan. Vaste eigen momenten zet je alleen onder Hard in het blok Agenda als de gebruiker daar ja op zegt. Noemt iemand sport, bied dan de module Fit & mindful aan.
 
 In de lichte opzet geef je dit als tekst om zelf in de opdracht van de geplande taken te plakken. Zonder plakken geldt het niet.
 
