@@ -117,7 +117,7 @@ Stel daarna deze vragen in één bericht en wacht op antwoord:
 3. Hoe laat wil je de briefing, en op welke dagen werk je?
 4. Je focus: wat zijn je twee of drie belangrijkste doelen voor dit kwartaal?
 5. Waar wil je vooral meer ruimte voor? Kies er een of twee: rust in je hoofd, tijd voor je gezin, ruimte om na te denken, verbinding, energie, focus. Of zeg het in je eigen woorden. Overslaan mag.
-6. Zal ik in je mail letten op voorverkoop en early birds? Noem een paar festivals, zalen of artiesten waarvan je mail krijgt. Of zeg "nu even niet".
+6. Zal ik in je mail letten op voorverkoop en early birds? Noem een paar festivals, zalen of artiesten waarvan je mail krijgt. Elk kwartaal vraag ik of je er iets bij wilt. Of zeg "nu even niet".
 
 Mail en agenda volgen uit stap 3. Al het andere krijgt een standaard met `[CHECK]`:
 
