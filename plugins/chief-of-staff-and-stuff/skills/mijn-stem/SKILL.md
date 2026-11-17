@@ -15,8 +15,8 @@ In de Spelregels van de chief of staff, in het blok **Mijn stem** (Notion-pagina
 
 Alleen in een gesprek, nooit in een geplande run.
 
-1. **Vraag akkoord** in één zin: "Mag ik 15 tot 20 mails uit je verzonden mail lezen om je schrijfstijl te leren? Ik bewaar geen inhoud, alleen hoe je schrijft." Wil de gebruiker dat niet, vraag dan om twee of drie zakelijke en één of twee persoonlijke berichten om te plakken.
-2. **Lees** de laatste verzonden mails die de gebruiker zelf schreef: geen doorgestuurde mail, geen automatische mail, niets onder Niet openen, Alleen kop of Zonder onderwerp. Mix van ontvangers: klanten, collega's, leveranciers, en als die er zijn vrienden of familie.
+1. **Vraag akkoord** in één zin: "Mag ik tot 30 mails lezen die je de laatste 90 dagen zelf verstuurde, om je schrijfstijl te leren? Ik bewaar geen inhoud, alleen hoe je schrijft." Wil de gebruiker dat niet, vraag dan om twee of drie zakelijke en één of twee persoonlijke berichten om te plakken.
+2. **Lees** hooguit 30 verzonden mails uit de laatste 90 dagen die de gebruiker zelf schreef, en alleen zijn eigen tekst, niet de mail waarop hij antwoordt: geen doorgestuurde mail, geen automatische mail, niets onder Niet openen, Alleen kop of Zonder onderwerp. Mix van ontvangers: klanten, collega's, leveranciers, en als die er zijn vrienden of familie.
 3. **Leg per register vast** (zakelijk en persoonlijk):
    - aanhef en afsluiting, en welke handtekening wanneer;
    - lengte en opbouw (kort en direct, of eerst context; opsommingen of lopende tekst);
@@ -24,7 +24,7 @@ Alleen in een gesprek, nooit in een geplande run.
    - woorden en wendingen die vaak terugkomen, en wat hij nooit schrijft;
    - hoe hij afsluit: met een voorstel, een vraag of gewoon de boodschap.
 4. **Schrijf het profiel** in het format hieronder, met per register één kort voorbeeld dat je zelf maakt in zijn stijl. Geen citaten uit echte mails, geen namen, bedragen of nummers van anderen.
-5. **Laat het zien** en vraag: "Klopt dit? Wat mis ik?" Pas aan op zijn woord. Pas daarna zet je het in de Spelregels. Dit is de enige keer dat je dat blok zelf schrijft.
+5. **Laat het zien**, met vijf voorbeelden van waar je het op baseert: per voorbeeld het soort ontvanger en wat je opviel, zoals een aanhef of een vaste wending van de gebruiker zelf. Geen inhoud van de mail en geen namen of gegevens van anderen. De voorbeelden bewaar je niet. Vraag: "Klopt dit? Wat mis ik?" Pas aan op zijn woord. Pas daarna zet je het in de Spelregels. Dit is de enige keer dat je dat blok zelf schrijft. Bij het inrichten bestaan de Spelregels dan nog niet: onthoud het profiel tot het geheugen er staat.
 
 ## 2. Toepassen
 

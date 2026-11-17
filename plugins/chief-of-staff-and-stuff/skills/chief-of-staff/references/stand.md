@@ -47,6 +47,7 @@ Klaar zet je alleen als je het zelf zag werken, of als de gebruiker het in het g
 - **Registers:** welke bestaan, en wat er bij het inrichten in is gezet.
 - **Geplande taken en agenda:** de taken uit stap 7 met dag en tijd, en de vaste blokken uit de agenda.
 - **Skills en koppelingen:** wat werkt, wat nog getest moet worden, en wat de gebruiker nog moet doen.
+- **Kennismaking:** de regel Stand op de pagina Over mij ([N] van 4 blokken klaar), en of het profiel bevestigd is. Zie `kennismaking.md`.
 - **Parkeerplaats en het gesprek:** wat bewust wacht, en waarom.
 
 ## Opbouw van de pagina
@@ -56,7 +57,7 @@ Klaar zet je alleen als je het zelf zag werken, of als de gebruiker het in het g
 3. **Voortgang:** een balk met het aantal per status, van het totaal.
 4. **Weekritme:** de geplande taken en vaste blokken per weekdag, en een strook voor wat maandelijks of per kwartaal terugkomt.
 5. **Wat jij nog even doet:** hooguit zes kleine acties, elk met één regel uitleg.
-6. **Fases:** Basis en koppelingen, Spelregels, Registers, Vaste ritmes, Werkstromen en skills, Opruimen, Focus en eerste week. Per onderdeel een status, en waar nodig één regel toelichting. Per fase "[x] van [y] klaar".
+6. **Fases:** Basis en koppelingen, Spelregels, Kennismaking, Registers, Vaste ritmes, Werkstromen en skills, Opruimen, Focus en eerste week. Per onderdeel een status, en waar nodig één regel toelichting. Per fase "[x] van [y] klaar".
 
 Maak hem als artifact als dat kan, anders als pagina in het geheugen. In de huisstijl van de gebruiker als die er is. Zet de link bij Stand in de Instellingen. Zo blijft het dezelfde pagina en is de voortgang zichtbaar.
 
@@ -67,7 +68,7 @@ In een geplande run werk je alleen een pagina bij die in de Instellingen staat. 
 ## Regels
 
 - De pagina is om te delen. Geen bedragen, geen inhoud uit mail of registers, geen namen van mensen of organisaties, behalve de gebruiker. Ook geen namen van agenda's.
-- Uit de Spelregels noem je alleen de veldnaam en de status, nooit wat er staat, behalve de zin bij Gelukt als. Dat geldt zeker voor Niet openen, Alleen kop, Zonder onderwerp, Focus en Ruimte voor.
+- Uit de Spelregels noem je alleen de veldnaam en de status, nooit wat er staat, behalve de zin bij Gelukt als. Dat geldt zeker voor Niet openen, Alleen kop, Zonder onderwerp, Focus en Ruimte voor. Van de pagina Over mij noem je alleen de stand, nooit wat er staat.
 - Uit de registers neem je alleen aantallen. Uit de Parkeerplaats alleen onderdelen van de inrichting.
 - Vaste blokken noem je op soort: "werkblok", "klant" of "privé". Niets over gezondheid of hoe het met iemand gaat.
 - De pagina is privé tot de gebruiker hem deelt. Zeg dat bij het opleveren, en zeg dat wie de link heeft ook latere updates ziet. Een eigen privépagina maken is geen publiceren. Delen doet de gebruiker.

@@ -19,7 +19,7 @@ Werkt voor Gmail en Outlook. Gebruik de zoekfunctie van de koppeling die in de I
 - **Concepten:** kijk welke concepten van gisteren er nog staan. Dat is een leersignaal (zie `leren.md`).
 - Nieuwsbrieven, notificaties en geautomatiseerde mail tellen niet mee, tenzij het een factuur, deadline of betaling betreft.
 
-**Microsoft 365.** De koppeling vraagt een zakelijk Microsoft-account en eenmalige toestemming van de hoofdbeheerder (Global Admin) van dat account. Gebruik nooit een account van een opdrachtgever. Concepten kunnen alleen als de schrijffuncties aan staan. Staat in de Instellingen "Concepten: onder de briefing", zet de concepttekst dan onder de briefing. De koppeling ziet ook SharePoint, OneDrive en Teams. Lees die alleen als de gebruiker dat vraagt, en nooit wat onder Niet openen staat.
+**Microsoft 365.** Met een zakelijk Microsoft-account geeft de hoofdbeheerder (Global Admin) eenmalig toestemming. Een persoonlijk account is nog niet getest met deze plug-in. Gebruik nooit een account van een opdrachtgever. Concepten kunnen alleen als de schrijffuncties aan staan. Staat in de Instellingen "Concepten: onder de briefing", zet de concepttekst dan onder de briefing. De koppeling ziet ook SharePoint, OneDrive en Teams. Lees die alleen als de gebruiker dat vraagt, en nooit wat onder Niet openen staat.
 
 ## Agenda
 

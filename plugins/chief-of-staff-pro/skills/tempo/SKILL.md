@@ -5,7 +5,7 @@ description: 'Pro-module van Chief of Staff...and stuff: bewaakt je tempo vanuit
 
 # Tempo (Pro)
 
-*Chief of Staff...and stuff · Pro.* Versie 0.2, 6 november 2026.
+*Chief of Staff...and stuff · Pro.* Versie 0.3, 17 november 2026.
 
 Een natuurlijk tempo. Je bewaakt het vanuit de agenda. Je meet geen stress, stelt geen diagnose en slaat niets op over hoe het met de gebruiker gaat.
 

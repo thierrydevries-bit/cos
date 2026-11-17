@@ -18,11 +18,11 @@ Hij leert van je reacties, en je kunt hem uitbreiden met modules en met je eigen
 
 | Onderdeel | Wat het doet |
 |---|---|
-| Skill `chief-of-staff` | briefing, weekreview, toezeggingen, projecten, parkeerplaats, nee-voorstellen, routine Opruimen, Inboxronde, modules Feestdagen en Fit & mindful |
+| Skill `chief-of-staff` | briefing, weekreview, toezeggingen, projecten, parkeerplaats, nee-voorstellen, de kennismaking met de pagina Over mij, routine Opruimen, Inboxronde, modules Feestdagen en Fit & mindful |
 | Skill `mijn-stem` | leert hoe jij schrijft, zodat elk concept klinkt als jij |
 | Skill `van-gesprek-naar-acties` | maakt van een opname of transcript besluiten, acties en toezeggingen |
 | Skill `overleg-voorbereiden` | voorbereiding van één pagina voor een afspraak, met wat er nog openstaat |
-| Commando's | `inrichten`, `briefing`, `weekreview`, `noteer`, `hoofd-leegmaken`, `plan-project`, `doelen`, `challenge-accepted`, `inboxronde`, `waar-staan-we` (en `mijn-stem` als skill) |
+| Commando's | `inrichten`, `briefing`, `weekreview`, `noteer`, `hoofd-leegmaken`, `plan-project`, `doelen`, `challenge-accepted`, `inboxronde`, `waar-staan-we`, `kennismaking`, `ken-je-mij` (en `mijn-stem` als skill) |
 | Connectoren | Gmail en Google Calendar, Microsoft 365, Google Drive en Dropbox, Notion (zet aan wat je gebruikt) |
 
 ## Installeren
@@ -38,18 +38,19 @@ claude plugin install chief-of-staff-and-stuff@thierrydevries
 
 **Kosten:** de plug-in is gratis. Voor de dagelijkse briefing, de weekreview en de Inboxronde (geplande taken) heb je een betaald Claude-plan nodig, zoals Pro.
 
-**Connectoren:** mail en agenda via Google (Gmail en Google Calendar) of Microsoft 365. Microsoft 365 werkt alleen met een zakelijk account, en de beheerder van dat account geeft eenmalig akkoord; een @outlook.com- of @hotmail.com-adres werkt niet. Bestanden via Google Drive of Dropbox. Kies je Google Drive als geheugen, klik dan op **Customize**, dan **Connectors**, en zet ook **Google Docs** en **Google Sheets** aan. Andere tools, zoals Trello, Pipedrive of Canva, kun je daar zelf toevoegen.
+**Connectoren:** mail en agenda via Google (Gmail en Google Calendar) of Microsoft 365. Bij Microsoft 365 met een zakelijk account geeft de beheerder van dat account eenmalig akkoord. Een persoonlijk account, zoals een @outlook.com- of @hotmail.com-adres, is nog niet getest met deze plug-in. Bestanden via Google Drive of Dropbox. Kies je Google Drive als geheugen, klik dan op **Customize**, dan **Connectors**, en zet ook **Google Docs** en **Google Sheets** aan. Andere tools, zoals Trello, Pipedrive of Canva, kun je daar zelf toevoegen.
 
 **Rechten:** zet bij elke connector de tools die schrijven of verwijderen op **Needs approval**. Dan vraagt hij eerst, en jij houdt de grip. Dat doe je onder **Customize**, dan **Connectors**, per connector.
 
 ## Gebruiken
 
 1. Voeg de plug-in toe en klik op het tabblad **Connectors** van de plug-in op **Connect** bij je mail, agenda en Notion (of Google Drive). Ze verschijnen daarna ook onder **Customize**, dan **Connectors**.
-2. Typ `/` in een nieuwe chat en kies **inrichten**, of zeg "richt mijn chief of staff in". Open de [startpagina](https://thierrydevries.nl/producten/chief-of-staff/starten/) ernaast: daar staat de checklist voor de stappen buiten de chat.
-3. Stel de drie geplande taken in die hij je aan het eind geeft: de ochtendbriefing, de weekreview en de Inboxronde.
+2. Typ `/` in een nieuwe chat en kies **inrichten**, of zeg "richt mijn chief of staff in". Open de [startpagina](https://thierrydevries.nl/producten/chief-of-staff/starten/) ernaast: daar staat de checklist voor de stappen buiten de chat. Reken op een uur.
+3. De drie geplande taken (de ochtendbriefing, de weekreview en de Inboxronde) plant hij na je ja zelf in. Kan dat niet in jouw Claude, dan geeft hij ze je om zelf te plannen.
 4. Reageer de eerste twee weken op elke briefing. Daar leert hij van.
+5. In je eerste drie weekreviews vraagt hij of je verder wilt met de kennismaking. Zeg in een nieuw gesprek "ken je mij" om te zien wat hij van je weet.
 
-Losse dingen tussendoor: "noteer: bel de gemeente", "bespreek met Sanne: de planning", "wat kan ik nu doen?", "plan dit project", "hoofd leegmaken".
+Losse dingen tussendoor: "noteer: bel de gemeente", "bespreek met Sanne: de planning", "wat kan ik nu doen?", "plan dit project", "hoofd leegmaken", "andere toon".
 
 ## Pro
 
@@ -57,7 +58,7 @@ Meer begeleiding nodig? Er is ook **Chief of Staff...and stuff · Pro**, uit dez
 
 ## Gegevens
 
-De plug-in zelf bewaart en verstuurt niets. Claude leest je mail, agenda, bestanden en notities via de connectoren die jij aanzet, en schrijft alleen in je eigen geheugen (Notion of Google Drive) en als concept in je mail. Versturen, accepteren, bestellen, betalen en verwijderen doet hij nooit. Met de Inboxronde zet hij na jouw akkoord labels op je mail. Op jouw verzoek meldt hij je af in de browser. Daarvoor opent hij alleen de laatste mail van die afzender. Bij Opruimen verplaatst hij alleen na jouw ja, naar "Op te ruimen", naar Archief of naar mappen die jullie afspraken. Blokken zet hij alleen na jouw ja in je eigen agenda. De module Fit & mindful kijkt alleen naar je agenda en vraagt of bewaart geen gezondheidsgegevens. Wat je onder *Niet openen* of *Alleen kop* zet, blijft dicht.
+De plug-in zelf bewaart en verstuurt niets. Claude leest je mail, agenda, bestanden en notities via de connectoren die jij aanzet, en schrijft alleen in je eigen geheugen (Notion of Google Drive) en als concept in je mail. Versturen, accepteren, bestellen, betalen en verwijderen doet hij nooit. Met de Inboxronde zet hij na jouw akkoord labels op je mail. Op jouw verzoek meldt hij je af in de browser. Daarvoor opent hij alleen de laatste mail van die afzender. Bij Opruimen verplaatst hij alleen na jouw ja, naar "Op te ruimen", naar Archief of naar mappen die jullie afspraken. Blokken zet hij alleen na jouw ja in je eigen agenda. Bij het inrichten leest hij, na je akkoord, tot 30 mails die je de laatste 90 dagen zelf verstuurde. Daarvan bewaart hij alleen hoe je schrijft, geen inhoud. Wat je in de kennismaking vertelt, staat in je eigen geheugen: op de pagina Over mij en als regels in je Spelregels. De zin bij Gelukt als staat ook op de pagina van de stand. Die is privé tot jij hem deelt. Werk je zonder geheugen, dan staat het in de opdracht van je geplande taken. De geplande taken maakt hij alleen aan na jouw ja. De module Fit & mindful kijkt alleen naar je agenda en vraagt of bewaart geen gezondheidsgegevens. Wat je onder *Niet openen* of *Alleen kop* zet, blijft dicht.
 
 De Inboxronde is getest met Gmail, niet met Microsoft 365. Daar krijg je alleen de voorstellen en de stappen. Afmelden in de browser werkt alleen als de Claude-app open staat op je computer, of met Claude in Chrome.
 

@@ -26,7 +26,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 **Systeem**
 11. Lees de Briefinglog-entries van deze week en verzamel de regelvoorstellen uit *Geleerde regel* (zie `leren.md`).
 12. **Verbeterblok** (alleen in weken met een even weeknummer). Hooguit drie voorstellen, één per soort, elk met ja of nee te beantwoorden:
-    - **a. Een nieuwe routine:** iets uit "Later" in `inrichten.md` dat nog niet aan staat (hoofd leegmaken, startvulling, schrijfstijl, seintje, avondafsluiting, agenda-kaart als het blok Agenda er nog geen heeft), de routine Opruimen (`opruimen.md`), de doelenronde als de Focus leeg is (`doelen.md`), de Inboxronde voor wie die nog niet heeft (een ja volgt Modules aanzetten in `inrichten.md`), of een module (Fit & mindful, Feestdagen in de weken voor een feestdag, zie `modules.md`).
+    - **a. Een nieuwe routine:** iets uit "Later" in `inrichten.md` dat nog niet aan staat (hoofd leegmaken, startvulling, schrijfstijl, seintje, avondafsluiting, agenda-kaart als het blok Agenda er nog geen heeft), de routine Opruimen (`opruimen.md`), de doelenronde als de Focus leeg is (`doelen.md`), alleen met geheugen en vanaf de vierde weekreview na het inrichten de kennismaking, voor wie nog geen pagina Over mij heeft of bij het stoppunt is gestopt (`kennismaking.md`), de Inboxronde voor wie die nog niet heeft (een ja volgt Modules aanzetten in `inrichten.md`), of een module (Fit & mindful, Feestdagen in de weken voor een feestdag, zie `modules.md`).
     - **b. Een tip om Claude beter in te richten:** een project in Claude maken voor een lopend project, het geheugen van Claude aanzetten, een connector toevoegen voor een tool die de gebruiker noemde, of de chief of staff een project laten plannen ("plan dit project").
     - **c. Een aanpassing op basis van hoe de gebruiker reageerde:** een patroon uit het Briefinglog (punten die steeds blijven liggen, concepten die steeds herschreven worden) dat nog niet onder "Wat ik wil leren" staat. Zie `leren.md`.
 
@@ -34,8 +34,9 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 
     **Een routine die tijd vraagt.** Kost een voorstel onder a meer dan vijf minuten van de gebruiker (de grote afwas van Opruimen, hoofd leegmaken, startvulling, de doelenronde), doe het dan niet in de eerste twee weken na het inrichten. Zoek in de agenda van volgende week een vrij blok van 15 tot 30 minuten (zie `agenda.md`) en noem dat in het voorstel. Een ja is de go voor dat blok, en alleen voor dat blok. Controleer de agenda vlak voor het zetten. Is het moment voorbij of bezet, doe dan een nieuw voorstel en wacht op een ja. Zet het blok in de eigen agenda, zonder gasten, met als titel `Werkblok chief of staff: [routine]`. Zet in de beschrijving wat de gebruiker dan doet, bijvoorbeeld: "Koppel je map met **Add folder** en zeg: ruim op [plek]." Kun je niet schrijven in de agenda, zeg dat in het voorstel en geef dag, tijd en titel om zelf te zetten. Formuleer het als een kleine challenge, zoals hieronder bij Beter. Dit is een uitnodiging, geen challenge uit `challenges.md`: "challenge accepted" telt hier als een ja op dit blok. Geen complimenten: de stand is het feit, de rest is een uitnodiging. Staat er iets bij Ruimte voor, kies dan eerst wat daarbij past. In de lichte opzet bied je dit niet aan.
 13. **Privacy, één keer.** Staat er in het blok Instellingen nog `[CHECK]` bij Niet openen of Alleen kop, vraag het dan in de eerste weekreview één keer. Daarna niet meer. Deze vraag telt niet mee voor de zeven.
+13b. **Kennismaking.** Alleen met geheugen, en alleen in de eerste drie weekreviews na de proefbriefing. Lees de pagina Over mij en volg In de weekreview in `kennismaking.md`. Is alles klaar en bevestigd, dan lever je niets. Deze regel telt niet mee voor de zeven.
 14. **Kies de vragen.** Hooguit zeven beslisvragen in de hele review (voorstellen, ja/nee-vragen, regelvoorstellen en het verbeterblok samen). Eerst wat iemand anders raakt, dan het oudste. De rest schuift een week door. De terugblikvraag telt niet mee.
-15. Schrijf de review in het format hieronder. Met Pro tijdens de onboarding: de regel "De stap van vandaag" direct onder de kop (zie Uitbreiding Pro in SKILL.md). Hooguit drie concepten in deze run.
+15. Schrijf de review in het format hieronder. Met Pro tijdens de onboarding: de regel "De stap van vandaag" direct onder de kop (zie Uitbreiding Pro in SKILL.md). Daaronder, in de eerste drie weekreviews, de regel Kennismaking uit stap 13b. Hooguit drie concepten in deze run.
 16. Log hem in het Briefinglog met Soort "Weekreview" en als titel `⚡ Weekreview | [dag] [DD-MM]` (zie de naamgeving in SKILL.md).
 17. Lever hem als antwoord van de run, met de titel als eerste regel en de link naar de Briefinglog-pagina.
 
@@ -44,6 +45,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 ```
 **Week [nummer], [datum maandag] tot [datum vrijdag]**
 [Alleen met Pro tijdens de onboarding: "De stap van vandaag", één regel.]
+[Alleen in de eerste drie weekreviews na het inrichten: de regel Kennismaking, zie stap 13b.]
 
 ## Leeg
 [Eén regel: "Alles verhelderd." of "[N] voorstellen:". Plus het aantal dat nog in te delen is en het aantal items met "besluit open" in Notitie, als dat er zijn.]

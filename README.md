@@ -6,7 +6,7 @@ Een Nederlandstalige chief of staff en personal assistant voor Claude, als plug-
 
 **Plug-in, skills en connectoren:** de plug-in is het pakket, de skills zijn wat hij kan, de connectoren zijn waar hij bij mag. Hij leert van je reacties en je kunt hem uitbreiden.
 
-**Connectoren:** mail en agenda via Google (Gmail en Google Calendar) of Microsoft 365. Microsoft 365 werkt alleen met een zakelijk account, en de beheerder van dat account geeft eenmalig akkoord; een @outlook.com- of @hotmail.com-adres werkt niet. Bestanden via Google Drive of Dropbox, geheugen in Notion. Kies je Google Drive als geheugen, klik dan op **Customize**, dan **Connectors**, en zet ook **Google Docs** en **Google Sheets** aan.
+**Connectoren:** mail en agenda via Google (Gmail en Google Calendar) of Microsoft 365. Bij Microsoft 365 met een zakelijk account geeft de beheerder van dat account eenmalig akkoord. Een persoonlijk account, zoals een @outlook.com- of @hotmail.com-adres, is nog niet getest met deze plug-in. Bestanden via Google Drive of Dropbox, geheugen in Notion. Kies je Google Drive als geheugen, klik dan op **Customize**, dan **Connectors**, en zet ook **Google Docs** en **Google Sheets** aan.
 
 ## Installeren
 

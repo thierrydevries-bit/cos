@@ -5,7 +5,7 @@ description: 'Pro-module van Chief of Staff...and stuff: de eerste week na het i
 
 # Onboarding (Pro)
 
-*Chief of Staff...and stuff · Pro.* Versie 0.2, 6 november 2026.
+*Chief of Staff...and stuff · Pro.* Versie 0.3, 17 november 2026.
 
 De eerste week na het inrichten. Eén nieuwe gewoonte per keer: elke werkdag één stap, in een blok van 30 tot 45 minuten dat al in de agenda staat. Na vijf stappen werkt de gebruiker zelf met de chief of staff. Seeing is believing: de onboarding is meteen een actie.
 
@@ -84,6 +84,6 @@ Bij "waar sta ik met de onboarding": noem de stap van vandaag, de stappen die no
 ## Regels
 
 - **Eén stap per dag.** Geen twee stappen tegelijk, ook niet als de gebruiker achterloopt. Een gemiste stap schuift niet door: de volgende dag heeft zijn eigen stap. Vraagt de gebruiker erom, doe de gemiste stap dan in een gesprek.
-- **Geen druk.** Geen herinneringen buiten de briefing, geen "je bent achter".
+- **Geen druk buiten de weekreview.** Geen herinneringen buiten de briefing, geen "je bent achter". In de weekreview mag één duidelijke uitnodiging staan om de kennismaking af te maken, die de gebruiker zelf aanneemt. Die regel komt uit de basis, niet uit deze skill.
 - **De gebruiker beslist.** Blokken alleen na een go, en alleen eigen blokken zonder gasten.
 - **Schrijven:** B1, korte zinnen, geen lange streepjes, in de taal uit de Instellingen. Knoppen in Claude Engels en vet.

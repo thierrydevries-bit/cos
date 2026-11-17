@@ -1,24 +1,25 @@
 # Geheugen
 
-Het geheugen is waar je de Spelregels en de registers bewaart: Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog. De gebruiker kiest bij het inrichten een van drie opzetten. Het veld Geheugen in de Instellingen zegt welke.
+Het geheugen is waar je de Spelregels, de pagina Over mij en de registers bewaart: Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog. De gebruiker kiest bij het inrichten een van drie opzetten. Het veld Geheugen in de Instellingen zegt welke.
 
 | Opzet | Wat | Wanneer |
 |---|---|---|
 | **Notion** | een pagina "Chief of staff" met de Spelregels en vijf databases | standaard, werkt het best; het gratis plan volstaat |
-| **Google Drive** | een map "Chief of staff" met een document en een spreadsheet | voor wie met Google werkt en geen Notion wil |
+| **Google Drive** | een map "Chief of staff" met twee documenten en een spreadsheet | voor wie met Google werkt en geen Notion wil |
 | **Licht** | geen geheugen; de Spelregels staan in de opdracht van de geplande taak | om snel te beginnen; later uit te breiden |
 
 Gebruik in alle drie precies de namen en velden hieronder: de andere bestanden verwijzen ernaar.
 
 ## Notion
 
-Zes onderdelen, onder één pagina "Chief of staff": de pagina Spelregels en de databases Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog. Met de module Gespreksopnames ook Gesprekken. Met de module Feestdagen ook Cadeaus en wensen, en een pagina "Ideetjes" met daaronder een pagina per persoon.
+Zeven onderdelen, onder één pagina "Chief of staff": de pagina's Spelregels en Over mij en de databases Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog. Met de module Gespreksopnames ook Gesprekken. Met de module Feestdagen ook Cadeaus en wensen, en een pagina "Ideetjes" met daaronder een pagina per persoon.
 
 ## Google Drive
 
 Een map "Chief of staff" in Drive, met:
 
 - een Google-document **"Chief of staff · Spelregels"**, met dezelfde inhoud als de Spelregels hieronder;
+- een Google-document **"Chief of staff · Over mij"**, met de opbouw van Over mij hieronder;
 - een Google-spreadsheet **"Chief of staff · Registers"**, met een tabblad per register: Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog (Gesprekken en Cadeaus en wensen alleen met die module);
 - met de module Feestdagen: een document **"Chief of staff · Ideetjes"**, met een kop per persoon.
 
@@ -37,7 +38,8 @@ Nodig: de koppelingen Google Drive, Google Docs en Google Sheets. Lukt lezen of 
 
 Voor wie snel wil beginnen. Er is geen Notion en geen Drive nodig.
 
-- **Spelregels:** het blok Instellingen, Focus, Agenda en Regels staat als tekst in de opdracht van elke geplande taak. In een gesprek vraag je de verplichte velden als je ze niet kent.
+- **Spelregels:** het blok Instellingen, Focus, Agenda en Regels, en Mijn stem als dat er is, staat als tekst in de opdracht van elke geplande taak. In een gesprek vraag je de verplichte velden als je ze niet kent.
+- **Over mij:** is er niet. De antwoorden uit de start van de kennismaking staan als tekst onder het blok Spelregels, onder de kop Over mij. Verdieping werkt niet zonder geheugen. "Ken je mij" werkt alleen als de gebruiker dat blok plakt (zie `kennismaking.md`).
 - **Projecten en "noteer":** werken niet zonder geheugen. Zeg dat, en geef de tekst om zelf te bewaren.
 - **Toezeggingen:** elke run zoek je ze opnieuw op in de verzonden en ontvangen mail van de laatste 14 dagen. Je houdt geen lijst bij, dus noem alleen wat nu nog open lijkt.
 - **Loggen:** je logt niets. Wat normaal in het Briefinglog of de Parkeerplaats komt, noem je in de briefing of in het gesprek.
@@ -52,7 +54,7 @@ In Notion een pagina, in Google Drive een document, in de lichte opzet een tekst
 
 ```
 > Versie 0.1, [datum]. Hoe de chief of staff voor [naam] werkt. Alleen [naam] wijzigt regels.
-> Voorstellen komen via de weekreview en staan daarna met datum onder Geleerd.
+> Voorstellen komen via de weekreview of de kennismaking en staan daarna met datum onder Geleerd.
 
 ## Instellingen
 (Verplicht: Naam, Mailadres, Mail en agenda, Geheugen. Met Notion of Google Drive ook Toezeggingen, Briefinglog, Parkeerplaats. Projecten is aanbevolen.)
@@ -77,7 +79,8 @@ Zonder onderwerp: [afzenders of domeinen waarvan ook het onderwerp niet getoond 
 Afgerond:        [opdrachten die klaar zijn; alleen een openstaande betaling telt nog]
 Schrijfstijl zakelijk:    [één zin, of: zie voorbeelden hieronder]
 Schrijfstijl persoonlijk: [één zin, of: zie voorbeelden hieronder]
-Na akkoord:      blok in eigen agenda zetten of een eigen blok zonder gasten verschuiven; met de routine Opruimen ook bestanden verplaatsen; met de Inboxronde labels zetten, de Houden-lijst bijwerken en op verzoek afmelden in de browser
+Toon:            [leeg, of: staccato / bondig met waarom / rustig en warm / met een vraag erbij. Hoe de chief of staff tegen de gebruiker schrijft, zie kennismaking.md]
+Na akkoord:      blok in eigen agenda zetten of een eigen blok zonder gasten verschuiven; de eigen geplande taken aanmaken, aanpassen en één keer laten lopen; met de routine Opruimen ook bestanden verplaatsen; met de Inboxronde labels zetten, de Houden-lijst bijwerken en op verzoek afmelden in de browser
 Elke week:       [optioneel: vaste dingen die de weekreview moet nalopen, bijv. bonnetjes, de schoolapp, het salesbord]
 Vaardigheden:    [skills die de gebruiker al heeft, per rubriek; bijv. Werk: van-gesprek-naar-acties]
 Modules:         [geen / feestdagen / fit & mindful / audio / gespreksopnames / boekhouding / borden]
@@ -87,6 +90,8 @@ Inboxronde:      [uit / maandelijks; dag 1, 08:40]
 Houden:          [afzenders die nooit worden voorgesteld, met de reden, bijv. (label Inspiratie, buiten de inbox)]
 Inboxdashboard:  [leeg, of aan met de link; alleen met Pro]
 Gelukt als:      [leeg, of de zin van de gebruiker, met de datum]
+Over mij:        [link naar de pagina of het document Over mij; niet in de lichte opzet]
+Kennismaking:    [leeg, of: gestart JJJJ-MM-DD, N van 4 blokken klaar, open: de nummers, bevestigd JJJJ-MM-DD of nog niet. Zie kennismaking.md]
 Spotten:         [leeg, "nu even niet (JJJJ-MM-DD)", of favorieten met de soort: afzender, evenement (periode) of artiest (alleen live). Zie stap 10b van weekreview.md]
 Restant:         [leeg, of uit. Zie restant.md]
 Stand:           [leeg, of de link; met "maandelijks" erachter als de gebruiker dat wil]
@@ -136,7 +141,7 @@ Reistijd:  hoort bij de afspraak; de ruimte komt erbovenop
 3. Hooguit één nee-voorstel per dag, met de afzegging al als concept.
 4. Toezeggingen in twee richtingen: wat ik beloofde en wat mij beloofd is.
 5. Een eigenaar alleen als die het zelf zei. Een datum alleen als die genoemd is.
-6. Nooit versturen, uitnodigen, accepteren, bestellen, betalen, publiceren of verwijderen. Na mijn ja alleen een blok in mijn eigen agenda zetten, een eigen blok zonder gasten verschuiven bij Opruimen bestanden verplaatsen, of bij de Inboxronde labels zetten, de Houden-lijst bijwerken en op mijn verzoek afmelden in de browser.
+6. Nooit versturen, uitnodigen, accepteren, bestellen, betalen, publiceren of verwijderen. Na mijn ja alleen een blok in mijn eigen agenda zetten, een eigen blok zonder gasten verschuiven, mijn eigen geplande taken aanmaken, aanpassen of één keer laten lopen, bij Opruimen bestanden verplaatsen, of bij de Inboxronde labels zetten, de Houden-lijst bijwerken en op mijn verzoek afmelden in de browser.
 7. Wat onder Niet openen staat, blijft dicht. Van wat onder Alleen kop staat, lees ik alleen onderwerp, afzender en datum. Wat onder Zonder onderwerp staat, noem ik alleen met de naam die ik daarvoor kreeg.
 
 ## Mijn stem
@@ -147,8 +152,42 @@ Zakelijk: [twee of drie eigen mails, als de gebruiker die gaf]
 Persoonlijk: [een of twee eigen berichten, als de gebruiker die gaf]
 
 ## Geleerd
-[Leeg bij de start. Elke regel met datum, na akkoord in de weekreview.]
+[Leeg bij de start. Elke regel met datum, na akkoord in de weekreview of in de kennismaking.]
 ```
+
+## Over mij
+
+In Notion een pagina, in Google Drive een document. In de lichte opzet bestaat hij niet. Hier staat wie de gebruiker is, in zijn eigen woorden. Hoe de chief of staff zich gedraagt, staat in de Spelregels. De kennismaking vult deze pagina (`kennismaking.md`).
+
+```
+> Wie [naam] is en hoe [naam] werkt, in eigen woorden. Alleen [naam] wijzigt dit, of de chief of staff na een ja.
+
+Stand:        [N] van 4 blokken klaar, open: [nummers]
+Bevestigd op: [datum, of: nog niet]
+
+## 1. Wie ik ben
+Wat ik doe: [...]
+Waar ik trots op ben: [...]
+Met wie ik het liefst werk: [...]
+Waar ik mijn chief of staff het meest voor nodig heb: [...]
+
+## 2. Hoe ik denk en beslis
+[Leeg tot dit blok is gedaan. Ideeën en sparren, beslissen, tempo, communiceren, feedback, initiatief.]
+
+## 3. Wat goed werk is
+[Leeg tot dit blok is gedaan. Wanneer iets af is, een voorbeeld, de toets voor tekst namens mij.]
+
+## 4. Wat ik nooit wil zien
+[Woorden, gedrag, opmaak, werkwijze. En waaraan ik merk dat het werkt.]
+
+## Wijzigingen
+[Elke wijziging met datum, één regel.]
+```
+
+- Alleen wat de gebruiker zelf zei of bevestigde. Wat de chief of staff afleidt uit gedrag, staat er pas na een ja, met "(afgeleid, bevestigd op [datum])" erachter.
+- Geen gezondheid, geen privé-inkomen, spaargeld of schulden, geen gevoelige details over anderen.
+- De pagina is privé. De inhoud komt niet op de pagina van de stand en niet in een bericht aan een ander.
+- In een geplande run lees je de pagina alleen. Je wijzigt hem alleen in een gesprek, op het woord van de gebruiker.
 
 ## Register "Toezeggingen"
 

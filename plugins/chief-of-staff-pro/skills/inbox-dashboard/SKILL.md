@@ -5,7 +5,7 @@ description: 'Pro-module van Chief of Staff...and stuff: een maandelijks dashboa
 
 # Inboxdashboard (Pro)
 
-*Chief of Staff...and stuff · Pro.* Versie 0.2, 6 november 2026.
+*Chief of Staff...and stuff · Pro.* Versie 0.3, 17 november 2026.
 
 Eén vaste pagina die elke maand wordt bijgewerkt. Zo zie je wat er binnenkomt, wat er wacht en wat de Inboxronde oplevert.
 

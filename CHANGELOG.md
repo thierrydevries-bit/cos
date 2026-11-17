@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.10.0 en Pro 0.3.0 · 17 november 2026
+- **Nieuw: de kennismaking.** Je chief of staff leert je kennen in etappes. Bij het inrichten begint hij met drie korte vragen over jou. Na je eerste briefing volgt de rest van de start: je toon, wat je nooit wilt zien, hoe je feedback wilt en wanneer hij op je go wacht. Dan stopt hij en laat hij zien wat hij weet. De verdieping komt in je eerste drie weekreviews, een blok per keer. Jij kiest: nu verder, of later. Typ `/kennismaking` om zelf verder te gaan.
+- **Nieuw: de pagina Over mij.** Wat je vertelt, staat in je eigen woorden op één pagina in je geheugen, naast de Spelregels. Elke wijziging krijgt een datum, en pas na je ja staat er "Bevestigd". Hij leest de pagina bij elke briefing.
+- **Nieuw: "ken je mij".** Zeg het in een nieuw gesprek. Hij vertelt in een paar regels wie je bent, hoe je werkt en wat je nooit wilt zien. Klopt het niet, dan past hij het aan.
+- **Nieuw: kies je toon.** Na je eerste briefing vraagt hij hoe hij tegen je moet schrijven: staccato, bondig met waarom, rustig en warm, of met een vraag erbij. Je briefing, je weekreview en zijn antwoorden volgen die stijl. Concepten namens jou blijven klinken als jij. Wisselen kan later met "andere toon".
+- **De scan.** Bij het inrichten leest hij, na je akkoord, tot 30 mails die je de laatste 90 dagen zelf verstuurde, en kijkt hij naar je agenda. Hij laat zien wat hij ziet, met vijf voorbeelden. Hij bewaart alleen hoe je schrijft.
+- **Hij plant zelf.** Na je ja maakt hij de geplande taken aan, als dat in jouw Claude kan. Anders geeft hij ze je, zoals voorheen.
+- **De korte route.** Heb je al een startpakket of een tekst over jezelf, dan vraagt hij alleen wat nog mist.
+- **Inrichten: reken op een uur.** Hoe meer je er nu in stopt, hoe meer je eruit haalt.
+- **De doelenronde** leest eerst Over mij en vraagt niets dubbel.
+- **Pro 0.3.0.** De stap van vandaag staat nog steeds alleen in je briefing. Nieuw: in je eerste drie weekreviews staat één duidelijke uitnodiging om de kennismaking af te maken. Verder geen herinneringen.
+- **Gebruik je de plug-in al?** Typ `/kennismaking`. Na je ja maakt hij de pagina Over mij aan.
+- De scan is gebruikt met Gmail. Met Microsoft 365 is hij nog niet getest.
+
 ## 1.9.0 · 7 november 2026
 - **Nieuw: spotten.** Bij het inrichten vraagt hij of hij mag letten op voorverkoop en early birds. Noem een paar festivals, zalen of artiesten. Krijg je er mail van, dan kijkt hij elke week in je mail. Een festival waar je niet op geabonneerd bent, of een artiest die op tour gaat, zoekt hij eens per maand op het web. De weekreview meldt wat hij vindt, en tickets die nog niet in je agenda staan. Elk kwartaal vraagt hij of je iets wilt toevoegen, want dan opent de nieuwe festival- en theateragenda. Kopen doe je zelf. Of zeg "nu even niet".
 - **Nieuw: je inrichting groeit mee.** Bleef er iets open, of zei je "nu even niet"? Dan biedt de briefing in de eerste maand hooguit één keer per week één onderdeel aan. Zeg "pak [onderdeel] op", of laat het. Na een maand stopt het vanzelf, of eerder als je "stop" zegt.

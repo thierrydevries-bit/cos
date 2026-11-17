@@ -16,9 +16,10 @@ Niet iedereen maakt het inrichten in één keer af. Dat hoeft ook niet. Wat open
 Eén onderdeel uit het inrichten dat nog open is of geparkeerd, met de statussen uit `stand.md`:
 - een standaard met `[CHECK]` in de Instellingen, behalve Niet openen en Alleen kop. Die vraagt alleen de weekreview, één keer (stap 13 van `weekreview.md`);
 - een vraag uit stap 4 van `inrichten.md` die is overgeslagen;
+- de keuze bij Toon, als die leeg is (zie Toon in `kennismaking.md`);
 - Spotten op "nu even niet";
 
-Niet: routines, modules en tips. Die biedt het verbeterblok van de weekreview aan. Biedt het verbeterblok iets ook aan, zoals de agenda-kaart of de doelenronde bij een lege Focus, dan niet hier.
+Niet: routines, modules en tips. Die biedt het verbeterblok van de weekreview aan. Ook niet: de kennismaking. Die heeft een eigen regel in de eerste drie weekreviews (`kennismaking.md`). Biedt het verbeterblok iets ook aan, zoals de agenda-kaart of de doelenronde bij een lege Focus, dan niet hier.
 
 Volgorde: wat aansluit op Ruimte voor eerst, dan de volgorde van de lijst hierboven. Een onderdeel dat je de laatste veertien dagen al aanbood, sla je over. Zo komt een nee niet de week erna terug.
 
@@ -32,7 +33,7 @@ Zet in Punten van de Briefinglog-entry: `Restant: [onderdeel]`.
 
 ## Het antwoord
 
-- **Ja, of "pak [onderdeel] op":** doe in het gesprek alleen die stap uit `inrichten.md`. Verandert er een dag of tijd, geef dan de geplande taak opnieuw volgens stap 7 van `inrichten.md`. Plannen doet de gebruiker. Werk daarna de pagina bij die bij Stand staat, als die er is.
+- **Ja, of "pak [onderdeel] op":** doe in het gesprek alleen die stap uit `inrichten.md`. Verandert er een dag of tijd, pas dan de geplande taak aan volgens stap 7 van `inrichten.md`: zelf na een ja als je kunt plannen, anders geef je hem aan de gebruiker. Werk daarna de pagina bij die bij Stand staat, als die er is.
 - **Nee of geen antwoord:** prima. Je vraagt het niet opnieuw voor er twee weken voorbij zijn.
 - **"Stop":** zet "uit" bij Restant in de Instellingen.
 

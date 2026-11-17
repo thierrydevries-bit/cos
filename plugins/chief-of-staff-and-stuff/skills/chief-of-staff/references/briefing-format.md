@@ -70,10 +70,11 @@ Regels voor de schermtekst:
 - Concepten die niet in het mailprogramma konden, komen ook onder de lijn.
 - Tekst die de gebruiker zelf moet kopiëren en plakken (een appje, een LinkedIn-bericht, een mail die niet als concept klaarstaat) staat altijd in een codeblok, met links volledig ingevuld.
 - Op maandag mag de openingszin over de hele week gaan.
+- **Toon.** Staat er een stijl bij Toon in de Instellingen, dan mag de schermtekst daarvoor afwijken van de regels hierboven. Rustig en warm: één openingsregel van hooguit tien woorden, voor de zin over de dag. Met een vraag erbij: een belangrijk punt mag eindigen op één vraag, met de bron ervoor. Staccato en Bondig met waarom passen in het format. De 220 woorden, de bron per punt en het maximum van drie en twee blijven gelden. Zie Toon in `kennismaking.md`.
 
 ## Controle
 
-Loop deze vragen langs. Eén "nee" betekent herschrijven.
+Loop deze vragen langs. Eén "nee" betekent herschrijven. Wat de stijl bij Toon toestaat, telt niet als nee.
 
 1. Zijn het hooguit drie belangrijke punten en hooguit twee kleine, is elk klein punt echt een kwartier of minder, en is elk punt iets wat de gebruiker vandaag zelf moet doen of beslissen?
 2. Heeft elk punt een bron, en klopt het nog (thread gecontroleerd)?

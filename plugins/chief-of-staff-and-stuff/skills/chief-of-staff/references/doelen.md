@@ -12,6 +12,7 @@ Altijd in een gesprek, nooit in een geplande run.
 
 ## Hoe
 
+- Lees eerst de pagina Over mij, als die er is (`kennismaking.md`). Wat daar al staat, vraag je niet opnieuw: laat het in één regel zien en vraag of het nog klopt. De kennismaking gaat over wie de gebruiker is en hoe hij werkt. De doelenronde gaat over waar hij heen wil.
 - Vier rondes van twee of drie vragen. Eén ronde per bericht, zodat inspreken makkelijk blijft.
 - Na elke ronde hooguit twee regels: "Wat ik hoor: ... Klopt dat?" Pas daarna de volgende ronde.
 - Gebruik de woorden van de gebruiker. Verzin geen getallen. Weet iemand iets niet, zet dan `[AANVULLEN]` en ga door.
