@@ -1,20 +1,20 @@
-# Chief of Staff...and stuff · Pro
+# Chief of Staff...and stuff · Relax
 
-Een uitbreiding op [Chief of Staff...and stuff](../chief-of-staff-and-stuff/README.md), met meer begeleiding. Pro vult de basis aan en overschrijft niets. Zonder de basis werkt Pro niet.
+Een uitbreiding op [Chief of Staff...and stuff](../chief-of-staff-and-stuff/README.md), met meer begeleiding. Relax vult de basis aan en overschrijft niets. Zonder de basis werkt Relax niet. Relax heette eerder Pro. De installatienaam is nog `chief-of-staff-pro`.
 
 ## Wat erin zit
 
 | Onderdeel | Wat het doet |
 |---|---|
-| Skill `onboarding` | De eerste week na het inrichten. Elke werkdag één stap van 30 tot 45 minuten, met een blok in je agenda. De stap staat elke ochtend onderaan je briefing. |
+| Skill `onboarding` | De eerste week na het inrichten. Elke werkdag één stap, met een blok van 30 tot 45 minuten in je agenda: een kwartier voor de les, de resterende tijd om te testen en te finetunen. De lessen zelf volgen nog. De stap staat elke ochtend onderaan je briefing. |
 | Skill `tempo` | Bewaakt je ritme vanuit de agenda: hooguit één regel per dag en één regel in de weekreview. Zeg "zet tempo aan". |
 | Skill `inbox-dashboard` | Een maandelijks dashboard bij de Inboxronde: kerncijfers, wat wacht en het effect over de maanden. Zeg "zet het inboxdashboard aan". |
 
-De vijf stappen: de sessie zelf, je briefing en één mail, tegen je telefoon praten, je hoofd leegmaken, en je eerste weekreview.
+De vijf stappen: het inrichten zelf (alleen of samen), je briefing en één mail, tegen je telefoon praten, je hoofd leegmaken, en je eerste weekreview.
 
 ## Installeren
 
-Eerst de basis, dan Pro, uit dezelfde marketplace. In claude.ai of de Claude-app: klik op **Customize**, dan **Plugins**. Staat de marketplace `thierrydevries-bit/cos` er al, open dan **Discover**, kies **Chief of Staff...and stuff · Pro** en klik op **Add**. In Claude Code:
+Eerst de basis, dan Relax, uit dezelfde marketplace. In claude.ai of de Claude-app: klik op **Customize**, dan **Plugins**. Staat de marketplace `thierrydevries-bit/cos` er al, open dan **Discover**, kies **Chief of Staff...and stuff · Relax** en klik op **Add**. In Claude Code:
 
 ```
 claude plugin install chief-of-staff-pro@thierrydevries
@@ -24,11 +24,11 @@ In Claude Code komt de basis dan vanzelf mee.
 
 ## Gebruiken
 
-In de inrichtsessie, nadat de briefing is ingepland: zeg "start de onboarding". De chief of staff stelt vier blokken voor in je agenda en zet ze erin na je go. Daarna staat elke ochtend de stap van vandaag onderaan je briefing.
+Na het inrichten, alleen of in een sessie: zeg "start de onboarding". Aan het eind van `/inrichten` biedt de chief of staff het ook zelf aan. De chief of staff stelt vier blokken voor in je agenda en zet ze erin na je go. Daarna staat elke ochtend de stap van vandaag onderaan je briefing.
 
 ## Gegevens
 
-Pro bewaart en verstuurt zelf niets. Het schrijft alleen vier regels in je Spelregels (Onboarding, Prikbord, Tempo en Inboxdashboard) en zet na je go eigen blokken zonder gasten in je agenda. Verder gelden de afspraken van de basis.
+Relax bewaart en verstuurt zelf niets. Het schrijft alleen vier regels in je Spelregels (Onboarding, Prikbord, Tempo en Inboxdashboard) en zet na je go eigen blokken zonder gasten in je agenda. Verder gelden de afspraken van de basis.
 
 ## Licentie
 

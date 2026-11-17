@@ -29,9 +29,9 @@ claude plugin install chief-of-staff-and-stuff@thierrydevries
 
 Daarna: typ `/` in een nieuwe chat en kies **inrichten**. Houd de [startpagina met de checklist](https://thierrydevries.nl/producten/chief-of-staff/starten/) ernaast open. De [triage-checklist (pdf)](docs/triage-checklist.pdf) helpt je de vragen vooraf te beantwoorden.
 
-## Pro
+## Relax
 
-In dezelfde marketplace staat ook **Chief of Staff...and stuff · Pro**, voor wie de chief of staff samen met Thierry inricht. Pro vult de basis aan en overschrijft niets. Eerste module: de onboarding, één stap per werkdag in de eerste week. Zie [de README van Pro](plugins/chief-of-staff-pro/README.md). Let op: deze Pro is iets anders dan het Claude-abonnement Pro.
+In dezelfde marketplace staat ook **Chief of Staff...and stuff · Relax**, voor wie meer begeleiding wil in de eerste week. Dat kan als je zelf inricht, en ook als je samen met Thierry inricht. Relax vult de basis aan en overschrijft niets. Eerste module: de onboarding, één stap per werkdag in de eerste week. Zie [de README van Relax](plugins/chief-of-staff-pro/README.md). Relax heette eerder Pro. De installatienaam is nog `chief-of-staff-pro`.
 
 Meer uitleg: [plugins/chief-of-staff-and-stuff/README.md](plugins/chief-of-staff-and-stuff/README.md). Wijzigingen: [CHANGELOG.md](CHANGELOG.md).
 

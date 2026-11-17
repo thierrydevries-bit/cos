@@ -1,11 +1,11 @@
 ---
 name: tempo
-description: 'Pro-module van Chief of Staff...and stuff: bewaakt je tempo vanuit de agenda, met hooguit één regel per dag en één regel in de weekreview. Gebruik bij "zet tempo aan", "zet tempo uit", "bewaak mijn tempo", en vanuit de skill chief-of-staff voor de regel Tempo in de ochtendbriefing en de weekreview. Werkt alleen naast de basis-plug-in chief-of-staff-and-stuff.'
+description: 'Relax-module van Chief of Staff...and stuff: bewaakt je tempo vanuit de agenda, met hooguit één regel per dag en één regel in de weekreview. Gebruik bij "zet tempo aan", "zet tempo uit", "bewaak mijn tempo", en vanuit de skill chief-of-staff voor de regel Tempo in de ochtendbriefing en de weekreview. Werkt alleen naast de basis-plug-in chief-of-staff-and-stuff.'
 ---
 
-# Tempo (Pro)
+# Tempo (Relax)
 
-*Chief of Staff...and stuff · Pro.* Versie 0.3, 17 november 2026.
+*Chief of Staff...and stuff · Relax.* Versie 0.4, 17 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
 
 Een natuurlijk tempo. Je bewaakt het vanuit de agenda. Je meet geen stress, stelt geen diagnose en slaat niets op over hoe het met de gebruiker gaat.
 

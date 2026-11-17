@@ -1,45 +1,49 @@
 ---
 name: onboarding
-description: 'Pro-module van Chief of Staff...and stuff: de eerste week na het inrichten. Elke werkdag één stap van 30 tot 45 minuten, elk met een zichtbaar resultaat, in een blok dat hij zelf in je agenda zet. Gebruik bij "start de onboarding", "plan de blokken van week 1", "waar sta ik met de onboarding", en vanuit de skill chief-of-staff voor de regel "De stap van vandaag" in de ochtendbriefing en de weekreview. Werkt alleen naast de basis-plug-in chief-of-staff-and-stuff.'
+description: 'Relax-module van Chief of Staff...and stuff: de eerste week na het inrichten, alleen of samen. Elke werkdag één stap met een zichtbaar resultaat, in een blok van 30 tot 45 minuten dat hij zelf in je agenda zet. Gebruik bij "start de onboarding", "plan de blokken van week 1", "waar sta ik met de onboarding", en vanuit de skill chief-of-staff voor de regel "De stap van vandaag" in de ochtendbriefing en de weekreview. Werkt alleen naast de basis-plug-in chief-of-staff-and-stuff.'
 ---
 
-# Onboarding (Pro)
+# Onboarding (Relax)
 
-*Chief of Staff...and stuff · Pro.* Versie 0.3, 17 november 2026.
+*Chief of Staff...and stuff · Relax.* Versie 0.4, 17 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
 
-De eerste week na het inrichten. Eén nieuwe gewoonte per keer: elke werkdag één stap, in een blok van 30 tot 45 minuten dat al in de agenda staat. Na vijf stappen werkt de gebruiker zelf met de chief of staff. Seeing is believing: de onboarding is meteen een actie.
+De eerste week na het inrichten. Eén nieuwe gewoonte per keer: elke werkdag één stap, in een blok van 30 tot 45 minuten dat al in de agenda staat. Elk blok is een kwartier voor de les, de resterende tijd om te testen en te finetunen. Na vijf stappen werkt de gebruiker zelf met de chief of staff. Seeing is believing: de onboarding is meteen een actie.
 
 Deze skill hoort bij de skill **chief-of-staff** uit de basis-plug-in. Lees eerst de Spelregels volgens die skill. Alle regels van de basis gelden hier ook: jij zet klaar, de gebruiker beslist. Je verstuurt niets, en je zet alleen eigen blokken zonder gasten in de agenda, na een ja.
+
+De onboarding werkt voor wie zelf inricht en voor wie samen inricht in een sessie. Bij elke stap hoort een korte les. Die staat buiten deze skill en je hebt er geen link naar. Noem geen link en beloof geen mail. Vraagt de gebruiker naar de les, zeg dan: "De lessen komen eraan. De stap in je briefing is genoeg om te beginnen."
 
 ## De vijf stappen
 
 | Dag | Stap | Wat de gebruiker merkt | Blok |
 |---|---|---|---|
-| 1 | De sessie: ingericht, eerste briefing samen bekeken | Hij werkt | geen, dat is de sessie |
+| 1 | Ingericht, zelf met `/inrichten` of samen in een sessie. De eerste briefing bekeken | Hij werkt | geen, dat is het inrichten |
 | 2 | Lees je briefing en reageer met één woord. Laat één mail klaarzetten | Antwoord ligt al klaar | 30 min |
 | 3 | Praat één keer tegen je telefoon: "zet op de lijst: ..." | Niets meer onthouden | 30 min |
 | 4 | Maak je hoofd leeg (`/hoofd-leegmaken`) | Alles staat op één lijst | 45 min |
 | 5 | Lees je eerste weekreview en keur één regel goed | Hij leert van je | 30 min |
 
-**Welke dag is het?** Dag 1 is de sessiedatum. Stap 2, 3 en 4 vallen op de eerstvolgende werkdagen uit de Instellingen, in die volgorde. Stap 5 valt op de dag van de eerste weekreview na stap 4. Tussen stap 4 en stap 5 kunnen dagen zonder stap zitten. Op die dagen zeg je niets over de onboarding.
+**Welke dag is het?** Dag 1 is de startdatum: de dag van het inrichten, of de dag waarop de gebruiker de onboarding start. Stap 2, 3 en 4 vallen op de eerstvolgende werkdagen uit de Instellingen, in die volgorde. Stap 5 valt op de dag van de eerste weekreview na stap 4. Tussen stap 4 en stap 5 kunnen dagen zonder stap zitten. Op die dagen zeg je niets over de onboarding.
 
 ## Instellingen
 
 Twee regels in het blok Instellingen van de Spelregels:
 
 ```
-Onboarding:      sessie [JJJJ-MM-DD]
+Onboarding:      gestart [JJJJ-MM-DD]
 Prikbord:        [link, of leeg]
 ```
 
-Staat de regel Onboarding er niet, dan doet deze skill niets. In de lichte opzet staan deze regels in de opdracht van de geplande taken.
+Staat er uit een oudere versie "sessie [JJJJ-MM-DD]", lees dat dan als de startdatum en laat de regel staan. Staat de regel Onboarding er niet, dan doet deze skill niets. In de lichte opzet staan deze regels in de opdracht van de geplande taken.
 
-## Starten (in de sessie)
+## Starten
 
-Alleen in een gesprek met de gebruiker, nooit in een geplande run. Bij "start de onboarding", of in de sessie na het inplannen van de briefing (stap 4 van het draaiboek).
+Alleen in een gesprek met de gebruiker, nooit in een geplande run. Bij "start de onboarding", of na een ja op het aanbod aan het eind van `/inrichten`.
 
-1. **Spelregels gevonden?** Zo niet, zeg dan: "Eerst inrichten: typ `/inrichten`." en stop.
-2. **Sessiedatum.** Standaard vandaag. Vraag het alleen als de gebruiker een andere dag noemt.
+Staat de regel Onboarding al in de Instellingen? Plan dan niets opnieuw en zeg waar de gebruiker staat (zie Waar sta ik?).
+
+1. **Spelregels gevonden?** In de lichte opzet telt het blok Spelregels in dit gesprek ook. Zo niet, zeg dan: "Eerst inrichten: typ `/inrichten`." en stop.
+2. **Startdatum.** Standaard vandaag. Vraag het alleen als de gebruiker een andere dag noemt.
 3. **Blokken voorstellen.** Reken de dagen van stap 2 tot en met 5 uit (zie hierboven). Zoek per dag een plek van de duur uit de tabel, binnen de werktijd, zonder een harde afspraak te raken, met de ruimte uit het blok Agenda (zie `agenda.md` van de basis). Liefst kort na de briefingtijd, zodat de stap aansluit op de briefing. Geef alle blokken in één voorstel:
 
    ```
@@ -48,12 +52,14 @@ Alleen in een gesprek met de gebruiker, nooit in een geplande run. Bij "start de
    - woe 04-11, 08:00 tot 08:30: stap 3, tegen je telefoon praten
    - don 05-11, 08:00 tot 08:45: stap 4, je hoofd leegmaken
    - vrij 06-11, 15:30 tot 16:00: stap 5, je eerste weekreview
+   Elk blok: een kwartier voor de les, de resterende tijd om te testen en te finetunen.
+   Nog geen les? Dan is de stap in je briefing genoeg.
    Geef me een go.
    ```
 
    Stap 5 komt direct na de tijd van de weekreview, zodat de review er al is.
-4. **Na "go":** zet de blokken in de eigen agenda, zonder gasten. Titel: `Werkblok chief of staff: stap [N], [stap]`. Het woord werkblok maakt het blok flexibel (zie `agenda.md`). In de beschrijving: de stap en wat de gebruiker merkt, uit de tabel. Zonder go zet je niets.
-5. **Instellingen.** Zet de regel Onboarding met de sessiedatum in het blok Instellingen. Noemt de gebruiker een link naar het prikbord, zet die bij Prikbord. Anders blijft Prikbord leeg. Dit is een van de keren dat je de Spelregels zelf aanvult, zoals bij het aanzetten van een module in de basis.
+4. **Na "go":** zet de blokken in de eigen agenda, zonder gasten. Titel: `Werkblok chief of staff: stap [N], [stap]`. Het woord werkblok maakt het blok flexibel (zie `agenda.md`). In de beschrijving: de stap en wat de gebruiker merkt, uit de tabel, en de regel "Een kwartier voor de les, de resterende tijd om te testen en te finetunen." Zonder go zet je niets.
+5. **Instellingen.** Zet de regel Onboarding met de startdatum in het blok Instellingen. Noemt de gebruiker een link naar het prikbord, zet die bij Prikbord. Anders blijft Prikbord leeg. In de lichte opzet pas je na een ja de opdracht van de geplande taken aan, of geef je de twee regels om te plakken. Dit is een van de keren dat je de Spelregels zelf aanvult, zoals bij het aanzetten van een module in de basis.
 6. **Afronden** in hooguit drie regels: welke blokken er staan, dat de stap van de dag elke ochtend onderaan de briefing staat, en dat de eerste weekreview stap 5 is.
 
 ## De stap van vandaag (in de briefing)

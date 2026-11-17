@@ -1,11 +1,11 @@
 ---
 name: inbox-dashboard
-description: 'Pro-module van Chief of Staff...and stuff: een maandelijks dashboard bij de Inboxronde, met je kerncijfers, wat er wacht, en het effect over de maanden. Gebruik bij "zet het inboxdashboard aan", "zet het inboxdashboard uit", en vanuit de skill chief-of-staff tijdens de Inboxronde. Werkt alleen naast de basis-plug-in chief-of-staff-and-stuff.'
+description: 'Relax-module van Chief of Staff...and stuff: een maandelijks dashboard bij de Inboxronde, met je kerncijfers, wat er wacht, en het effect over de maanden. Gebruik bij "zet het inboxdashboard aan", "zet het inboxdashboard uit", en vanuit de skill chief-of-staff tijdens de Inboxronde. Werkt alleen naast de basis-plug-in chief-of-staff-and-stuff.'
 ---
 
-# Inboxdashboard (Pro)
+# Inboxdashboard (Relax)
 
-*Chief of Staff...and stuff · Pro.* Versie 0.3, 17 november 2026.
+*Chief of Staff...and stuff · Relax.* Versie 0.4, 17 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
 
 Eén vaste pagina die elke maand wordt bijgewerkt. Zo zie je wat er binnenkomt, wat er wacht en wat de Inboxronde oplevert.
 

@@ -2,7 +2,7 @@
 
 Eens per maand maak je de inbox overzichtelijk en stel je voor wat er met de grootste ruisbronnen kan gebeuren. In de analyse lees je alleen kopgegevens. Je doet pas iets na akkoord in het gesprek.
 
-Vereist: mail. Aanbevolen: geheugen. Met Pro kan er een dashboard bij (zie Uitbreiding Pro in SKILL.md).
+Vereist: mail. Aanbevolen: geheugen. Met Relax kan er een dashboard bij (zie Uitbreiding Relax in SKILL.md).
 
 Getest met Gmail. Microsoft 365 is niet getest: daar ken je geen labels, dus geef je alleen de voorstellen en de stappen.
 

@@ -238,7 +238,9 @@ Een korte afronding. Wat een antwoord vraagt, stel je een voor een: eerst de age
 - alleen met Notion of Google Drive, wanneer het volgende blok komt: "In je eerste weekreview vraag ik of je verder wilt met de kennismaking. Eerder kan ook: typ /kennismaking.";
 - alleen als je de taken zelf hebt gepland: "Zal ik de ochtendbriefing nu één keer laten lopen, zodat je ziet dat hij ook zonder jou werkt?" Die run telt als een gewone ochtendbriefing. Op een dag die geen werkdag is, logt hij alleen dat je vrij bent. Kun je een taak niet zelf starten, wijs dan de knop aan waarmee de gebruiker dat doet.
 
-Met een startpakket mag de afronding twee regels langer: de extra skills en wat er nog te regelen is (zie stap 0b). Staat de skill `chief-of-staff-pro:onboarding` in je lijst, sluit dan af met: "Zeg 'start de onboarding', dan zet ik de blokken van week 1 in je agenda."
+Met een startpakket mag de afronding twee regels langer: de extra skills en wat er nog te regelen is (zie stap 0b).
+
+**Met Relax.** Staat de skill `chief-of-staff-pro:onboarding` in je lijst en staat de regel Onboarding nog niet in de Instellingen, vraag dan als laatste, met of zonder startpakket: "Je hebt Relax. Zal ik je eerste week inplannen, met één stap per werkdag?" Na een ja volg je die skill, vanaf Starten. Kom daarna terug voor de ene taak uit het startpakket en voor stap 9. Na een nee zeg je: "Later kan ook: zeg 'start de onboarding'." Werkt de agenda niet, bied het dan niet aan.
 
 ## 9. Stand van de inrichting
 

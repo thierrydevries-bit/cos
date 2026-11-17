@@ -36,7 +36,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 13. **Privacy, één keer.** Staat er in het blok Instellingen nog `[CHECK]` bij Niet openen of Alleen kop, vraag het dan in de eerste weekreview één keer. Daarna niet meer. Deze vraag telt niet mee voor de zeven.
 13b. **Kennismaking.** Alleen met geheugen, en alleen in de eerste drie weekreviews na de proefbriefing. Lees de pagina Over mij en volg In de weekreview in `kennismaking.md`. Is alles klaar en bevestigd, dan lever je niets. Deze regel telt niet mee voor de zeven.
 14. **Kies de vragen.** Hooguit zeven beslisvragen in de hele review (voorstellen, ja/nee-vragen, regelvoorstellen en het verbeterblok samen). Eerst wat iemand anders raakt, dan het oudste. De rest schuift een week door. De terugblikvraag telt niet mee.
-15. Schrijf de review in het format hieronder. Met Pro tijdens de onboarding: de regel "De stap van vandaag" direct onder de kop (zie Uitbreiding Pro in SKILL.md). Daaronder, in de eerste drie weekreviews, de regel Kennismaking uit stap 13b. Hooguit drie concepten in deze run.
+15. Schrijf de review in het format hieronder. Met Relax tijdens de onboarding: de regel "De stap van vandaag" direct onder de kop (zie Uitbreiding Relax in SKILL.md). Daaronder, in de eerste drie weekreviews, de regel Kennismaking uit stap 13b. Hooguit drie concepten in deze run.
 16. Log hem in het Briefinglog met Soort "Weekreview" en als titel `⚡ Weekreview | [dag] [DD-MM]` (zie de naamgeving in SKILL.md).
 17. Lever hem als antwoord van de run, met de titel als eerste regel en de link naar de Briefinglog-pagina.
 
@@ -44,7 +44,7 @@ Het moment waarop het systeem weer klopt. Een terugblik en vooruitblik die de ge
 
 ```
 **Week [nummer], [datum maandag] tot [datum vrijdag]**
-[Alleen met Pro tijdens de onboarding: "De stap van vandaag", één regel.]
+[Alleen met Relax tijdens de onboarding: "De stap van vandaag", één regel.]
 [Alleen in de eerste drie weekreviews na het inrichten: de regel Kennismaking, zie stap 13b.]
 
 ## Leeg
@@ -70,7 +70,7 @@ Nog briefjes, appjes, spraakmemo's of post die nergens staan? En zit er nog iets
 **Van de parkeerplaats:** [wat nu kan, of wat weg mag]
 **Aandacht:** [één vraag als een domein stilvalt of alles opslokt]
 **Om nee tegen te zeggen:** [hooguit 2, wat niet bij de Focus past]
-[Alleen met Pro en Tempo aan: de regel Tempo, zie Uitbreiding Pro in SKILL.md.]
+[Alleen met Relax en Tempo aan: de regel Tempo, zie Uitbreiding Relax in SKILL.md.]
 **Iets om te durven:** [één vraag: is er iets wat je al lang wilt proberen of beginnen? Of één voorstel voor iets leuks, als de gebruiker dat wil. Loopt er geen challenge, dan mag dit ook: "Zin in iets nieuws deze week? Zeg 'challenge accepted'." Niet in de lichte opzet, en niet binnen acht weken na een nee.]
 **Opruimen:** [alleen met de routine aan, in de eerste weekreview van de maand: per groep aantal en grootte, en de stand van Op te ruimen voor plekken die je zag. Voor een plek die je niet bereikt of die nog geen soort heeft: "Zeg 'ruim op [plek]', dan doen we het samen."]
 

@@ -6,7 +6,7 @@ Na een of twee dagen inrichten raak je het overzicht kwijt. De stand geeft het t
 
 - **Bij stoppen.** Breekt de gebruiker dit inrichtgesprek af ("ik moet weg", "tot morgen", "we stoppen hier"), geef dan de korte stand. Gaat de zin over iets anders ("ik stop met die klant"), of is dit geen inrichtgesprek, dan is het geen stopmoment.
 - **Aan het eind van het inrichten.** Maak de pagina (stap 9 van `inrichten.md`).
-- **In de onboardingweek.** Met Pro werk je de pagina bij in de weekreview van die week.
+- **In de onboardingweek.** Met Relax werk je de pagina bij in de weekreview van die week.
 - **Op verzoek.** Bij `/waar-staan-we`, "stand van de inrichting", of "waar staan we" zonder onderwerp: maak de pagina, of werk hem bij. Gaat de vraag over een project, klant of taak, dan is het een Aanroep.
 
 ## Korte stand bij stoppen

@@ -52,9 +52,9 @@ claude plugin install chief-of-staff-and-stuff@thierrydevries
 
 Losse dingen tussendoor: "noteer: bel de gemeente", "bespreek met Sanne: de planning", "wat kan ik nu doen?", "plan dit project", "hoofd leegmaken", "andere toon".
 
-## Pro
+## Relax
 
-Meer begeleiding nodig? Er is ook **Chief of Staff...and stuff · Pro**, uit dezelfde marketplace. Pro vult aan en overschrijft niets: zonder Pro werkt deze plug-in precies hetzelfde. Heb je een startpakket van je inrichtsessie, dan leest `/inrichten` dat in en vraagt alleen naar wat ontbreekt. Dat werkt ook zonder Pro. Let op: deze Pro is iets anders dan het Claude-abonnement Pro.
+Meer begeleiding nodig? Er is ook **Chief of Staff...and stuff · Relax**, uit dezelfde marketplace. Relax vult aan en overschrijft niets: zonder Relax werkt deze plug-in precies hetzelfde. Heb je een startpakket van je inrichtsessie, dan leest `/inrichten` dat in en vraagt alleen naar wat ontbreekt. Dat werkt ook zonder Relax. Relax heette eerder Pro. De installatienaam is nog `chief-of-staff-pro`.
 
 ## Gegevens
 

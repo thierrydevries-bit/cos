@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.10.1 en Relax 0.4.0 · 17 november 2026
+- **Pro heet nu Relax.** Alleen de naam verandert. Je hoeft niets opnieuw te installeren: de installatienaam blijft `chief-of-staff-pro`. In de oudere versies hieronder staat nog Pro.
+- **Relax 0.4.0: de onboarding start ook als je zelf inricht.** Dag 1 is de dag waarop je inricht, alleen of samen. Aan het eind van het inrichten vraagt hij of hij je eerste week mag inplannen.
+- **Wat een blok is.** Elk blok in je agenda is een kwartier voor de les, de resterende tijd om te testen en te finetunen. De lessen zelf volgen nog.
+
 ## 1.10.0 en Pro 0.3.0 · 17 november 2026
 - **Nieuw: de kennismaking.** Je chief of staff leert je kennen in etappes. Bij het inrichten begint hij met drie korte vragen over jou. Na je eerste briefing volgt de rest van de start: je toon, wat je nooit wilt zien, hoe je feedback wilt en wanneer hij op je go wacht. Dan stopt hij en laat hij zien wat hij weet. De verdieping komt in je eerste drie weekreviews, een blok per keer. Jij kiest: nu verder, of later. Typ `/kennismaking` om zelf verder te gaan.
 - **Nieuw: de pagina Over mij.** Wat je vertelt, staat in je eigen woorden op één pagina in je geheugen, naast de Spelregels. Elke wijziging krijgt een datum, en pas na je ja staat er "Bevestigd". Hij leest de pagina bij elke briefing.
