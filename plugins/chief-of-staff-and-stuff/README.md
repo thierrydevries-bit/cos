@@ -50,7 +50,7 @@ claude plugin install chief-of-staff-and-stuff@thierrydevries
 4. Reageer de eerste twee weken op elke briefing. Daar leert hij van.
 5. In je eerste drie weekreviews vraagt hij of je verder wilt met de kennismaking. Zeg in een nieuw gesprek "ken je mij" om te zien wat hij van je weet.
 
-Losse dingen tussendoor: "noteer: bel de gemeente", "bespreek met Sanne: de planning", "wat kan ik nu doen?", "plan dit project", "hoofd leegmaken", "andere toon".
+Losse dingen tussendoor: "noteer: bel de gemeente", "bespreek met Sanne: de planning", "wat kan ik nu doen?", "plan dit project", "hoofd leegmaken", "andere toon", "bereid deze klus voor: de plint ophangen", "zet de ticketradar aan".
 
 ## Relax
 

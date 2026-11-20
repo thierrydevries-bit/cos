@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.11.0 · 20 november 2026
+- **Nieuw: klussen voorbereiden.** Noem een kleine klus, zoals een plint ophangen of een lamp vervangen. Hij zoekt uit hoe het moet, wat je nodig hebt, waar je het haalt en wat het ongeveer kost, met de bron en de datum bij elke prijs. Wil je het uitbesteden, dan krijg je een tekst om de klus te plaatsen. Kopen en klussen doe je zelf.
+- **Eerlijk over veiligheid.** Bij elektra, gas, water, dragende muren of mogelijk asbest zegt hij wanneer een vakman verstandiger is.
+- **Een klus die blijft liggen.** Staat een klus twee weken of langer open, dan biedt de weekreview één keer aan om hem voor te bereiden. Hooguit één per week.
+- **De Ticketradar.** Zo heet spotten op de site. Zeg "zet de ticketradar aan" of "voeg [naam] toe aan mijn spotlijst". "Ticketradar uit" kan ook.
+
 ## 1.10.1 en Relax 0.4.0 · 17 november 2026
 - **Pro heet nu Relax.** Alleen de naam verandert. Je hoeft niets opnieuw te installeren: de installatienaam blijft `chief-of-staff-pro`. In de oudere versies hieronder staat nog Pro.
 - **Relax 0.4.0: de onboarding start ook als je zelf inricht.** Dag 1 is de dag waarop je inricht, alleen of samen. Aan het eind van het inrichten vraagt hij of hij je eerste week mag inplannen.
