@@ -52,6 +52,7 @@ Eén scherm, hooguit ongeveer 220 woorden.
 [Eén regel met de module Fit & mindful, alleen bij een signaal: te weinig sport, geen rustdag, of een dag zonder pauze. Zie `modules.md`.]
 [Eén regel na een Inboxronde: "Inboxronde: [N] voorstellen wachten op je akkoord." Alleen in de eerste briefing na de ronde.]
 [Eén regel Tempo, alleen met Relax en Tempo aan, en alleen bij een signaal. Zie Uitbreiding Relax in SKILL.md.]
+[Eén regel Vorst, alleen met Relax en de module Huis en klussen, en alleen als er vorst verwacht wordt. Zie Uitbreiding Relax in SKILL.md.]
 [Eén regel "Challenge: [wat]", alleen op de eerste en de laatste dag van een challenge. Zie `challenges.md`.]
 [Eén regel "Restant", alleen in de eerste vier weken na het inrichten en hooguit één keer per week. Zie `restant.md`.]
 [Eén regel met Relax, alleen tijdens de onboarding: "De stap van vandaag", volgens de skill chief-of-staff-pro:onboarding. Zie Uitbreiding Relax in SKILL.md.]

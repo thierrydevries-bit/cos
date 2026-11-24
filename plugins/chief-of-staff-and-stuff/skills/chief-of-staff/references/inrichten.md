@@ -109,7 +109,8 @@ Hier zit vaak de meeste onrust. Vraag: "Hoe houd je nu je taken bij? Op één pl
 - **Geen lijst of overslaan:** ga door.
 - **Wel een lijst:** zeg in hooguit drie regels wat je ziet: ongeveer hoeveel, op hoeveel plekken, en welke thema's. Geen namen van anderen en niets over gezondheid of geld.
 - **Neem niets over.** Zeg: "Ik neem nu niets over." Bij een lange lijst mag er één zin voor: "Dat is veel om bij je te dragen." Hoofd leegmaken komt later, als er een geheugen is. Laat niemand van tool wisselen.
-- Onthoud alleen de plek of de app. Die gaat in stap 5 in de Instellingen bij Taken. De screenshot neem je niet over in het geheugen.
+- **Welke to-do-app?** Weet je het nog niet uit het antwoord, stel dan één klikvraag (zie Klikvragen in SKILL.md): "Gebruik je een to-do-app?" Met opties: Todoist, Microsoft To Do, Apple Herinneringen, Google Taken, een andere, geen. Bij een app: kijk of er een koppeling met die app in je tools staat. Zo niet, zeg: "Kijk even bij **Customize**, dan **Connectors**, of je [app] daar vindt." Zeg daarna: "Ik schrijf nu nog niet in [app]. Taken die je mij geeft, bewaar ik in je geheugen, als je dat straks kiest." Raad geen app aan en laat niemand van app wisselen.
+- Onthoud alleen de plek of de app, en bij een app of er een koppeling is: ja, nee of onbekend, met de datum. Dat gaat in stap 5 in de Instellingen bij Taken. De screenshot neem je niet over in het geheugen.
 
 ## 3d. De scan
 
@@ -280,7 +281,9 @@ In de lichte opzet niet: zonder log weet je niet wat je al meldde. Begin liever 
 
 **Overige instellingen.** Domeinen, taal, Afgerond (opdrachten die klaar zijn), Vaardigheden (skills die de gebruiker al heeft), Agenda (hard, flexibel en ruimte, zie `agenda.md`) en Elke week: vraag ernaar als ze ertoe doen, en vul ze in op het woord van de gebruiker.
 
-**Modules aanzetten.** Zie `modules.md`. Stel alleen de vragen van die module:
+**Modules aanzetten.** Zie `modules.md`. Stel alleen de vragen van die module, als klikvragen, één tegelijk (zie Klikvragen in SKILL.md):
+
+- **Huis en klussen** (het register alleen met Notion of Google Drive): volg Inrichten in `huis.md`. Maak in Notion de database **Huis en onderhoud**, of in Google Drive het tabblad Huis en onderhoud, met de velden uit `geheugen.md`.
 
 - **Feestdagen** (alleen met Notion of Google Drive):
   - Welke feestdagen vier je? Bijvoorbeeld Sint Maarten, Sinterklaas, Kerst, of een eigen feestdag zoals een verjaardag in het gezin.

@@ -61,6 +61,7 @@ Nog briefjes, appjes, spraakmemo's of post die nergens staan? En zit er nog iets
 **Wacht op:** [wie een herinnering krijgt, concept klaar]
 **Projecten zonder volgende stap:** [project: "wat is de volgende stap?"]
 **Niet bevestigd:** [items met Bevestigd uit, ouder dan 3 dagen, één keer: "Klopt dit, of laat ik het vallen?" Zet daarna "gevraagd [JJJJ-MM-DD]" in Notitie en vraag het niet opnieuw.]
+**Huis:** [alleen met Relax en de module Huis en klussen, hooguit 2 regels. Zie Uitbreiding Relax in SKILL.md.]
 **Weekend en privé:** [hooguit 4 regels: regelzaken met een deadline binnen 14 dagen, abonnementen die verlengen, met Feestdagen per feestdag in de aanloop één regel, bijv. "Sinterklaas over 3 weken: 4 wensen open, voor 2 personen."]
 
 ## Vooruit

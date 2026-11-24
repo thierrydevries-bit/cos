@@ -12,7 +12,7 @@ Gebruik in alle drie precies de namen en velden hieronder: de andere bestanden v
 
 ## Notion
 
-Zeven onderdelen, onder één pagina "Chief of staff": de pagina's Spelregels en Over mij en de databases Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog. Met de module Gespreksopnames ook Gesprekken. Met de module Feestdagen ook Cadeaus en wensen, en een pagina "Ideetjes" met daaronder een pagina per persoon.
+Zeven onderdelen, onder één pagina "Chief of staff": de pagina's Spelregels en Over mij en de databases Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog. Met de module Gespreksopnames ook Gesprekken. Met de module Feestdagen ook Cadeaus en wensen, en een pagina "Ideetjes" met daaronder een pagina per persoon. Met de module Huis en klussen ook Huis en onderhoud.
 
 ## Google Drive
 
@@ -20,7 +20,7 @@ Een map "Chief of staff" in Drive, met:
 
 - een Google-document **"Chief of staff · Spelregels"**, met dezelfde inhoud als de Spelregels hieronder;
 - een Google-document **"Chief of staff · Over mij"**, met de opbouw van Over mij hieronder;
-- een Google-spreadsheet **"Chief of staff · Registers"**, met een tabblad per register: Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog (Gesprekken en Cadeaus en wensen alleen met die module);
+- een Google-spreadsheet **"Chief of staff · Registers"**, met een tabblad per register: Toezeggingen, Projecten, Briefinglog, Parkeerplaats en Afmeldlog (Gesprekken, Cadeaus en wensen en Huis en onderhoud alleen met die module);
 - met de module Feestdagen: een document **"Chief of staff · Ideetjes"**, met een kop per persoon.
 
 Per tabblad:
@@ -46,6 +46,7 @@ Voor wie snel wil beginnen. Er is geen Notion en geen Drive nodig.
 - **Leren:** een regel die de gebruiker goedkeurt, geef je als één zin om zelf in de opdracht van de geplande taken te plakken. Zonder plakken geldt hij niet.
 - **Ritme:** raad seintjes en de avondafsluiting af. Zonder log weet je niet wat je al meldde.
 - **Feestdagen:** werkt niet zonder geheugen. Zeg dat, en bied aan het geheugen in te richten.
+- **Huis en klussen:** een klus nu werkt (`klussen.md`). Het register Huis en onderhoud en Waar ligt wat werken niet zonder geheugen. Zeg dat, en bied aan het geheugen in te richten.
 - **Uitbreiden:** zegt de gebruiker "richt mijn geheugen in", volg dan `inrichten.md` vanaf stap 5, met Notion of Google Drive. Die stap controleert eerst de koppelingen.
 
 ## Spelregels
@@ -83,7 +84,7 @@ Toon:            [leeg, of: staccato / bondig met waarom / rustig en warm / met 
 Na akkoord:      blok in eigen agenda zetten of een eigen blok zonder gasten verschuiven; de eigen geplande taken aanmaken, aanpassen en één keer laten lopen; met de routine Opruimen ook bestanden verplaatsen; met de Inboxronde labels zetten, de Houden-lijst bijwerken en op verzoek afmelden in de browser
 Elke week:       [optioneel: vaste dingen die de weekreview moet nalopen, bijv. bonnetjes, de schoolapp, het salesbord]
 Vaardigheden:    [skills die de gebruiker al heeft, per rubriek; bijv. Werk: van-gesprek-naar-acties]
-Modules:         [geen / feestdagen / fit & mindful / audio / gespreksopnames / boekhouding / borden]
+Modules:         [geen / feestdagen / huis en klussen / fit & mindful / audio / gespreksopnames / boekhouding / borden]
 Routines:        [geen / opruimen (maandelijks) / ... ; alleen na een ja in het verbeterblok, opruimen pas na de grote afwas (stap 5 in opruimen.md)]
 Opruimen:        [per plek de soort en de regel, bijv. Downloads = doorgeefluik (Archief/JJJJ-MM na 30 dagen); Bureaublad = eigen indeling. Zie opruimen.md]
 Inboxronde:      [uit / maandelijks; dag 1, 08:40]
@@ -94,10 +95,11 @@ Over mij:        [link naar de pagina of het document Over mij; niet in de licht
 Kennismaking:    [leeg, of: gestart JJJJ-MM-DD, N van 4 blokken klaar, open: de nummers, bevestigd JJJJ-MM-DD of nog niet. Zie kennismaking.md]
 Spotten:         [leeg, "nu even niet (JJJJ-MM-DD)" met de favorieten erachter, of favorieten met de soort: afzender, evenement (periode) of artiest (alleen live). Op de site heet dit de Ticketradar. Zie stap 10b van weekreview.md]
 Klussen:         [leeg, of de plaats voor een bouwmarkt, en een bouwmarkt als de gebruiker die noemt. Alleen na een ja. Zie klussen.md]
+Huis:            [alleen met module Huis en klussen: link naar Huis en onderhoud; buitenkraan ja of nee; inrichten klaar, of "inrichten bezig" met wat al gedaan is; met Relax eventueel andere maanden voor de grote schoonmaak dan april en oktober. Zie huis.md]
 Restant:         [leeg, of uit. Zie restant.md]
 Stand:           [leeg, of de link; met "maandelijks" erachter als de gebruiker dat wil]
 Tempo:           [leeg, of aan; alleen met Relax]
-Taken:           [waar de gebruiker nu zijn taken bijhoudt, uit het inrichten]
+Taken:           [waar de gebruiker nu zijn taken bijhoudt, uit het inrichten; bij een to-do-app de naam, met koppeling ja, nee of onbekend en de datum. Je schrijft nog niet in die app]
 Challenge:       [leeg, of: wat, van JJJJ-MM-DD tot JJJJ-MM-DD. Zie challenges.md]
 Sport:           [alleen met Fit & mindful: keer per week, woorden in de agenda, minimaal aantal rustdagen]
 Toezeggingen:    [link]
@@ -304,3 +306,23 @@ Zet de gebruiker de module Gespreksopnames later aan, maak dit register dan bij 
 **Ideetjes voor het gedicht.** In Notion een pagina "Ideetjes" met daaronder een pagina per persoon. In Google Drive het document "Chief of staff · Ideetjes" met een kop per persoon. Elk ideetje is één regel met datum. Je schrijft er nooit een gedicht in.
 
 Zet de gebruiker de module Feestdagen later aan, maak dit register en de pagina Ideetjes dan bij de eerstvolgende aanroep aan, op dezelfde manier als Gesprekken.
+
+## Register "Huis en onderhoud" (alleen met de module Huis en klussen)
+
+| Veld | Type | Opties of uitleg |
+|---|---|---|
+| Wat | titel | bijv. cv-ketel, buitenkraan, rookmelders, APK auto, fiets, paspoort, kerstverlichting |
+| Soort | select | Apparaat, Installatie, Tuin, Vervoer, Document, Spullen |
+| Status | select | Voorstel, Actief, Gepauzeerd, Laten vallen |
+| Termijn | tekst | bijv. elk jaar, elke 2 jaar, elk najaar. Leeg zonder bron |
+| Bron termijn | tekst | link naar fabrikant of handleiding met de datum van opzoeken, of "eigen keuze" |
+| Seizoen | select | Voorjaar, Zomer, Najaar, Winter, Geen |
+| Laatst gedaan | datum | alleen op het woord van de gebruiker |
+| Volgende keer | datum | uit Laatst gedaan en Termijn, of van de gebruiker (APK, verloopdatum: dan de eerste van de maand) |
+| Waar | tekst | alleen bij Soort Spullen. Nooit bij Document |
+| Ontbreekt | tekst | alleen bij Soort Spullen: wat er nog bij moet |
+| Notitie | tekst | |
+
+Bij Soort Document staat alleen de maand en het jaar van verlopen bij Volgende keer. Nooit een nummer, een foto of de plek.
+
+Zet de gebruiker de module Huis en klussen later aan, maak dit register dan aan bij het inrichten van de module (`huis.md`).

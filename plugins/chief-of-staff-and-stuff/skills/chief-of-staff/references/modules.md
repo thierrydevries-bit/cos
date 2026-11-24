@@ -10,6 +10,12 @@ Standaard aan bij het inrichten. Staat bij Inboxronde in de Instellingen "maande
 
 Wensenlijstjes, cadeaus en ideetjes voor gedichten rond de feestdagen die de gebruiker viert. Nodig: een geheugen (Notion of Google Drive). Werkwijze in `feestdagen.md`.
 
+## Huis en klussen
+
+Onderhoud in en rond het huis dat terugkomt (apparaten, installaties, tuin, auto, fiets, de verloopdatum van paspoort en ID-kaart), waar ligt wat, en de grote schoonmaak. Een klus nu werkt ook zonder de module (`klussen.md`). Nodig voor het register: een geheugen (Notion of Google Drive). Aanzetten met `/huis`. Werkwijze in `huis.md`.
+
+Zonder Relax werkt deze module alleen op verzoek, in een gesprek. Met Relax komen de seintjes erbij: de vorstcheck, onderhoud dat eraan komt, spullen voor het nieuwe seizoen en de grote schoonmaak (zie Uitbreiding Relax in SKILL.md).
+
 ## Fit & mindful
 
 Sport en mentale rust, alleen op basis van wat in de agenda staat. Werkt zonder geheugen. Instellingen in de Spelregels bij Sport: hoe vaak per week, aan welke woorden je sport herkent, en het minimum aantal rustdagen (standaard één).

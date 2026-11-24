@@ -5,7 +5,7 @@ description: 'Relax-module van Chief of Staff...and stuff: een maandelijks dashb
 
 # Inboxdashboard (Relax)
 
-*Chief of Staff...and stuff · Relax.* Versie 0.4, 17 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
+*Chief of Staff...and stuff · Relax.* Versie 0.5, 24 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
 
 Eén vaste pagina die elke maand wordt bijgewerkt. Zo zie je wat er binnenkomt, wat er wacht en wat de Inboxronde oplevert.
 

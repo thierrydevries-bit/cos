@@ -2,20 +2,20 @@
 
 De gebruiker noemt een kleine klus in huis, zoals een plint ophangen, een lamp vervangen of het slot van de tuindeur. Jij bereidt het werk voor: hoe het moet, wat je nodig hebt, waar je het haalt en wat het ongeveer kost. Kopen en klussen doet de gebruiker.
 
-Op de site hoort dit bij de ruimte Huis en klussen.
+Op de site hoort dit bij de ruimte Huis en klussen. Onderhoud dat terugkomt, waar ligt wat en de grote schoonmaak staan in `huis.md`.
 
 ## Wanneer
 
 - Op verzoek, in een gesprek: "bereid deze klus voor", "hoe doe ik [klus]", "wat heb ik nodig voor [klus]", "klus: [klus]".
-- Na een ja op het aanbod in de weekreview (stap 5b van `weekreview.md`).
-- Nooit in een geplande run. Alleen de weekreview doet het aanbod (stap 5b).
+- Na een ja op het aanbod in de weekreview (stap 5b van `weekreview.md`), of op de regel Huis van Relax (`chief-of-staff-pro:huis-seizoen`).
+- Nooit in een geplande run. Alleen de weekreview doet het aanbod (stap 5b, en met Relax de regel Huis).
 - Gaat "klus" over werk voor een klant of een opdracht, dan geldt dit bestand niet. Volg dan `rubrieken.md`.
 
 **Een grote klus.** Is de klus groot, zoals een badkamer of keuken verbouwen, een muur weghalen of iets aan het dak, maak dan geen stappenplan. Zeg dat dit een project is, bied "plan dit project" aan (`werkwijze.md`) en geef een tekst om offertes te vragen, zoals onder Uitbesteden.
 
 ## Eerst vragen, hooguit twee dingen
 
-1. **Wat precies?** Alleen als het niet duidelijk is. Bijvoorbeeld: "Hoe lang is de plint, en is de muur van steen of van gips?" Een foto mag ook.
+1. **Wat precies?** Alleen als het niet duidelijk is. Bijvoorbeeld: "Hoe lang is de plint, en is de muur van steen of van gips?" Een foto mag ook. Bij een foto zeg je in één regel wat je ziet, en vraag je alleen wat de foto niet laat zien. Een foto is nooit het bewijs dat iets veilig is.
 2. **Waar zoek ik een winkel?** Alleen als je een winkel wilt noemen en er bij Klussen in de Instellingen nog geen plaats staat. Vraag de plaats, niet het adres.
 
 Twijfel je tussen twee lezingen van de klus, kies dan de meest waarschijnlijke en zeg welke je koos.
@@ -31,6 +31,7 @@ Zoek op het web. Een nieuwe koppeling is niet nodig. Kun je niet zoeken, zeg dat
 1. [stap]
 2. [stap]
 [vijf tot acht stappen, elk één regel]
+[Duurt de klus langer dan 30 minuten: verdeel de stappen in delen van hooguit 30 minuten, bijv. "**Deel 1** (stap 1 tot 3, 25 min)". Elk deel kun je los doen.]
 
 **Wat je nodig hebt**
 Materiaal: [per regel: wat, hoeveel]
@@ -56,7 +57,13 @@ Daarna vraag je: "Zal ik de klus op je lijst zetten, met de boodschappenlijst er
 - het domein Huis als dat bij de Domeinen in de Instellingen staat, anders Privé;
 - in Notitie: "Werkvoorbereiding [JJJJ-MM-DD]" en de boodschappenlijst in één regel.
 
-Wil de gebruiker er tijd voor, doe dan een voorstel voor een eigen blok zonder gasten, met de tijd uit de werkvoorbereiding, volgens `agenda.md`. Titel: `Werkblok klus: [klus]`. Het woord werkblok maakt het blok flexibel. Sluit af met "Geef me een go". Zonder go zet je niets.
+Wil de gebruiker er tijd voor, doe dan een voorstel voor een eigen blok zonder gasten, met de tijd uit de werkvoorbereiding, volgens `agenda.md`. Titel: `Werkblok klus: [klus]`. Het woord werkblok maakt het blok flexibel. Sluit af met "Geef me een go". Zonder go zet je niets. Heeft de klus delen, stel dan één blok per deel voor, of alleen het eerste deel als de gebruiker dat liever wil.
+
+**Het klusuur.** Staan er na deze klus drie of meer kleine klussen open in het register, elk van hooguit 30 minuten, bied dan aan ze te bundelen: "Zal ik [klus], [klus] en [klus] samen in één klusuur zetten?" Na een ja: een voorstel voor één blok van een uur, titel `Werkblok klusuur`, met de klussen in de beschrijving, volgens `agenda.md`. Sluit af met "Geef me een go". Hooguit één klusuur per week.
+
+**Een to-do-app.** De klus gaat in het register, ook als bij Taken in de Instellingen een to-do-app staat. Zeg dat één keer: "Ik zet klussen in je register, nog niet in [app]."
+
+**Onderhoud dat terugkomt.** Komt de klus elk jaar of elk seizoen terug (de cv-ketel, de dakgoot, de buitenkraan), en staat de module Huis en klussen aan, bied dan aan hem in Huis en onderhoud te zetten (`huis.md`). Staat de module uit, bied aan hem aan te zetten.
 
 In de lichte opzet is er geen register. Geef de werkvoorbereiding en de boodschappenlijst dan als tekst, om te kopiëren.
 

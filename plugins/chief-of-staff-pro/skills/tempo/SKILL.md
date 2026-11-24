@@ -5,7 +5,7 @@ description: 'Relax-module van Chief of Staff...and stuff: bewaakt je tempo vanu
 
 # Tempo (Relax)
 
-*Chief of Staff...and stuff · Relax.* Versie 0.4, 17 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
+*Chief of Staff...and stuff · Relax.* Versie 0.5, 24 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
 
 Een natuurlijk tempo. Je bewaakt het vanuit de agenda. Je meet geen stress, stelt geen diagnose en slaat niets op over hoe het met de gebruiker gaat.
 

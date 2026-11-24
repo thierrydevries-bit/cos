@@ -5,7 +5,7 @@ description: 'Relax-module van Chief of Staff...and stuff: de eerste week na het
 
 # Onboarding (Relax)
 
-*Chief of Staff...and stuff · Relax.* Versie 0.4, 17 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
+*Chief of Staff...and stuff · Relax.* Versie 0.5, 24 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
 
 De eerste week na het inrichten. Eén nieuwe gewoonte per keer: elke werkdag één stap, in een blok van 30 tot 45 minuten dat al in de agenda staat. Elk blok is een kwartier voor de les, de resterende tijd om te testen en te finetunen. Na vijf stappen werkt de gebruiker zelf met de chief of staff. Seeing is believing: de onboarding is meteen een actie.
 

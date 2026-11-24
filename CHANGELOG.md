@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.12.0 en Relax 0.5.0 · 24 november 2026
+- **Nieuw: de module Huis en klussen.** Zeg `/huis`. Hij houdt onderhoud bij dat terugkomt: apparaten en installaties, de tuin, auto en fiets, en de maand waarin je paspoort of ID-kaart verloopt. Zeg "[wat] is gedaan", dan weet hij wanneer het weer moet. Een termijn noemt hij alleen met bron, van de fabrikant of de handleiding. Vindt hij er geen, dan kies je zelf.
+- **Waar ligt wat.** Zeg "zet weg: kerstverlichting, zolder". Later vraag je "waar ligt de kerstverlichting?" en krijg je de plek, met een kooplijstje voor wat ontbreekt.
+- **De grote schoonmaak.** Per ding de vraag: kan iemand anders dit nog gebruiken? Vijf stapels: stort, kringloop of tweedehands, rommelmarkt, weggeven en bewaren. Hij zoekt de milieustraat, de kringloop en goede doelen bij je in de buurt op, met openingstijden en bron. Brengen doe je zelf.
+- **Een klus nu, beter.** Een foto mag. Een klus van meer dan een halfuur krijgt delen van hooguit 30 minuten. Liggen er drie kleine klussen, dan biedt hij een klusuur aan.
+- **Inrichten met klikvragen.** Een module aanzetten gaat met één vraag tegelijk, en het antwoord bepaalt de volgende vraag. Stoppen kan altijd. Zeg /huis om verder te gaan waar je was.
+- **Je to-do-app.** Bij het inrichten vraagt hij welke to-do-app je gebruikt en of er een koppeling voor is. Hij schrijft er nog niet in: taken gaan naar je register.
+- **Paspoort en ID-kaart:** hij bewaart alleen de maand waarin het document verloopt. Nooit een nummer, een foto of waar het ligt.
+- **Relax 0.5.0: seintjes voor het huis.** Met de module Huis en klussen. Een vorstcheck voor de buitenkraan van oktober tot en met april, alleen als er vorst verwacht wordt. In de weekreview: onderhoud dat eraan komt, een document dat binnen drie maanden verloopt, spullen voor het nieuwe seizoen en de grote schoonmaak in april en oktober. Hooguit één regel in de briefing en twee in de weekreview.
+- **Uitzetten kan.** Zeg "zet huis uit". Je register blijft staan.
+- **Gebruik je de plug-in al?** Zeg `/huis`. De rest werkt zoals het werkte.
+
 ## 1.11.0 · 20 november 2026
 - **Nieuw: klussen voorbereiden.** Noem een kleine klus, zoals een plint ophangen of een lamp vervangen. Hij zoekt uit hoe het moet, wat je nodig hebt, waar je het haalt en wat het ongeveer kost, met de bron en de datum bij elke prijs. Wil je het uitbesteden, dan krijg je een tekst om de klus te plaatsen. Kopen en klussen doe je zelf.
 - **Eerlijk over veiligheid.** Bij elektra, gas, water, dragende muren of mogelijk asbest zegt hij wanneer een vakman verstandiger is.
