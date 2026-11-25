@@ -5,7 +5,7 @@ description: 'Relax-module van Chief of Staff...and stuff: de eerste week na het
 
 # Onboarding (Relax)
 
-*Chief of Staff...and stuff · Relax.* Versie 0.5, 24 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
+*Chief of Staff...and stuff · Relax.* Versie 0.5.1, 25 november 2026. Relax heette eerder Pro. De technische naam van de plug-in is nog `chief-of-staff-pro`.
 
 De eerste week na het inrichten. Eén nieuwe gewoonte per keer: elke werkdag één stap, in een blok van 30 tot 45 minuten dat al in de agenda staat. Elk blok is een kwartier voor de les, de resterende tijd om te testen en te finetunen. Na vijf stappen werkt de gebruiker zelf met de chief of staff. Seeing is believing: de onboarding is meteen een actie.
 
@@ -21,9 +21,9 @@ De onboarding werkt voor wie zelf inricht en voor wie samen inricht in een sessi
 | 2 | Lees je briefing en reageer met één woord. Laat één mail klaarzetten | Antwoord ligt al klaar | 30 min |
 | 3 | Praat één keer tegen je telefoon: "zet op de lijst: ..." | Niets meer onthouden | 30 min |
 | 4 | Maak je hoofd leeg (`/hoofd-leegmaken`) | Alles staat op één lijst | 45 min |
-| 5 | Lees je eerste weekreview en keur één regel goed | Hij leert van je | 30 min |
+| 5 | Lees je weekreview en keur één regel goed | Hij leert van je | 30 min |
 
-**Welke dag is het?** Dag 1 is de startdatum: de dag van het inrichten, of de dag waarop de gebruiker de onboarding start. Stap 2, 3 en 4 vallen op de eerstvolgende werkdagen uit de Instellingen, in die volgorde. Stap 5 valt op de dag van de eerste weekreview na stap 4. Tussen stap 4 en stap 5 kunnen dagen zonder stap zitten. Op die dagen zeg je niets over de onboarding.
+**Welke dag is het?** Dag 1 is de startdatum: de dag van het inrichten, of de dag waarop de gebruiker de onboarding start. Stap 2, 3 en 4 vallen op de eerstvolgende werkdagen uit de Instellingen, in die volgorde. Stap 5 valt op de dag van de eerste weekreview na stap 4. Valt er een weekreview tussen de start en stap 5, bijvoorbeeld bij een start op woensdag of later, dan is de weekreview van stap 5 niet de eerste. Noem stap 5 daarom nooit "je eerste weekreview", maar "je weekreview". Tussen stap 4 en stap 5 kunnen dagen zonder stap zitten. Op die dagen zeg je niets over de onboarding.
 
 ## Instellingen
 
@@ -51,7 +51,7 @@ Staat de regel Onboarding al in de Instellingen? Plan dan niets opnieuw en zeg w
    - din 03-11, 08:00 tot 08:30: stap 2, je briefing en één mail
    - woe 04-11, 08:00 tot 08:30: stap 3, tegen je telefoon praten
    - don 05-11, 08:00 tot 08:45: stap 4, je hoofd leegmaken
-   - vrij 06-11, 15:30 tot 16:00: stap 5, je eerste weekreview
+   - vrij 06-11, 15:30 tot 16:00: stap 5, je weekreview
    Elk blok: een kwartier voor de les, de resterende tijd om te testen en te finetunen.
    Nog geen les? Dan is de stap in je briefing genoeg.
    Geef me een go.
@@ -60,7 +60,7 @@ Staat de regel Onboarding al in de Instellingen? Plan dan niets opnieuw en zeg w
    Stap 5 komt direct na de tijd van de weekreview, zodat de review er al is.
 4. **Na "go":** zet de blokken in de eigen agenda, zonder gasten. Titel: `Werkblok chief of staff: stap [N], [stap]`. Het woord werkblok maakt het blok flexibel (zie `agenda.md`). In de beschrijving: de stap en wat de gebruiker merkt, uit de tabel, en de regel "Een kwartier voor de les, de resterende tijd om te testen en te finetunen." Zonder go zet je niets.
 5. **Instellingen.** Zet de regel Onboarding met de startdatum in het blok Instellingen. Noemt de gebruiker een link naar het prikbord, zet die bij Prikbord. Anders blijft Prikbord leeg. In de lichte opzet pas je na een ja de opdracht van de geplande taken aan, of geef je de twee regels om te plakken. Dit is een van de keren dat je de Spelregels zelf aanvult, zoals bij het aanzetten van een module in de basis.
-6. **Afronden** in hooguit drie regels: welke blokken er staan, dat de stap van de dag elke ochtend onderaan de briefing staat, en dat de eerste weekreview stap 5 is.
+6. **Afronden** in hooguit drie regels: welke blokken er staan, dat de stap van de dag elke ochtend onderaan de briefing staat, en dat stap 5 de weekreview na stap 4 is.
 
 ## De stap van vandaag (in de briefing)
 

@@ -10,15 +10,15 @@ Altijd in een gesprek, nooit in een geplande run.
 
 | Etappe | Wanneer | Wat |
 |---|---|---|
-| Openingsvragen | stap 1b van `inrichten.md` | drie korte vragen, voor het koppelen |
+| De voorkant | stap 1b van `inrichten.md` | acht klikvragen, twee per blok, voor het koppelen |
 | Startserie | stap 8b van `inrichten.md`, na de proefbriefing | de rest van de start, met wat de scan liet zien |
 | Verdieping | `/kennismaking`, "pak kennismaking op", of een ja op de regel Kennismaking in de weekreview | één blok per keer, de gebruiker kiest welk |
 | Afronden | de derde weekreview na het inrichten | wat schuurt, en akkoord op het hele profiel |
 | Controle | "ken je mij", in een nieuw gesprek | zie Ken je mij |
 
-**Lichte opzet.** Je doet alleen de openingsvragen en de startserie. Er is geen pagina Over mij: je geeft de uitkomst als tekst, onder de kop Over mij, voor in de opdracht van de geplande taken. Bij het stoppunt bied je de andere twee blokken niet aan. Verdieping werkt niet zonder geheugen. Zeg dat als de gebruiker erom vraagt, en bied aan het geheugen in te richten. "Ken je mij" werkt alleen als de gebruiker dat blok plakt.
+**Lichte opzet.** Je doet alleen de voorkant en de startserie. Er is geen pagina Over mij: je geeft de uitkomst als tekst, onder de kop Over mij, voor in de opdracht van de geplande taken. Bij het stoppunt bied je de andere twee blokken niet aan. Verdieping werkt niet zonder geheugen. Zeg dat als de gebruiker erom vraagt, en bied aan het geheugen in te richten. "Ken je mij" werkt alleen als de gebruiker dat blok plakt.
 
-**Ingericht met een oudere versie.** Bestaat de pagina Over mij nog niet, vraag dan: "Zal ik een pagina Over mij voor je maken, naast je Spelregels?" Na een ja maak je hem aan volgens `geheugen.md` en zet je de link bij Over mij in de Instellingen. Doe daarna de openingsvragen en de startserie, tot het stoppunt. Lees eerst de Spelregels: wat daar al staat, vraag je niet opnieuw. Is het blok Mijn stem al gevuld, sla de vragen over de toon van de gebruiker dan over.
+**Ingericht met een oudere versie.** Bestaat de pagina Over mij nog niet, vraag dan: "Zal ik een pagina Over mij voor je maken, naast je Spelregels?" Na een ja maak je hem aan volgens `geheugen.md` en zet je de link bij Over mij in de Instellingen. Doe daarna de voorkant en de startserie, tot het stoppunt. Lees eerst de Spelregels: wat daar al staat, vraag je niet opnieuw. Is het blok Mijn stem al gevuld, sla de vragen over de toon van de gebruiker dan over.
 
 ## Vier blokken
 
@@ -26,32 +26,54 @@ De volgorde loopt van feiten naar gedrag, dan naar maatstaf, dan naar grenzen. E
 
 | Blok | Onderwerpen | Etappe |
 |---|---|---|
-| 1. Wie je bent | wat je doet in je eigen woorden, waar je trots op bent, met wie je het liefst werkt, waar je de chief of staff het meest voor nodig hebt | openingsvragen en startserie |
-| 2. Hoe je denkt en beslist | ideeën en sparren, beslissen, tempo, communiceren, feedback, initiatief | verdieping |
-| 3. Wat goed werk is | wanneer iets af is, een voorbeeld van werk waar je trots op bent, de toets voor tekst namens jou, waaraan je ziet dat iets niet van jou is | verdieping |
-| 4. Wat je nooit wilt zien | woorden, gedrag, opmaak, werkwijze, en waaraan je merkt dat het werkt | startserie |
+| 1. Wie je bent | je petten, waar je de chief of staff het meest voor nodig hebt, en je vaste ritmes uit de startserie | voorkant en startserie |
+| 2. Hoe je denkt en beslist | wanneer hij wacht op een go, hoe hij je mag tegenspreken; in de verdieping: met wie je het liefst werkt en spart, beslissen, tempo, communiceren, initiatief | voorkant en verdieping |
+| 3. Wat goed werk is | wanneer iets af is, hoe een tekst namens jou klinkt; in de verdieping: een voorbeeld van werk waar je trots op bent, waaraan je ziet dat iets niet van jou is | voorkant en verdieping |
+| 4. Wat je nooit wilt zien | wat je nooit wilt lezen in een tekst namens jou, wat hij nooit mag doen, en waaraan je merkt dat het werkt (Gelukt als, uit de startserie) | voorkant en startserie |
 
-Twee onderwerpen uit blok 2 horen al in de startserie: hoe de gebruiker feedback wil, en wanneer de chief of staff wacht op een go. Zonder die twee kan hij niet goed starten.
+Na de startserie zijn blok 1 en blok 4 klaar. Blok 2 en blok 3 hebben een begin en krijgen hun verdieping in de weekreview.
 
 ## De startserie
 
-**Openingsvragen** (stap 1b, voor het koppelen). Drie vragen, één tegelijk. De eerste is open, want je weet nog niets van de gebruiker. De tweede en de derde zijn klikbaar, met de opties hieronder en altijd "anders".
+**De voorkant** (stap 1b, voor het koppelen). Acht klikvragen, twee per blok, één tegelijk. Dit is het profiel, geen producttriage: vraag hier niet naar ruimtes, koppelingen of ritmes. De opties staan vast, met altijd "anders". Meer antwoorden mag. Geen open vragen.
 
-1. Wat je doet, in je eigen woorden. Bijvoorbeeld: "Iemand vraagt wat je doet. Wat zeg je als eerste?"
-2. Met wie je het liefst werkt. Opties: mensen die zelf beslissen, een vast team, particulieren, steeds andere klanten.
-3. Waar je de chief of staff het meest voor nodig hebt. Opties: overzicht over wat er ligt, mail en afspraken bijhouden, niets vergeten wat ik beloofde, tijd en rust terugkrijgen.
+*Blok 1. Wie je bent*
+1. "Welke petten draag je?" Opties: zzp'er, ondernemer met een team, leidinggevende of directie, bestuurs- of vrijwilligerswerk, ouder of mantelzorger.
+2. "Waar heb je me het meest voor nodig? Zet ze op volgorde." Opties: overzicht over wat er ligt, mail en afspraken bijhouden, niets vergeten wat ik beloofde, tijd en rust terugkrijgen. Kiest de gebruiker er meer dan één zonder volgorde, vraag dan de volgorde.
+
+*Blok 2. Hoe je denkt en beslist*
+
+3. "Wanneer wacht ik op je go?" Opties: alles klaarzetten, jij kijkt; voorleggen bij alles naar klanten; voorleggen bij alles naar buiten; eerst vragen voordat ik iets klaarzet. Versturen doe je nooit, ook niet na deze vraag.
+4. "Hoe wil je tegenspraak?" Opties: direct, ook als je er niet om vraagt; alleen als het ertoe doet; met een vraag erbij; liever niet ongevraagd.
+
+*Blok 3. Wat goed werk is*
+
+5. "Wanneer is iets af voor jou?" Opties: als het klopt tot in detail; als het werkt, de rest komt later; als de ander er verder mee kan; als ik er trots op ben.
+6. "Hoe klinkt een tekst namens jou?" Opties: kort en zakelijk, persoonlijk en warm, direct en een grapje mag, zorgvuldig en volledig.
+
+*Blok 4. Wat je nooit wilt zien*
+
+7. "Wat wil je nooit lezen in een tekst namens jou?" Opties: wollige woorden en jargon, overdreven enthousiasme, lange lappen tekst, formeel en afstandelijk.
+8. "Wat wil je nooit dat ik doe?" Opties: je storen buiten werktijd, afspraken met anderen voorstellen zonder te vragen, privézaken in je briefing zetten, dingen voor je beslissen.
 
 **Na de proefbriefing** (stap 8b). Begin met de uitleg vooraf (zie Zo stel je de vragen). Daarna deze onderwerpen, in deze volgorde, voor zover ze nog niet bekend zijn:
 
-- Je zakelijke toon en je persoonlijke toon: klopt wat de scan liet zien? Is dat bij de scan al bevestigd, vraag het dan niet opnieuw.
-- Waar je trots op bent in je werk. Eén voorbeeld is genoeg.
-- Wat je nooit wilt zien in een tekst namens jou.
+- De controlevraag, als de scan botst met vraag 6. Bijvoorbeeld: "Je koos kort en zakelijk. In je mails aan klanten zie ik vaak een persoonlijke opening. Hoe zit dat?" Botst er niets, sla dit dan over.
 - Hoe de chief of staff tegen je schrijft: de keuze bij Toon (zie Toon hieronder).
-- Hoe je feedback wilt, en hoe hij je mag tegenspreken.
-- Wanneer hij moet wachten op jouw go. De opties gaan over klaarzetten en voorleggen, nooit over versturen.
 - Waar je meer ruimte voor wilt. Alleen als het in stap 4 is overgeslagen.
 - Wat hij privé in de gaten mag houden, en wat niet.
-- Open, om in te spreken: "Over drie weken is het gelukt als ..."
+- Vaste ritmes die je agenda bepalen (zie Vaste ritmes hieronder).
+- Open, om in te spreken: "Over drie weken is het gelukt als ..." Dit is de enige open vraag van het profiel.
+
+**Vaste ritmes.** Vrijwillig. Zeg eerst in één zin waarom: "Wie om de week de kinderen heeft, plant anders. Ik zet alleen het ritme in je profiel, nooit de reden." Stel dan één klikvraag: "Zijn er vaste ritmes die je agenda bepalen?" Opties: haal- en brengdagen, om de week de kinderen, zorg voor iemand, vaste sport of club, geen, sla over. Meer antwoorden mag. Vraag daarna alleen welke dagen of tijden. Is het om de week, vraag dan welke week: even of oneven.
+
+- Vraag nooit naar het waarom. "Om de week heb ik de kinderen" is genoeg.
+- Over mij krijgt alleen de agendaregel, zonder reden. Bijvoorbeeld: "om de week woensdagmiddag vrij".
+- Noemt de gebruiker zelf details over een scheiding, gezondheid of een relatie, dan blijven die in dit gesprek. Ze komen niet op Over mij.
+- De briefing, de audio en "ken je mij" noemen alleen het ritme, nooit de situatie erachter.
+- Afstemmen met een ex-partner of in een gedeelde agenda: altijd een concept, nooit zelf inplannen.
+- Na een ja zet je dezelfde regel ook in het blok Agenda van de Spelregels, achter Hard, zonder reden. Bijvoorbeeld: "vast: woensdagmiddag vrij in even weken".
+- Geen of sla over: zet niets op Over mij en niets in de Spelregels.
 
 **Het startprofiel is klaar** als de chief of staff vier dingen kan:
 
@@ -64,11 +86,11 @@ Kan hij een van de vier nog niet, stel dan nog één vraag over dat punt. Daarna
 
 ## Drie soorten vragen
 
-- **Klik:** een nieuw onderwerp, met vier opties. Maak de opties waar het kan uit wat je al weet: de antwoorden tot nu toe, de scan, het startpakket. Dat maakt de vraag persoonlijk en sneller te beantwoorden.
+- **Klik:** een nieuw onderwerp, met een paar opties. In de voorkant staan de opties vast. Daarna maak je de opties waar het kan uit wat je al weet: de antwoorden tot nu toe, de scan, het startpakket. Dat maakt de vraag persoonlijk en sneller te beantwoorden.
 - **Doorvraag:** bouwt voort op het antwoord, of vraagt om een concreet voorbeeld. "Wat hebben die drie gemeen?" "Wanneer zei je laatst nee?"
 - **Controle:** legt een antwoord naast een eerder antwoord, naast een regel of naast wat de scan liet zien. "Je zegt kort en zakelijk. In je mail aan klanten zie ik vaak een persoonlijke opening. Hoe verhouden die twee zich?" Een controlevraag werkt pas als er iets is om naast te leggen. Bij de start is dat de scan.
 
-Elk blok heeft minstens één open vraag om in te spreken. Die levert vaak het meeste op.
+De voorkant heeft geen open vragen. De startserie heeft er één: "Over drie weken is het gelukt als". In de verdieping heeft elk blok minstens één open vraag om in te spreken. Die levert vaak het meeste op.
 
 ## Zo stel je de vragen
 
@@ -120,7 +142,7 @@ Eén klikvraag in de startserie: "Hoe wil je dat ik tegen je schrijf?" Laat bij 
 
 Na de startserie stop je. Zeg: "Tot hier. Dit weet ik nu van je." Laat het profiel in een paar regels zien, en de stand: "Je profiel staat op 2 van de 4 blokken."
 
-Zeg daarna: "Er zijn nog twee blokken: hoe je denkt en beslist, en wat goed werk voor jou is. Nu doen kost ongeveer een kwartier per blok. Het kan ook in je weekreview. Wat wil je?"
+Zeg daarna: "Er zijn nog twee blokken om te verdiepen: hoe je denkt en beslist, en wat goed werk voor jou is. Van allebei weet ik al iets. Nu doen kost ongeveer een kwartier per blok. Het kan ook in je weekreview. Wat wil je?"
 
 Kiest de gebruiker nu, ga dan door met de verdieping. Anders ga je naar Nalezen en bevestigen.
 
@@ -128,11 +150,11 @@ Kiest de gebruiker nu, ga dan door met de verdieping. Anders ga je naar Nalezen 
 
 Wie de gebruiker is, staat op de pagina **Over mij**. Hoe de chief of staff zich gedraagt, staat in de **Spelregels**. De opbouw van Over mij staat in `geheugen.md`.
 
-- **Over mij:** de antwoorden per blok, in de woorden van de gebruiker. Alleen wat hij zelf zei of bevestigde. Elke wijziging krijgt een regel met datum onder Wijzigingen.
+- **Over mij:** de antwoorden per blok, en wat de gebruiker zelf zei. Alleen wat hij zelf zei of bevestigde. Elke wijziging krijgt een regel met datum onder Wijzigingen.
 - **Spelregels,** alleen na een ja in het gesprek:
   - het blok Mijn stem en de regels Schrijfstijl, uit de scan;
   - Ruimte voor, in het blok Focus;
-  - Gelukt als, in de Instellingen, met de datum;
+  - Gelukt als, in de Instellingen, met de datum, en op Over mij onder blok 4;
   - wat hij privé in de gaten mag houden en wat niet, als één regel onder Elke week;
   - hooguit drie regels per blok onder Geleerd, met de datum. Bijvoorbeeld: "Wacht op mijn go bij alles wat naar een klant gaat." Laat elke regel eerst zien.
 
@@ -155,7 +177,7 @@ Bij `/kennismaking`, "pak kennismaking op" of een ja op de regel in de weekrevie
 
 1. Lees de Spelregels en de pagina Over mij.
 2. Zeg in één regel wat er staat en welke blokken nog open zijn. Zijn er twee open, laat de gebruiker dan kiezen. Is de startserie nog niet gedaan, doe die dan eerst, tot het stoppunt.
-3. Loop de onderwerpen van dat blok langs, volgens Zo stel je de vragen. Reken op ongeveer een kwartier per blok.
+3. Vraag eerst de vragen van de voorkant voor dit blok die nog niet beantwoord zijn. Loop daarna de onderwerpen van de verdieping langs, volgens Zo stel je de vragen. Reken op ongeveer een kwartier per blok.
 4. Laat zien wat je toevoegt, en volg Nalezen en bevestigen.
 5. Vraag: "Nu verder met het volgende blok, of later?"
 
@@ -169,7 +191,7 @@ Alleen met geheugen, en alleen in de eerste drie weekreviews na de proefbriefing
 
 **Eerste en tweede weekreview,** zolang er een blok open is of het profiel niet bevestigd is:
 
-"**Kennismaking ([N] van 4 blokken klaar):** nog open: [blokken]. Dat kost ongeveer een kwartier. Hoe beter ik je ken, hoe minder je hoeft bij te sturen. Zeg 'pak kennismaking op'. Nu, of volgende week?"
+"**Kennismaking ([N] van 4 blokken klaar):** nog te verdiepen: [blokken]. Dat kost ongeveer een kwartier. Hoe beter ik je ken, hoe minder je hoeft bij te sturen. Zeg 'pak kennismaking op'. Nu, of volgende week?"
 
 Stond dezelfde regel er de vorige week ook, maak er dan een uitnodiging van: "Hoe langer het wacht, hoe langer ik moet raden. Zin in een kleine challenge: deze week je profiel afmaken? Zeg 'pak kennismaking op'." Gebruik hier niet de woorden "challenge accepted". Die horen bij Iets om te durven, in dezelfde review.
 
@@ -195,13 +217,13 @@ De controle. De gebruiker zegt "ken je mij" in een nieuw gesprek, het liefst bui
    - wat hij nooit wil zien;
    - hoe jij met hem samenwerkt: wanneer je doorpakt, wanneer je wacht, hoe je tegenspreekt.
 
-   Is een blok nog leeg, zeg dan dat je dat nog niet weet. Vul niets in.
+   Is een blok nog leeg, zeg dan dat je dat nog niet weet. Vul niets in. Bij vaste ritmes noem je alleen het ritme, nooit de reden.
 3. Vraag: "Klopt dit?"
 4. Klopt iets niet, pas dan de pagina Over mij aan op het woord van de gebruiker, zet een regel onder Wijzigingen en vraag opnieuw om een ja.
 
 Vind je geen pagina, zeg dan: "Ik heb nog geen pagina Over mij van je. Typ `/kennismaking`, dan maken we hem." In de lichte opzet vraag je om het blok Spelregels met de tekst Over mij eronder.
 
-De ene zin is ook een aanscherping. Wie aan het begin nog zocht naar woorden, ziet nu hoe het klinkt.
+De ene zin is ook een aanscherping: zo ziet de gebruiker hoe zijn profiel klinkt.
 
 ## Regels
 

@@ -92,7 +92,7 @@ Houden:          [afzenders die nooit worden voorgesteld, met de reden, bijv. (l
 Inboxdashboard:  [leeg, of aan met de link; alleen met Relax]
 Gelukt als:      [leeg, of de zin van de gebruiker, met de datum]
 Over mij:        [link naar de pagina of het document Over mij; niet in de lichte opzet]
-Kennismaking:    [leeg, of: gestart JJJJ-MM-DD, N van 4 blokken klaar, open: de nummers, bevestigd JJJJ-MM-DD of nog niet. Zie kennismaking.md]
+Kennismaking:    [leeg, of: gestart JJJJ-MM-DD, N van 4 blokken klaar, nog te verdiepen: de nummers, bevestigd JJJJ-MM-DD of nog niet. Zie kennismaking.md]
 Spotten:         [leeg, "nu even niet (JJJJ-MM-DD)" met de favorieten erachter, of favorieten met de soort: afzender, evenement (periode) of artiest (alleen live). Op de site heet dit de Ticketradar. Zie stap 10b van weekreview.md]
 Klussen:         [leeg, of de plaats voor een bouwmarkt, en een bouwmarkt als de gebruiker die noemt. Alleen na een ja. Zie klussen.md]
 Huis:            [alleen met module Huis en klussen: link naar Huis en onderhoud; buitenkraan ja of nee; inrichten klaar, of "inrichten bezig" met wat al gedaan is; met Relax eventueel andere maanden voor de grote schoonmaak dan april en oktober. Zie huis.md]
@@ -160,28 +160,33 @@ Persoonlijk: [een of twee eigen berichten, als de gebruiker die gaf]
 
 ## Over mij
 
-In Notion een pagina, in Google Drive een document. In de lichte opzet bestaat hij niet. Hier staat wie de gebruiker is, in zijn eigen woorden. Hoe de chief of staff zich gedraagt, staat in de Spelregels. De kennismaking vult deze pagina (`kennismaking.md`).
+In Notion een pagina, in Google Drive een document. In de lichte opzet bestaat hij niet. Hier staat wie de gebruiker is: zijn antwoorden, en wat hij zelf zei. Hoe de chief of staff zich gedraagt, staat in de Spelregels. De kennismaking vult deze pagina (`kennismaking.md`).
 
 ```
-> Wie [naam] is en hoe [naam] werkt, in eigen woorden. Alleen [naam] wijzigt dit, of de chief of staff na een ja.
+> Wie [naam] is en hoe [naam] werkt: de antwoorden van [naam], en wat [naam] zelf zei. Alleen [naam] wijzigt dit, of de chief of staff na een ja.
 
-Stand:        [N] van 4 blokken klaar, open: [nummers]
+Stand:        [N] van 4 blokken klaar, nog te verdiepen: [nummers]
 Bevestigd op: [datum, of: nog niet]
 
 ## 1. Wie ik ben
-Wat ik doe: [...]
-Waar ik trots op ben: [...]
-Met wie ik het liefst werk: [...]
-Waar ik mijn chief of staff het meest voor nodig heb: [...]
+Mijn petten: [...]
+Waar ik je voor nodig heb, op volgorde: [...]
+Vaste ritmes: [alleen het ritme, nooit de reden; leeg als overgeslagen]
 
 ## 2. Hoe ik denk en beslis
-[Leeg tot dit blok is gedaan. Ideeën en sparren, beslissen, tempo, communiceren, feedback, initiatief.]
+Wanneer je wacht op mijn go: [...]
+Hoe je me tegenspreekt: [...]
+[Verdieping: met wie ik het liefst werk en spar, beslissen, tempo, communiceren, initiatief. Leeg tot de verdieping is gedaan.]
 
 ## 3. Wat goed werk is
-[Leeg tot dit blok is gedaan. Wanneer iets af is, een voorbeeld, de toets voor tekst namens mij.]
+Wanneer iets af is: [...]
+Hoe een tekst namens mij klinkt: [...]
+[Verdieping: een voorbeeld van werk waar ik trots op ben, waaraan ik zie dat iets niet van mij is. Leeg tot de verdieping is gedaan.]
 
 ## 4. Wat ik nooit wil zien
-[Woorden, gedrag, opmaak, werkwijze. En waaraan ik merk dat het werkt.]
+In een tekst namens mij nooit: [...]
+Wat je nooit doet: [...]
+Waaraan ik merk dat het werkt: [Gelukt als]
 
 ## Wijzigingen
 [Elke wijziging met datum, één regel.]

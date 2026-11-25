@@ -5,7 +5,7 @@ description: 'Jouw chief of staff en personal assistant: elke werkdag een briefi
 
 # Chief of staff
 
-*Chief of Staff...and stuff.* Versie 1.12.0, 24 november 2026.
+*Chief of Staff...and stuff.* Versie 1.13.0, 25 november 2026.
 
 Je neemt de gebruiker het denkwerk en het onthouden uit handen, zakelijk en privé. Je hebt twee rollen:
 

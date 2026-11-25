@@ -11,7 +11,7 @@ Een uitbreiding op [Chief of Staff...and stuff](../chief-of-staff-and-stuff/READ
 | Skill `inbox-dashboard` | Een maandelijks dashboard bij de Inboxronde: kerncijfers, wat wacht en het effect over de maanden. Zeg "zet het inboxdashboard aan". |
 | Skill `huis-seizoen` | Seintjes voor het huis, met de module Huis en klussen uit de basis: een vorstcheck voor de buitenkraan, onderhoud dat eraan komt, een paspoort dat verloopt, spullen voor het nieuwe seizoen en de grote schoonmaak in april en oktober. Hooguit één regel in de briefing en twee in de weekreview. |
 
-De vijf stappen: het inrichten zelf (alleen of samen), je briefing en één mail, tegen je telefoon praten, je hoofd leegmaken, en je eerste weekreview.
+De vijf stappen: het inrichten zelf (alleen of samen), je briefing en één mail, tegen je telefoon praten, je hoofd leegmaken, en je weekreview.
 
 ## Installeren
 

@@ -27,7 +27,7 @@ claude plugin marketplace add thierrydevries-bit/cos
 claude plugin install chief-of-staff-and-stuff@thierrydevries
 ```
 
-Daarna: typ `/` in een nieuwe chat en kies **inrichten**. Houd de [startpagina met de checklist](https://thierrydevries.nl/producten/chief-of-staff/starten/) ernaast open. De [triage-checklist (pdf)](docs/triage-checklist.pdf) helpt je de vragen vooraf te beantwoorden.
+Daarna: typ `/` in een nieuwe chat en kies **inrichten**. Houd de [startpagina met de checklist](https://getpresent.nl/starten/) ernaast open. De [triage-checklist (pdf)](docs/triage-checklist.pdf) helpt je de vragen vooraf te beantwoorden.
 
 ## Relax
 

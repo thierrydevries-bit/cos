@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.13.0 en Relax 0.5.1 · 25 november 2026
+- **Inrichten begint met je profiel.** Eerst acht klikvragen over jou, twee per blok: wie je bent, hoe je beslist, wat goed werk is en wat je nooit wilt zien. Pas daarna koppel je je mail en je agenda. Hij zegt vooraf hoeveel vragen er komen. Meer antwoorden mag, en bij waar je hem voor nodig hebt zet je ze op volgorde.
+- **Je profiel heeft geen open vragen.** Alleen "over drie weken is het gelukt als" blijft open.
+- **Na de proefbriefing korter.** Je toon, wat hij privé in de gaten mag houden, je vaste ritmes en je doel. Botst de scan met hoe je zei dat je schrijft, dan vraagt hij hoe dat zit.
+- **Vaste ritmes, vrijwillig.** Haal- en brengdagen, om de week de kinderen of zorg voor iemand. Hij bewaart alleen het ritme, nooit de reden, en plant er niets in. Afstemmen met een ex-partner of in een gedeelde agenda: altijd een concept.
+- **Startpakket als klikvraag.** Ja, nee of weet ik niet.
+- **Opruimen:** bestanden met je ID, wachtwoorden of herstelcodes opent, verplaatst en hernoemt hij nooit, ook niet in een groep naar het archief. Hij herkent ze aan de naam en noemt alleen het aantal.
+- **Links naar getpresent.nl.** De startpagina is nu getpresent.nl/starten, hulp bij inrichten staat op getpresent.nl/inrichten.
+- **Relax 0.5.1:** stap 5 van de onboarding heet "je weekreview". Wie op woensdag of later start, krijgt al eerder een weekreview.
+- **Gebruik je de plug-in al?** Je profiel blijft staan. Bij `/kennismaking` krijg je in de blokken die je nog verdiept ook de nieuwe vragen.
+
 ## 1.12.0 en Relax 0.5.0 · 24 november 2026
 - **Nieuw: de module Huis en klussen.** Zeg `/huis`. Hij houdt onderhoud bij dat terugkomt: apparaten en installaties, de tuin, auto en fiets, en de maand waarin je paspoort of ID-kaart verloopt. Zeg "[wat] is gedaan", dan weet hij wanneer het weer moet. Een termijn noemt hij alleen met bron, van de fabrikant of de handleiding. Vindt hij er geen, dan kies je zelf.
 - **Waar ligt wat.** Zeg "zet weg: kerstverlichting, zolder". Later vraag je "waar ligt de kerstverlichting?" en krijg je de plek, met een kooplijstje voor wat ontbreekt.

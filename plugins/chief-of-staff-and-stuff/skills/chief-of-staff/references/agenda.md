@@ -6,7 +6,7 @@ Het doel is rust. Verschuift er iets, dan denk jij mee en stel je voor wat er me
 
 De regels staan in de Spelregels, in het blok Agenda:
 
-- **Hard:** afspraken die nooit vanzelf schuiven. Standaard: alles met anderen erin.
+- **Hard:** afspraken die nooit vanzelf schuiven. Standaard: alles met anderen erin. Een vast ritme achter Hard ("vast: woensdagmiddag vrij in even weken") telt ook als hard: plan daar niets in, ook geen eigen blok.
 - **Flexibel:** eigen blokken die mogen schuiven, bij naam. Standaard: blokken met woorden als werkblok, focus, focustijd, deep work, sport, wandelen, admin.
 - **Ruimte:** minuten tussen afspraken. Standaard 15.
 - **Reistijd** hoort bij de afspraak. De ruimte komt erbovenop.

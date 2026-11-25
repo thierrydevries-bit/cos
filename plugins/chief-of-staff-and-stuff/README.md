@@ -45,7 +45,7 @@ claude plugin install chief-of-staff-and-stuff@thierrydevries
 ## Gebruiken
 
 1. Voeg de plug-in toe en klik op het tabblad **Connectors** van de plug-in op **Connect** bij je mail, agenda en Notion (of Google Drive). Ze verschijnen daarna ook onder **Customize**, dan **Connectors**.
-2. Typ `/` in een nieuwe chat en kies **inrichten**, of zeg "richt mijn chief of staff in". Open de [startpagina](https://thierrydevries.nl/producten/chief-of-staff/starten/) ernaast: daar staat de checklist voor de stappen buiten de chat. Reken op een uur.
+2. Typ `/` in een nieuwe chat en kies **inrichten**, of zeg "richt mijn chief of staff in". Open de [startpagina](https://getpresent.nl/starten/) ernaast: daar staat de checklist voor de stappen buiten de chat. Reken op een uur.
 3. De drie geplande taken (de ochtendbriefing, de weekreview en de Inboxronde) plant hij na je ja zelf in. Kan dat niet in jouw Claude, dan geeft hij ze je om zelf te plannen.
 4. Reageer de eerste twee weken op elke briefing. Daar leert hij van.
 5. In je eerste drie weekreviews vraagt hij of je verder wilt met de kennismaking. Zeg in een nieuw gesprek "ken je mij" om te zien wat hij van je weet.
@@ -64,6 +64,6 @@ De Inboxronde is getest met Gmail, niet met Microsoft 365. Daar krijg je alleen 
 
 ## Licentie
 
-[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.nl): gebruiken en aanpassen in je eigen werk mag, ook als ondernemer, met naamsvermelding. Doorverkopen of als betaalde dienst aanbieden niet. Gemaakt door [Thierry de Vries](https://thierrydevries.nl). Hulp bij inrichten: [thierrydevries.nl/producten/chief-of-staff](https://thierrydevries.nl/producten/chief-of-staff/).
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.nl): gebruiken en aanpassen in je eigen werk mag, ook als ondernemer, met naamsvermelding. Doorverkopen of als betaalde dienst aanbieden niet. Gemaakt door [Thierry de Vries](https://thierrydevries.nl). Hulp bij inrichten: [getpresent.nl/inrichten](https://getpresent.nl/inrichten/).
 
 GTD® en Getting Things Done® zijn merken van de David Allen Company. Deze plug-in is daar niet aan verbonden.

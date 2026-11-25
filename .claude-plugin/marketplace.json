@@ -11,14 +11,14 @@
       "displayName": "Chief of Staff...and stuff",
       "source": "./plugins/chief-of-staff-and-stuff",
       "description": "Een chief of staff en personal assistant in je eigen Claude: dagelijkse briefing, toezeggingen bewaken, concepten klaarzetten en een weekreview, volgens de principes van Getting Things Done. Nederlandstalig.",
-      "homepage": "https://thierrydevries.nl/producten/chief-of-staff/"
+      "homepage": "https://getpresent.nl/"
     },
     {
       "name": "chief-of-staff-pro",
       "displayName": "Chief of Staff...and stuff · Relax",
       "source": "./plugins/chief-of-staff-pro",
       "description": "Uitbreiding op Chief of Staff...and stuff met meer begeleiding: de onboarding, één stap per werkdag in de eerste week, Tempo, het inboxdashboard en de seintjes voor het huis. Alleen naast de basis. Nederlandstalig.",
-      "homepage": "https://thierrydevries.nl/producten/chief-of-staff/"
+      "homepage": "https://getpresent.nl/"
     }
   ]
 }

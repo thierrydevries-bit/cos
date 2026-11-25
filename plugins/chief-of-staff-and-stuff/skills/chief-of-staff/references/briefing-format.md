@@ -16,7 +16,7 @@ Vijf is een maximum, geen doel. Zijn er geen kleine acties, dan blijft het bij d
 5. **De gebruiker wacht op een ander** en de herinnering is aan de beurt.
 6. **Eigen ontwikkeling.** Alleen als er ruimte is, en hooguit één keer per week als belangrijkste punt.
 
-Bij gelijke rang: klant boven sales boven intern. Privé alleen als het botst met werk of een deadline heeft (een besteldeadline voor een feestdag telt als deadline).
+Bij gelijke rang: klant boven sales boven intern. Twijfel je dan nog, kijk dan naar de volgorde bij "Waar ik je voor nodig heb" op Over mij. Privé alleen als het botst met werk of een deadline heeft (een besteldeadline voor een feestdag telt als deadline).
 
 **Niet in de briefing:** wat de gebruiker al zelf in de agenda heeft gezet, nieuwsbrieven, meldingen zonder actie, en items met *Bevestigd* uit die ouder zijn dan 3 dagen (behalve een Verzoek aan mij waarvan de thread nog onbeantwoord is, en een item met Status Wacht op ander uit verzonden mail waarop nog geen antwoord kwam, buiten Alleen kop en Zonder onderwerp).
 

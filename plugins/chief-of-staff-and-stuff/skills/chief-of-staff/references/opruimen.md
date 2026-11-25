@@ -34,8 +34,8 @@ Eén plek per keer, in een blok van een kwartier tot een half uur. Altijd in een
    | Eigen indeling | Bureaublad, Dropbox, Google Drive | De indeling blijft staan. Alleen de maandronde |
    | Appmap | een map met opnames of exports van een app | Alleen melden wat groot is. Nooit openen, nooit verplaatsen |
 
-2. **Overslaan.** Vraag: "Zijn er mappen die ik moet overslaan, bijvoorbeeld met vertrouwelijk werk?" Zet ze bij Niet openen.
-3. **Achterstand in groepen,** alleen bij een doorgeefluik. De grens van 20 geldt hier niet. Eén ja per groep, met aantal en grootte: "465 losse bestanden ouder dan 30 dagen naar Archief, per maand, 3,2 GB. Ja?" Datum, naam en grootte zijn genoeg, open niets.
+2. **Overslaan.** Vraag: "Zijn er mappen die ik moet overslaan, bijvoorbeeld met vertrouwelijk werk? Bestanden met je ID, wachtwoorden of herstelcodes sla ik altijd over, als ik ze aan de naam herken. Een scan met een gewone naam herken ik niet, dus noem zo'n map hier." Zet de mappen bij Niet openen.
+3. **Achterstand in groepen,** alleen bij een doorgeefluik. De grens van 20 geldt hier niet. Eén ja per groep, met aantal en grootte: "465 losse bestanden ouder dan 30 dagen naar Archief, per maand, 3,2 GB. Ja?" Datum, naam en grootte zijn genoeg, open niets. Bestanden onder de regel ID, wachtwoorden en herstelcodes gaan nooit mee in een groep.
    - **De datum die telt:** de datum waarop het bestand in de map kwam, als je die kunt zien. Anders de wijzigingsdatum. Twijfel je, laat het bestand staan. Dezelfde datum bepaalt de map `JJJJ-MM`.
    - **Veel bestanden:** werk in delen en meld na elk deel wat er nog staat. Staan de tools op **Needs approval**, zeg dan vooraf dat dat veel klikken wordt. Kan de connector niet verplaatsen, geef dan de groep om zelf te doen.
 4. **Indelen op thema (optioneel).** Alleen bij een doorgeefluik, en alleen als er na stap 3 nog veel los staat. Zie hieronder.
@@ -46,7 +46,7 @@ Eén plek per keer, in een blok van een kwartier tot een half uur. Altijd in een
 
 ### Indelen op thema
 
-1. Lees alleen de namen op het hoofdniveau. Open niets.
+1. Lees alleen de namen op het hoofdniveau. Open niets. Bestanden onder de regel ID, wachtwoorden en herstelcodes blijven buiten de indeling.
 2. Stel een indeling voor met genummerde mappen, zodat ze bovenaan staan. De mappen volgen uit wat er staat, de lijst ligt niet vast. Bijvoorbeeld: 01 Klanten, 02 Content, 03 Administratie, 04 Claude en skills, 05 Foto's en screenshots.
 3. Haal klantnamen uit de bestandsnamen en, als die er zijn, uit Projecten. Maak per klant een submap. Een naam onder Alleen kop of Zonder onderwerp wordt geen map en geen voorbeeld.
 4. Bundel losse skill-bestanden in één map.
@@ -65,9 +65,9 @@ In de eerste weekreview van de maand, voor de plekken die je in die run bereikt.
 
 **Een ja op een aantal geldt alleen voor de archiefregel.** Bij kandidaten laat je eerst de lijst zien en verplaats je pas na een ja op die lijst. Tel vlak voor het verplaatsen opnieuw, en vraag het nieuwe aantal als het afwijkt.
 
-1. **Archiefregel.** Per doorgeefluik één groep, één ja.
+1. **Archiefregel.** Per doorgeefluik één groep, één ja. Bestanden onder de regel ID, wachtwoorden en herstelcodes gaan nooit mee.
 2. **Nieuwe losse bestanden.** Staat er een indeling onder Geleerd, stel dan de bestaande mappen voor. De rest gaat met de archiefregel mee.
-3. **Kandidaten**, hooguit 20 per keer. `Archief`, "Op te ruimen" en de afgesproken mappen tellen niet mee.
+3. **Kandidaten**, hooguit 20 per keer. `Archief`, "Op te ruimen", de afgesproken mappen en bestanden onder de regel ID, wachtwoorden en herstelcodes tellen niet mee.
    - een zip naast een uitgepakte map met dezelfde naam;
    - dubbel uitgepakte mappen: `map`, `map 2`, `map 3`;
    - installatiebestanden: `.dmg`, `.pkg`, en `.exe` op een Mac;
@@ -84,7 +84,7 @@ In de eerste weekreview van de maand, voor de plekken die je in die run bereikt.
 ## Controle
 
 - **Dubbel** is pas dubbel bij zelfde naam én zelfde grootte. Vergelijk bij mappen de volledige lijst met paden en groottes.
-- **Met een shell op de computer:** vergelijk met Python ook de inhoud (`os.walk`, `getsize`, `hashlib`). Reken niet op `md5`. Zonder shell zeg je "lijkt dubbel".
+- **Met een shell op de computer:** vergelijk met Python ook de inhoud (`os.walk`, `getsize`, `hashlib`). Reken niet op `md5`. Zonder shell zeg je "lijkt dubbel". Nooit bij bestanden onder de regel ID, wachtwoorden en herstelcodes: die vergelijk je niet.
 - **Mappen:** stel alleen een gelijke kopie voor. De map zonder nummer blijft staan. Heeft de kopie unieke bestanden, laat hem dan staan en zeg dat.
 - **Nooit overschrijven.** Bestaat de naam al op de nieuwe plek, laat het bestand dan staan en meld het.
 - Kun je de grootte niet zien, noem dan alleen het aantal.
@@ -94,6 +94,7 @@ In de eerste weekreview van de maand, voor de plekken die je in die run bereikt.
 - Nooit verwijderen, nooit de prullenbak legen, nooit iets delen of de rechten wijzigen.
 - Niet openen en Alleen kop gelden ook hier: zulke mappen en bestanden sla je over.
 - **Vertrouwelijk en persoonlijk blijven staan.** Dat zijn mappen met vertrouwelijk werk, opnames van gesprekken en bestanden over gezondheid, financiën, relaties of therapie. Open ze niet en noem hun namen niet: "persoonlijk, overgeslagen: [aantal]". Verplaatsen alleen als de gebruiker de map of het bestand zelf aanwijst.
+- **ID, wachtwoorden en herstelcodes blijven altijd staan.** Bestanden met een ID-bewijs, wachtwoorden, herstelcodes of 2FA-codes, of met een naam die daarop lijkt, open, verplaats en hernoem je nooit. Ook niet als de gebruiker de map aanwijst. Herken ze op naam: paspoort, ID of ID-kaart als heel woord (niet in "video" of "idee"), rijbewijs, DigiD, BSN, wachtwoord, password, recovery, recovery phrase, herstelcode, backup codes, 2FA, authenticator, en bestanden van een wachtwoordmanager of sleutels (`.kdbx`, `.1pux`, `.pem`, `.key`). Ze tellen nooit mee in een groep, een lijst met kandidaten of een indeling: haal ze eruit voordat je telt. Noem alleen het aantal: "persoonlijk, overgeslagen: [aantal]".
 - **In het Briefinglog en onder Geleerd** staan alleen groepen en aantallen, nooit bestandsnamen.
 - **Bestanden die alleen in de cloud staan:** niet openen of ophalen, want dan download je ze. Alleen naam, grootte en datum.
 - **Gesynchroniseerde mappen:** verplaatsen synchroniseert mee naar de cloud. Zeg dat vooraf.
